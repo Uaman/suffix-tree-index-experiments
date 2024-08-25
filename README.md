@@ -21,7 +21,7 @@ To launch the project please check src/main/resources/config.properties.template
 mvn test -DindexType=$indexType -DindexSize=$indexSize
 ```
 
-* $indexType options
+$indexType options:
 	- SUFFIX_TREE
 	- ELASTIC_TREE
 	- MYSQL_TREE
