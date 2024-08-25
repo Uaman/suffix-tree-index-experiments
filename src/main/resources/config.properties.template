@@ -1,0 +1,23 @@
+# Elastic credentials
+elasticServerUrl=http://...
+elasticUser=elasticUser
+elasticPassword=password
+elasticFingerprint=elasticFingerprint
+elasticIndexName=elasticIndexName
+
+# MySQL credentials
+mysqlServerUrl=jdbc:mysql://mysql01:3306/test_db
+mysqlUser=root
+mysqlPassword=passowrd
+mysqlTableName=mysql_index
+
+# PostgreSQL credentials
+postgresServerUrl=jdbc:postgresql://tender_knuth:5432/suffixIndex
+postgresUser=postgres
+postgresPassword=password
+postgresTableName=postgres_index
+postgresSchema=suffixIndex
+
+# ClickHouse credentials
+clickhouseHost=jdbc:ch://clickhouse-server/index
+clickhouseTableName=clickhouse_index
