@@ -22,6 +22,6 @@ public class IndexesFactory {
         } else if (indexType == IndexType.CLICKHOUSE_TREE) {
             return new ClickHouseIndex();
         }
-        return null;
+        return new SuffixTreeIndex();
     }
 }
