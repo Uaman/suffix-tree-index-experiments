@@ -1,0 +1,273 @@
+>>>>dbName=clickhousequery="T", queryType=startsWithQuery, querySubtype=big_result, duration=18022666 ns, resultSize=25565, dataSize=500000<<<<
+>>>>dbName=clickhousequery="An", queryType=startsWithQuery, querySubtype=big_result, duration=9384959 ns, resultSize=2113, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ca", queryType=startsWithQuery, querySubtype=big_result, duration=9034584 ns, resultSize=20107, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Da", queryType=startsWithQuery, querySubtype=big_result, duration=8658208 ns, resultSize=8012, dataSize=500000<<<<
+>>>>dbName=clickhousequery="De", queryType=startsWithQuery, querySubtype=big_result, duration=8008208 ns, resultSize=4511, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Na", queryType=startsWithQuery, querySubtype=big_result, duration=8031792 ns, resultSize=4069, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mas", queryType=startsWithQuery, querySubtype=big_result, duration=8634916 ns, resultSize=570, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ka", queryType=startsWithQuery, querySubtype=big_result, duration=8689458 ns, resultSize=7540, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mc", queryType=startsWithQuery, querySubtype=big_result, duration=7949250 ns, resultSize=875, dataSize=500000<<<<
+>>>>dbName=clickhousequery="W", queryType=startsWithQuery, querySubtype=big_result, duration=7303459 ns, resultSize=19677, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ro", queryType=startsWithQuery, querySubtype=big_result, duration=7681209 ns, resultSize=5224, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sa", queryType=startsWithQuery, querySubtype=big_result, duration=7950958 ns, resultSize=11439, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Dc", queryType=startsWithQuery, querySubtype=small_result, duration=7518333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pr", queryType=startsWithQuery, querySubtype=small_result, duration=7010916 ns, resultSize=11, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mn", queryType=startsWithQuery, querySubtype=small_result, duration=7288583 ns, resultSize=20, dataSize=500000<<<<
+>>>>dbName=clickhousequery="na", queryType=startsWithQuery, querySubtype=small_result, duration=7438416 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ka", queryType=startsWithQuery, querySubtype=small_result, duration=6701750 ns, resultSize=19, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant ", queryType=startsWithQuery, querySubtype=small_result, duration=6430542 ns, resultSize=26, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mira ", queryType=startsWithQuery, querySubtype=small_result, duration=6618875 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Wa ", queryType=startsWithQuery, querySubtype=small_result, duration=7363209 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=clickhousequery="W ", queryType=startsWithQuery, querySubtype=small_result, duration=6909208 ns, resultSize=21, dataSize=500000<<<<
+>>>>dbName=clickhousequery="St R", queryType=startsWithQuery, querySubtype=small_result, duration=6436208 ns, resultSize=11, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miquel", queryType=startsWithQuery, querySubtype=small_result, duration=6072542 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ca ", queryType=startsWithQuery, querySubtype=empty_result, duration=7508000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="kp", queryType=startsWithQuery, querySubtype=empty_result, duration=7049125 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="proa", queryType=startsWithQuery, querySubtype=empty_result, duration=6294833 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" ", queryType=startsWithQuery, querySubtype=empty_result, duration=6870000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Aa ", queryType=startsWithQuery, querySubtype=empty_result, duration=7532333 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="vb", queryType=startsWithQuery, querySubtype=empty_result, duration=6537916 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miquel de  ", queryType=startsWithQuery, querySubtype=empty_result, duration=6201750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miel", queryType=startsWithQuery, querySubtype=empty_result, duration=8153875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="lap", queryType=startsWithQuery, querySubtype=empty_result, duration=8486875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wad", queryType=startsWithQuery, querySubtype=empty_result, duration=7843625 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Travenc", queryType=searchQuery, querySubtype=small_input, duration=6354792 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Tolse", queryType=searchQuery, querySubtype=small_input, duration=5961333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="La Trava", queryType=searchQuery, querySubtype=small_input, duration=6195875 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Artenu", queryType=searchQuery, querySubtype=small_input, duration=5931875 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Prats", queryType=searchQuery, querySubtype=small_input, duration=6523625 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Llorts", queryType=searchQuery, querySubtype=small_input, duration=6386875 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Coll Pa", queryType=searchQuery, querySubtype=small_input, duration=6008709 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Lloset", queryType=searchQuery, querySubtype=small_input, duration=6213625 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Aygal", queryType=searchQuery, querySubtype=small_input, duration=6240916 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Wafd", queryType=searchQuery, querySubtype=small_input, duration=6061375 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Tut", queryType=searchQuery, querySubtype=small_input, duration=6534083 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Padah", queryType=searchQuery, querySubtype=small_input, duration=6135708 ns, resultSize=6, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Kim", queryType=searchQuery, querySubtype=small_input, duration=5942875 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=clickhousequery="olse", queryType=searchQuery, querySubtype=empty_result, duration=5789541 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Cami del Pla", queryType=searchQuery, querySubtype=empty_result, duration=5944708 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Trava", queryType=searchQuery, querySubtype=empty_result, duration=5675541 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="arimat Umm al Muwa", queryType=searchQuery, querySubtype=empty_result, duration=5721208 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Tu", queryType=searchQuery, querySubtype=empty_result, duration=5696417 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Muhammad Bin Khalid", queryType=searchQuery, querySubtype=empty_result, duration=5770292 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Forat del Riu", queryType=searchQuery, querySubtype=empty_result, duration=5945000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Shaykh Zayid lith", queryType=searchQuery, querySubtype=empty_result, duration=5958167 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Shaykh Khalid Bin Sultan al Qassimi Squar", queryType=searchQuery, querySubtype=empty_result, duration=5975209 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Coll ", queryType=searchQuery, querySubtype=empty_result, duration=5655417 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Madrasat Muhammad Bin Khalid ath Thanawiya", queryType=searchQuery, querySubtype=empty_result, duration=5833834 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Cami del Pla de les Pedres", queryType=searchQuery, querySubtype=big_input, duration=5809625 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Estany dels Meners de la Coma", queryType=searchQuery, querySubtype=big_input, duration=6084833 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Cresta del Forat dels Malhiverns", queryType=searchQuery, querySubtype=big_input, duration=5500875 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Kharimat Umm al Muwayghir", queryType=searchQuery, querySubtype=big_input, duration=5529333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Madrasat Muhammad Bin Khalid ath Thanawiyah", queryType=searchQuery, querySubtype=big_input, duration=5681333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah", queryType=searchQuery, querySubtype=big_input, duration=5752875 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Forat del Riu dels Clots de Massat", queryType=searchQuery, querySubtype=big_input, duration=5879416 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Shaykh Khalid Bin Sultan al Qassimi Square", queryType=searchQuery, querySubtype=big_input, duration=5765625 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Le Royal Meridien Beach Resort Spa Dubai", queryType=searchQuery, querySubtype=big_input, duration=5932334 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Qaryah-ye Haji Muhammad Afzal Khan", queryType=searchQuery, querySubtype=big_input, duration=5723500 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Darya-ye Khushk-e Khinjak Manah", queryType=searchQuery, querySubtype=big_input, duration=5898250 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="an", queryType=endsWithQuery, querySubtype=big_result, duration=9879833 ns, resultSize=9096, dataSize=500000<<<<
+>>>>dbName=clickhousequery="a", queryType=endsWithQuery, querySubtype=big_result, duration=10178375 ns, resultSize=59176, dataSize=500000<<<<
+>>>>dbName=clickhousequery="se", queryType=endsWithQuery, querySubtype=big_result, duration=9737708 ns, resultSize=2025, dataSize=500000<<<<
+>>>>dbName=clickhousequery="o", queryType=endsWithQuery, querySubtype=big_result, duration=9626292 ns, resultSize=29520, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ro", queryType=endsWithQuery, querySubtype=big_result, duration=9924208 ns, resultSize=2707, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mo", queryType=endsWithQuery, querySubtype=big_result, duration=9726375 ns, resultSize=485, dataSize=500000<<<<
+>>>>dbName=clickhousequery="y", queryType=endsWithQuery, querySubtype=big_result, duration=9648042 ns, resultSize=15923, dataSize=500000<<<<
+>>>>dbName=clickhousequery="es", queryType=endsWithQuery, querySubtype=big_result, duration=10100542 ns, resultSize=5729, dataSize=500000<<<<
+>>>>dbName=clickhousequery="as", queryType=endsWithQuery, querySubtype=big_result, duration=10075333 ns, resultSize=4091, dataSize=500000<<<<
+>>>>dbName=clickhousequery="c", queryType=endsWithQuery, querySubtype=big_result, duration=9698875 ns, resultSize=530, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ista", queryType=endsWithQuery, querySubtype=small_result, duration=6916791 ns, resultSize=274, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ny", queryType=endsWithQuery, querySubtype=small_result, duration=9269709 ns, resultSize=190, dataSize=500000<<<<
+>>>>dbName=clickhousequery="xy", queryType=endsWithQuery, querySubtype=small_result, duration=9110250 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="aq", queryType=endsWithQuery, querySubtype=small_result, duration=9155916 ns, resultSize=574, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ayw", queryType=endsWithQuery, querySubtype=small_result, duration=9656542 ns, resultSize=5, dataSize=500000<<<<
+>>>>dbName=clickhousequery="oc", queryType=endsWithQuery, querySubtype=small_result, duration=9172958 ns, resultSize=74, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ralm", queryType=endsWithQuery, querySubtype=small_result, duration=6502042 ns, resultSize=337, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ral", queryType=endsWithQuery, querySubtype=small_result, duration=8576292 ns, resultSize=381, dataSize=500000<<<<
+>>>>dbName=clickhousequery="neralm", queryType=endsWithQuery, querySubtype=small_result, duration=6193875 ns, resultSize=56, dataSize=500000<<<<
+>>>>dbName=clickhousequery="er", queryType=endsWithQuery, querySubtype=small_result, duration=9877458 ns, resultSize=11229, dataSize=500000<<<<
+>>>>dbName=clickhousequery="aws", queryType=endsWithQuery, querySubtype=small_result, duration=9424250 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=clickhousequery="poc", queryType=endsWithQuery, querySubtype=empty_result, duration=7469875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="qneralm", queryType=endsWithQuery, querySubtype=empty_result, duration=5968500 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="peer", queryType=endsWithQuery, querySubtype=empty_result, duration=6472625 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pwer", queryType=endsWithQuery, querySubtype=empty_result, duration=6358084 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wsee", queryType=endsWithQuery, querySubtype=empty_result, duration=6093583 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="vews", queryType=endsWithQuery, querySubtype=empty_result, duration=6044416 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="qews", queryType=endsWithQuery, querySubtype=empty_result, duration=5963000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="xews", queryType=endsWithQuery, querySubtype=empty_result, duration=6238083 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zews", queryType=endsWithQuery, querySubtype=empty_result, duration=6082875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="asd", queryType=endsWithQuery, querySubtype=empty_result, duration=9547916 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="T", queryType=notStartsQuery, querySubtype=big_result, duration=21318792 ns, resultSize=474435, dataSize=500000<<<<
+>>>>dbName=clickhousequery="An", queryType=notStartsQuery, querySubtype=big_result, duration=20604250 ns, resultSize=497887, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ca", queryType=notStartsQuery, querySubtype=big_result, duration=20294083 ns, resultSize=479893, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Da", queryType=notStartsQuery, querySubtype=big_result, duration=40230875 ns, resultSize=491988, dataSize=500000<<<<
+>>>>dbName=clickhousequery="De", queryType=notStartsQuery, querySubtype=big_result, duration=19389209 ns, resultSize=495489, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Na", queryType=notStartsQuery, querySubtype=big_result, duration=19946083 ns, resultSize=495931, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mas", queryType=notStartsQuery, querySubtype=big_result, duration=19753458 ns, resultSize=499430, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ka", queryType=notStartsQuery, querySubtype=big_result, duration=19353250 ns, resultSize=492460, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mc", queryType=notStartsQuery, querySubtype=big_result, duration=19786250 ns, resultSize=499125, dataSize=500000<<<<
+>>>>dbName=clickhousequery="W", queryType=notStartsQuery, querySubtype=big_result, duration=18973708 ns, resultSize=480323, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ro", queryType=notStartsQuery, querySubtype=big_result, duration=89157084 ns, resultSize=494776, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sa", queryType=notStartsQuery, querySubtype=big_result, duration=19608834 ns, resultSize=488561, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Dc", queryType=notStartsQuery, querySubtype=small_result, duration=19383958 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pr", queryType=notStartsQuery, querySubtype=small_result, duration=44886333 ns, resultSize=499989, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mn", queryType=notStartsQuery, querySubtype=small_result, duration=22054833 ns, resultSize=499980, dataSize=500000<<<<
+>>>>dbName=clickhousequery="na", queryType=notStartsQuery, querySubtype=small_result, duration=20319417 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ka", queryType=notStartsQuery, querySubtype=small_result, duration=21813334 ns, resultSize=499981, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant ", queryType=notStartsQuery, querySubtype=small_result, duration=22122417 ns, resultSize=499974, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Mira ", queryType=notStartsQuery, querySubtype=small_result, duration=22278958 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Wa ", queryType=notStartsQuery, querySubtype=small_result, duration=21020458 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=clickhousequery="W ", queryType=notStartsQuery, querySubtype=small_result, duration=21413417 ns, resultSize=499979, dataSize=500000<<<<
+>>>>dbName=clickhousequery="St R", queryType=notStartsQuery, querySubtype=small_result, duration=19616166 ns, resultSize=499989, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miquel", queryType=notStartsQuery, querySubtype=small_result, duration=19402333 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Ca ", queryType=notStartsQuery, querySubtype=empty_result, duration=65978208 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="kp", queryType=notStartsQuery, querySubtype=empty_result, duration=20815542 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="proa", queryType=notStartsQuery, querySubtype=empty_result, duration=44652584 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" ", queryType=notStartsQuery, querySubtype=empty_result, duration=20106541 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Aa ", queryType=notStartsQuery, querySubtype=empty_result, duration=20286916 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="vb", queryType=notStartsQuery, querySubtype=empty_result, duration=19131875 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miquel de  ", queryType=notStartsQuery, querySubtype=empty_result, duration=19025208 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Sant Miel", queryType=notStartsQuery, querySubtype=empty_result, duration=18869417 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="lap", queryType=notStartsQuery, querySubtype=empty_result, duration=19804041 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wad", queryType=notStartsQuery, querySubtype=empty_result, duration=69635417 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="an", queryType=notEndsQuery, querySubtype=big_result, duration=19817042 ns, resultSize=490904, dataSize=500000<<<<
+>>>>dbName=clickhousequery="a", queryType=notEndsQuery, querySubtype=big_result, duration=18444708 ns, resultSize=440824, dataSize=500000<<<<
+>>>>dbName=clickhousequery="se", queryType=notEndsQuery, querySubtype=big_result, duration=20178666 ns, resultSize=497975, dataSize=500000<<<<
+>>>>dbName=clickhousequery="o", queryType=notEndsQuery, querySubtype=big_result, duration=19076208 ns, resultSize=470480, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ro", queryType=notEndsQuery, querySubtype=big_result, duration=20131125 ns, resultSize=497293, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mo", queryType=notEndsQuery, querySubtype=big_result, duration=20787458 ns, resultSize=499515, dataSize=500000<<<<
+>>>>dbName=clickhousequery="y", queryType=notEndsQuery, querySubtype=big_result, duration=19499875 ns, resultSize=484077, dataSize=500000<<<<
+>>>>dbName=clickhousequery="es", queryType=notEndsQuery, querySubtype=big_result, duration=19795625 ns, resultSize=494271, dataSize=500000<<<<
+>>>>dbName=clickhousequery="as", queryType=notEndsQuery, querySubtype=big_result, duration=19872125 ns, resultSize=495909, dataSize=500000<<<<
+>>>>dbName=clickhousequery="c", queryType=notEndsQuery, querySubtype=big_result, duration=20218916 ns, resultSize=499470, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ista", queryType=notEndsQuery, querySubtype=small_result, duration=19324000 ns, resultSize=499726, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ny", queryType=notEndsQuery, querySubtype=small_result, duration=19895000 ns, resultSize=499810, dataSize=500000<<<<
+>>>>dbName=clickhousequery="xy", queryType=notEndsQuery, querySubtype=small_result, duration=20021041 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="aq", queryType=notEndsQuery, querySubtype=small_result, duration=92274541 ns, resultSize=499426, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ayw", queryType=notEndsQuery, querySubtype=small_result, duration=19835875 ns, resultSize=499995, dataSize=500000<<<<
+>>>>dbName=clickhousequery="oc", queryType=notEndsQuery, querySubtype=small_result, duration=21808667 ns, resultSize=499926, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ralm", queryType=notEndsQuery, querySubtype=small_result, duration=18996000 ns, resultSize=499663, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ral", queryType=notEndsQuery, querySubtype=small_result, duration=19508792 ns, resultSize=499619, dataSize=500000<<<<
+>>>>dbName=clickhousequery="neralm", queryType=notEndsQuery, querySubtype=small_result, duration=19183500 ns, resultSize=499944, dataSize=500000<<<<
+>>>>dbName=clickhousequery="er", queryType=notEndsQuery, querySubtype=small_result, duration=19605417 ns, resultSize=488771, dataSize=500000<<<<
+>>>>dbName=clickhousequery="aws", queryType=notEndsQuery, querySubtype=small_result, duration=19764084 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=clickhousequery="poc", queryType=notEndsQuery, querySubtype=empty_result, duration=19410458 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="qneralm", queryType=notEndsQuery, querySubtype=empty_result, duration=18919584 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="peer", queryType=notEndsQuery, querySubtype=empty_result, duration=19007084 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pwer", queryType=notEndsQuery, querySubtype=empty_result, duration=19197416 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wsee", queryType=notEndsQuery, querySubtype=empty_result, duration=80121667 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="vews", queryType=notEndsQuery, querySubtype=empty_result, duration=19119416 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="qews", queryType=notEndsQuery, querySubtype=empty_result, duration=19158292 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="xews", queryType=notEndsQuery, querySubtype=empty_result, duration=19176042 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zews", queryType=notEndsQuery, querySubtype=empty_result, duration=19366666 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="asd", queryType=notEndsQuery, querySubtype=empty_result, duration=19641958 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" de la M", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=18926625 ns, resultSize=499908, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Public", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20118458 ns, resultSize=497691, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Plaza", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=61569208 ns, resultSize=499840, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Argentina", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=23690792 ns, resultSize=499904, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anada de", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=22233834 ns, resultSize=499849, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ocky ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20835292 ns, resultSize=499529, dataSize=500000<<<<
+>>>>dbName=clickhousequery="otel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20032584 ns, resultSize=497838, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Hotel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20131125 ns, resultSize=498364, dataSize=500000<<<<
+>>>>dbName=clickhousequery="entral ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=22905666 ns, resultSize=499749, dataSize=500000<<<<
+>>>>dbName=clickhousequery="South", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=22201916 ns, resultSize=498391, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zat e reja ;New Cemetery ; of Xhafelln", queryType=notIncludesQuery, querySubtype=empty_result, duration=138012542 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ppirn", queryType=notIncludesQuery, querySubtype=empty_result, duration=19389375 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wnp", queryType=notIncludesQuery, querySubtype=empty_result, duration=19445000 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="thabbaya Mediumw", queryType=notIncludesQuery, querySubtype=empty_result, duration=18616417 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Amuntr de", queryType=notIncludesQuery, querySubtype=empty_result, duration=19006417 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="del o", queryType=notIncludesQuery, querySubtype=empty_result, duration=18958459 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anakp", queryType=notIncludesQuery, querySubtype=empty_result, duration=18869959 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anakl", queryType=notIncludesQuery, querySubtype=empty_result, duration=19693959 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="amapz", queryType=notIncludesQuery, querySubtype=empty_result, duration=19171250 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="amanln", queryType=notIncludesQuery, querySubtype=empty_result, duration=19043416 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ix", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=55429416 ns, resultSize=499149, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" Roc ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19385875 ns, resultSize=499994, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mn", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19549416 ns, resultSize=499782, dataSize=500000<<<<
+>>>>dbName=clickhousequery="n v", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19872000 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=clickhousequery="omo ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=21531459 ns, resultSize=499967, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mln", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=20103458 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19585750 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Wk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19614959 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19787083 ns, resultSize=499844, dataSize=500000<<<<
+>>>>dbName=clickhousequery="kz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19782791 ns, resultSize=499912, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19332375 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=clickhousequery="knk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19459667 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=clickhousequery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19623125 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wne Pla", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=19417583 ns, resultSize=499974, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" Yaw", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=20142917 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=clickhousequery="shkhara", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=19568333 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=clickhousequery="angounel", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=18833375 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="y de les ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=18750083 ns, resultSize=499988, dataSize=500000<<<<
+>>>>dbName=clickhousequery="sera de la ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=18888417 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="rra de la Cr", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=142390000 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=clickhousequery="epentance Creek Public Schoo", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=19890833 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="rranc de la Solana del Pas de la Ca", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=20291250 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="nsmitter ( 1170 kHz); Tow", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=20247500 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zat e reja ;New Cemetery ; of Xhafell", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=19216708 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=clickhousequery="de", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19318583 ns, resultSize=473799, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" de ", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19291583 ns, resultSize=493232, dataSize=500000<<<<
+>>>>dbName=clickhousequery="-ye", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19313750 ns, resultSize=490722, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Va", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19770584 ns, resultSize=496083, dataSize=500000<<<<
+>>>>dbName=clickhousequery="a C", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19811167 ns, resultSize=494159, dataSize=500000<<<<
+>>>>dbName=clickhousequery="st", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=18732959 ns, resultSize=467987, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Gr", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19133666 ns, resultSize=492753, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Roc", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19523666 ns, resultSize=495913, dataSize=500000<<<<
+>>>>dbName=clickhousequery="am", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19073417 ns, resultSize=464950, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ill", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19116083 ns, resultSize=479879, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Park", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=18379167 ns, resultSize=488580, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" de la M", queryType=includesQuery, querySubtype=big_result/big_input, duration=6004084 ns, resultSize=92, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Public", queryType=includesQuery, querySubtype=big_result/big_input, duration=6009750 ns, resultSize=2309, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Plaza", queryType=includesQuery, querySubtype=big_result/big_input, duration=6461417 ns, resultSize=160, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Argentina", queryType=includesQuery, querySubtype=big_result/big_input, duration=6058667 ns, resultSize=96, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anada de", queryType=includesQuery, querySubtype=big_result/big_input, duration=6156750 ns, resultSize=151, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ocky ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6003791 ns, resultSize=471, dataSize=500000<<<<
+>>>>dbName=clickhousequery="otel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6301167 ns, resultSize=2162, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Hotel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6118167 ns, resultSize=1636, dataSize=500000<<<<
+>>>>dbName=clickhousequery="entral ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6498916 ns, resultSize=251, dataSize=500000<<<<
+>>>>dbName=clickhousequery="South", queryType=includesQuery, querySubtype=big_result/big_input, duration=6565000 ns, resultSize=1609, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zat e reja ;New Cemetery ; of Xhafelln", queryType=includesQuery, querySubtype=empty_result, duration=5612125 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ppirn", queryType=includesQuery, querySubtype=empty_result, duration=5903876 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wnp", queryType=includesQuery, querySubtype=empty_result, duration=7599750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="thabbaya Mediumw", queryType=includesQuery, querySubtype=empty_result, duration=5596709 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Amuntr de", queryType=includesQuery, querySubtype=empty_result, duration=5836250 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="del o", queryType=includesQuery, querySubtype=empty_result, duration=5916125 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anakp", queryType=includesQuery, querySubtype=empty_result, duration=6142709 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="anakl", queryType=includesQuery, querySubtype=empty_result, duration=6179333 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="amapz", queryType=includesQuery, querySubtype=empty_result, duration=6050250 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="amanln", queryType=includesQuery, querySubtype=empty_result, duration=6017291 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ix", queryType=includesQuery, querySubtype=small_result/small_input, duration=8271833 ns, resultSize=851, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" Roc ", queryType=includesQuery, querySubtype=small_result/small_input, duration=6042208 ns, resultSize=6, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mn", queryType=includesQuery, querySubtype=small_result/small_input, duration=7858208 ns, resultSize=218, dataSize=500000<<<<
+>>>>dbName=clickhousequery="n v", queryType=includesQuery, querySubtype=small_result/small_input, duration=7702333 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=clickhousequery="omo ", queryType=includesQuery, querySubtype=small_result/small_input, duration=6128042 ns, resultSize=33, dataSize=500000<<<<
+>>>>dbName=clickhousequery="mln", queryType=includesQuery, querySubtype=small_result/small_input, duration=7750417 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=7431667 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Wk", queryType=includesQuery, querySubtype=small_result/small_input, duration=7352083 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zz", queryType=includesQuery, querySubtype=small_result/small_input, duration=7797667 ns, resultSize=156, dataSize=500000<<<<
+>>>>dbName=clickhousequery="kz", queryType=includesQuery, querySubtype=small_result/small_input, duration=7807209 ns, resultSize=88, dataSize=500000<<<<
+>>>>dbName=clickhousequery="pz", queryType=includesQuery, querySubtype=small_result/small_input, duration=7504416 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=clickhousequery="knk", queryType=includesQuery, querySubtype=small_result/small_input, duration=7643459 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=clickhousequery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=7120250 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=clickhousequery="wne Pla", queryType=includesQuery, querySubtype=small_result/big_input, duration=5875792 ns, resultSize=26, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" Yaw", queryType=includesQuery, querySubtype=small_result/big_input, duration=6002875 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=clickhousequery="shkhara", queryType=includesQuery, querySubtype=small_result/big_input, duration=5863959 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=clickhousequery="angounel", queryType=includesQuery, querySubtype=small_result/big_input, duration=5940417 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="y de les ", queryType=includesQuery, querySubtype=small_result/big_input, duration=5802417 ns, resultSize=12, dataSize=500000<<<<
+>>>>dbName=clickhousequery="sera de la ", queryType=includesQuery, querySubtype=small_result/big_input, duration=6095375 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="rra de la Cr", queryType=includesQuery, querySubtype=small_result/big_input, duration=5880250 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=clickhousequery="epentance Creek Public Schoo", queryType=includesQuery, querySubtype=small_result/big_input, duration=5611958 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="rranc de la Solana del Pas de la Ca", queryType=includesQuery, querySubtype=small_result/big_input, duration=5550417 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="nsmitter ( 1170 kHz); Tow", queryType=includesQuery, querySubtype=small_result/big_input, duration=12531875 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=clickhousequery="zat e reja ;New Cemetery ; of Xhafell", queryType=includesQuery, querySubtype=small_result/big_input, duration=28574000 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=clickhousequery="de", queryType=includesQuery, querySubtype=big_result/small_input, duration=13104708 ns, resultSize=26201, dataSize=500000<<<<
+>>>>dbName=clickhousequery=" de ", queryType=includesQuery, querySubtype=big_result/small_input, duration=6946125 ns, resultSize=6768, dataSize=500000<<<<
+>>>>dbName=clickhousequery="-ye", queryType=includesQuery, querySubtype=big_result/small_input, duration=7809250 ns, resultSize=9278, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Va", queryType=includesQuery, querySubtype=big_result/small_input, duration=7997792 ns, resultSize=3917, dataSize=500000<<<<
+>>>>dbName=clickhousequery="a C", queryType=includesQuery, querySubtype=big_result/small_input, duration=9752709 ns, resultSize=5841, dataSize=500000<<<<
+>>>>dbName=clickhousequery="st", queryType=includesQuery, querySubtype=big_result/small_input, duration=8331833 ns, resultSize=32013, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Gr", queryType=includesQuery, querySubtype=big_result/small_input, duration=8139250 ns, resultSize=7247, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Roc", queryType=includesQuery, querySubtype=big_result/small_input, duration=7792000 ns, resultSize=4087, dataSize=500000<<<<
+>>>>dbName=clickhousequery="am", queryType=includesQuery, querySubtype=big_result/small_input, duration=9850792 ns, resultSize=35050, dataSize=500000<<<<
+>>>>dbName=clickhousequery="ill", queryType=includesQuery, querySubtype=big_result/small_input, duration=8595042 ns, resultSize=20121, dataSize=500000<<<<
+>>>>dbName=clickhousequery="Park", queryType=includesQuery, querySubtype=big_result/small_input, duration=6912458 ns, resultSize=11420, dataSize=500000<<<<

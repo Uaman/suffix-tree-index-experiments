@@ -1,0 +1,273 @@
+>>>>dbName=suffixTreequery="T", queryType=startsWithQuery, querySubtype=big_result, duration=31443209 ns, resultSize=38498, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="An", queryType=startsWithQuery, querySubtype=big_result, duration=3063916 ns, resultSize=5203, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ca", queryType=startsWithQuery, querySubtype=big_result, duration=21717417 ns, resultSize=34709, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Da", queryType=startsWithQuery, querySubtype=big_result, duration=8406917 ns, resultSize=12606, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="De", queryType=startsWithQuery, querySubtype=big_result, duration=5075333 ns, resultSize=9750, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Na", queryType=startsWithQuery, querySubtype=big_result, duration=3094958 ns, resultSize=7236, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mas", queryType=startsWithQuery, querySubtype=big_result, duration=434667 ns, resultSize=1177, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ka", queryType=startsWithQuery, querySubtype=big_result, duration=7530625 ns, resultSize=17821, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mc", queryType=startsWithQuery, querySubtype=big_result, duration=402458 ns, resultSize=899, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="W", queryType=startsWithQuery, querySubtype=big_result, duration=10237792 ns, resultSize=21572, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ro", queryType=startsWithQuery, querySubtype=big_result, duration=3198250 ns, resultSize=6981, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sa", queryType=startsWithQuery, querySubtype=big_result, duration=10217792 ns, resultSize=23777, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Dc", queryType=startsWithQuery, querySubtype=small_result, duration=9708 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pr", queryType=startsWithQuery, querySubtype=small_result, duration=4417 ns, resultSize=11, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mn", queryType=startsWithQuery, querySubtype=small_result, duration=13125 ns, resultSize=28, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="na", queryType=startsWithQuery, querySubtype=small_result, duration=1834 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ka", queryType=startsWithQuery, querySubtype=small_result, duration=7084 ns, resultSize=20, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant ", queryType=startsWithQuery, querySubtype=small_result, duration=9042 ns, resultSize=27, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mira ", queryType=startsWithQuery, querySubtype=small_result, duration=13458 ns, resultSize=20, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Wa ", queryType=startsWithQuery, querySubtype=small_result, duration=6750 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="W ", queryType=startsWithQuery, querySubtype=small_result, duration=8541 ns, resultSize=21, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="St R", queryType=startsWithQuery, querySubtype=small_result, duration=6625 ns, resultSize=11, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miquel", queryType=startsWithQuery, querySubtype=small_result, duration=3958 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ca ", queryType=startsWithQuery, querySubtype=empty_result, duration=54250 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="kp", queryType=startsWithQuery, querySubtype=empty_result, duration=2292 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="proa", queryType=startsWithQuery, querySubtype=empty_result, duration=1833 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" ", queryType=startsWithQuery, querySubtype=empty_result, duration=875 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Aa ", queryType=startsWithQuery, querySubtype=empty_result, duration=2208 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="vb", queryType=startsWithQuery, querySubtype=empty_result, duration=1500 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miquel de  ", queryType=startsWithQuery, querySubtype=empty_result, duration=4083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miel", queryType=startsWithQuery, querySubtype=empty_result, duration=3042 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="lap", queryType=startsWithQuery, querySubtype=empty_result, duration=1917 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wad", queryType=startsWithQuery, querySubtype=empty_result, duration=2292 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Travenc", queryType=searchQuery, querySubtype=small_input, duration=15959 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Tolse", queryType=searchQuery, querySubtype=small_input, duration=4000 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="La Trava", queryType=searchQuery, querySubtype=small_input, duration=5167 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Artenu", queryType=searchQuery, querySubtype=small_input, duration=4958 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Prats", queryType=searchQuery, querySubtype=small_input, duration=4500 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Llorts", queryType=searchQuery, querySubtype=small_input, duration=3166 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Coll Pa", queryType=searchQuery, querySubtype=small_input, duration=4416 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Lloset", queryType=searchQuery, querySubtype=small_input, duration=17166 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Aygal", queryType=searchQuery, querySubtype=small_input, duration=3792 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Wafd", queryType=searchQuery, querySubtype=small_input, duration=3542 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Tut", queryType=searchQuery, querySubtype=small_input, duration=2625 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Padah", queryType=searchQuery, querySubtype=small_input, duration=3959 ns, resultSize=6, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Kim", queryType=searchQuery, querySubtype=small_input, duration=3500 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="olse", queryType=searchQuery, querySubtype=empty_result, duration=2083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Cami del Pla", queryType=searchQuery, querySubtype=empty_result, duration=5375 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Trava", queryType=searchQuery, querySubtype=empty_result, duration=3167 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="arimat Umm al Muwa", queryType=searchQuery, querySubtype=empty_result, duration=2708 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Tu", queryType=searchQuery, querySubtype=empty_result, duration=1459 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Muhammad Bin Khalid", queryType=searchQuery, querySubtype=empty_result, duration=6416 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Forat del Riu", queryType=searchQuery, querySubtype=empty_result, duration=6458 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Shaykh Zayid lith", queryType=searchQuery, querySubtype=empty_result, duration=5709 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Shaykh Khalid Bin Sultan al Qassimi Squar", queryType=searchQuery, querySubtype=empty_result, duration=5125 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Coll ", queryType=searchQuery, querySubtype=empty_result, duration=2417 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Madrasat Muhammad Bin Khalid ath Thanawiya", queryType=searchQuery, querySubtype=empty_result, duration=6291 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Cami del Pla de les Pedres", queryType=searchQuery, querySubtype=big_input, duration=4875 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Estany dels Meners de la Coma", queryType=searchQuery, querySubtype=big_input, duration=6500 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Cresta del Forat dels Malhiverns", queryType=searchQuery, querySubtype=big_input, duration=7208 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Kharimat Umm al Muwayghir", queryType=searchQuery, querySubtype=big_input, duration=4375 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Madrasat Muhammad Bin Khalid ath Thanawiyah", queryType=searchQuery, querySubtype=big_input, duration=4625 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah", queryType=searchQuery, querySubtype=big_input, duration=7125 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Forat del Riu dels Clots de Massat", queryType=searchQuery, querySubtype=big_input, duration=3958 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Shaykh Khalid Bin Sultan al Qassimi Square", queryType=searchQuery, querySubtype=big_input, duration=15209 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Le Royal Meridien Beach Resort Spa Dubai", queryType=searchQuery, querySubtype=big_input, duration=5708 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Qaryah-ye Haji Muhammad Afzal Khan", queryType=searchQuery, querySubtype=big_input, duration=8250 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Darya-ye Khushk-e Khinjak Manah", queryType=searchQuery, querySubtype=big_input, duration=8792 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="an", queryType=endsWithQuery, querySubtype=big_result, duration=586584 ns, resultSize=13058, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="a", queryType=endsWithQuery, querySubtype=big_result, duration=5358458 ns, resultSize=172030, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="se", queryType=endsWithQuery, querySubtype=big_result, duration=174125 ns, resultSize=4655, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="o", queryType=endsWithQuery, querySubtype=big_result, duration=2513833 ns, resultSize=77795, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ro", queryType=endsWithQuery, querySubtype=big_result, duration=392292 ns, resultSize=8897, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mo", queryType=endsWithQuery, querySubtype=big_result, duration=49250 ns, resultSize=1003, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="y", queryType=endsWithQuery, querySubtype=big_result, duration=1143208 ns, resultSize=29726, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="es", queryType=endsWithQuery, querySubtype=big_result, duration=554875 ns, resultSize=12836, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="as", queryType=endsWithQuery, querySubtype=big_result, duration=337500 ns, resultSize=11067, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="c", queryType=endsWithQuery, querySubtype=big_result, duration=178584 ns, resultSize=6012, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ista", queryType=endsWithQuery, querySubtype=small_result, duration=68042 ns, resultSize=1844, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ny", queryType=endsWithQuery, querySubtype=small_result, duration=45083 ns, resultSize=1306, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="xy", queryType=endsWithQuery, querySubtype=small_result, duration=2875 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="aq", queryType=endsWithQuery, querySubtype=small_result, duration=48333 ns, resultSize=1004, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ayw", queryType=endsWithQuery, querySubtype=small_result, duration=2875 ns, resultSize=5, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="oc", queryType=endsWithQuery, querySubtype=small_result, duration=10250 ns, resultSize=222, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ralm", queryType=endsWithQuery, querySubtype=small_result, duration=14417 ns, resultSize=337, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ral", queryType=endsWithQuery, querySubtype=small_result, duration=34042 ns, resultSize=901, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="neralm", queryType=endsWithQuery, querySubtype=small_result, duration=5875 ns, resultSize=56, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="er", queryType=endsWithQuery, querySubtype=small_result, duration=628625 ns, resultSize=18422, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="aws", queryType=endsWithQuery, querySubtype=small_result, duration=3250 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="poc", queryType=endsWithQuery, querySubtype=empty_result, duration=3750 ns, resultSize=5, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="qneralm", queryType=endsWithQuery, querySubtype=empty_result, duration=2708 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="peer", queryType=endsWithQuery, querySubtype=empty_result, duration=3500 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pwer", queryType=endsWithQuery, querySubtype=empty_result, duration=2416 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wsee", queryType=endsWithQuery, querySubtype=empty_result, duration=2750 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="vews", queryType=endsWithQuery, querySubtype=empty_result, duration=2375 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="qews", queryType=endsWithQuery, querySubtype=empty_result, duration=1166 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="xews", queryType=endsWithQuery, querySubtype=empty_result, duration=1791 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zews", queryType=endsWithQuery, querySubtype=empty_result, duration=2917 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="asd", queryType=endsWithQuery, querySubtype=empty_result, duration=1584 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="T", queryType=notStartsQuery, querySubtype=big_result, duration=44865042 ns, resultSize=961502, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="An", queryType=notStartsQuery, querySubtype=big_result, duration=16341833 ns, resultSize=994797, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ca", queryType=notStartsQuery, querySubtype=big_result, duration=29113875 ns, resultSize=965291, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Da", queryType=notStartsQuery, querySubtype=big_result, duration=101373917 ns, resultSize=987394, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="De", queryType=notStartsQuery, querySubtype=big_result, duration=17101292 ns, resultSize=990250, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Na", queryType=notStartsQuery, querySubtype=big_result, duration=16079250 ns, resultSize=992764, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mas", queryType=notStartsQuery, querySubtype=big_result, duration=13073667 ns, resultSize=998823, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ka", queryType=notStartsQuery, querySubtype=big_result, duration=20737458 ns, resultSize=982179, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mc", queryType=notStartsQuery, querySubtype=big_result, duration=9656167 ns, resultSize=999101, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="W", queryType=notStartsQuery, querySubtype=big_result, duration=106650292 ns, resultSize=978428, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ro", queryType=notStartsQuery, querySubtype=big_result, duration=14702458 ns, resultSize=993019, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sa", queryType=notStartsQuery, querySubtype=big_result, duration=22838959 ns, resultSize=976223, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Dc", queryType=notStartsQuery, querySubtype=small_result, duration=52523250 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pr", queryType=notStartsQuery, querySubtype=small_result, duration=11919541 ns, resultSize=999989, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mn", queryType=notStartsQuery, querySubtype=small_result, duration=12800750 ns, resultSize=999972, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="na", queryType=notStartsQuery, querySubtype=small_result, duration=45571750 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ka", queryType=notStartsQuery, querySubtype=small_result, duration=10436000 ns, resultSize=999980, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant ", queryType=notStartsQuery, querySubtype=small_result, duration=11768167 ns, resultSize=999973, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Mira ", queryType=notStartsQuery, querySubtype=small_result, duration=45798792 ns, resultSize=999980, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Wa ", queryType=notStartsQuery, querySubtype=small_result, duration=10835250 ns, resultSize=999996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="W ", queryType=notStartsQuery, querySubtype=small_result, duration=84373000 ns, resultSize=999979, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="St R", queryType=notStartsQuery, querySubtype=small_result, duration=511378208 ns, resultSize=999989, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miquel", queryType=notStartsQuery, querySubtype=small_result, duration=12360417 ns, resultSize=999996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Ca ", queryType=notStartsQuery, querySubtype=empty_result, duration=17976042 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="kp", queryType=notStartsQuery, querySubtype=empty_result, duration=11916416 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="proa", queryType=notStartsQuery, querySubtype=empty_result, duration=9720000 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" ", queryType=notStartsQuery, querySubtype=empty_result, duration=9875916 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Aa ", queryType=notStartsQuery, querySubtype=empty_result, duration=11349500 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="vb", queryType=notStartsQuery, querySubtype=empty_result, duration=8647875 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miquel de  ", queryType=notStartsQuery, querySubtype=empty_result, duration=10668125 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Sant Miel", queryType=notStartsQuery, querySubtype=empty_result, duration=10347958 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="lap", queryType=notStartsQuery, querySubtype=empty_result, duration=8380042 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wad", queryType=notStartsQuery, querySubtype=empty_result, duration=10467625 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="an", queryType=notEndsQuery, querySubtype=big_result, duration=24366167 ns, resultSize=986942, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="a", queryType=notEndsQuery, querySubtype=big_result, duration=19405084 ns, resultSize=827970, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="se", queryType=notEndsQuery, querySubtype=big_result, duration=144143250 ns, resultSize=995345, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="o", queryType=notEndsQuery, querySubtype=big_result, duration=15515209 ns, resultSize=922205, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ro", queryType=notEndsQuery, querySubtype=big_result, duration=12576291 ns, resultSize=991103, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mo", queryType=notEndsQuery, querySubtype=big_result, duration=10309291 ns, resultSize=998997, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="y", queryType=notEndsQuery, querySubtype=big_result, duration=85240042 ns, resultSize=970274, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="es", queryType=notEndsQuery, querySubtype=big_result, duration=12428250 ns, resultSize=987164, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="as", queryType=notEndsQuery, querySubtype=big_result, duration=50781125 ns, resultSize=988933, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="c", queryType=notEndsQuery, querySubtype=big_result, duration=13646333 ns, resultSize=993988, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ista", queryType=notEndsQuery, querySubtype=small_result, duration=11087417 ns, resultSize=998156, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ny", queryType=notEndsQuery, querySubtype=small_result, duration=41673584 ns, resultSize=998694, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="xy", queryType=notEndsQuery, querySubtype=small_result, duration=11929166 ns, resultSize=999996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="aq", queryType=notEndsQuery, querySubtype=small_result, duration=12291250 ns, resultSize=998996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ayw", queryType=notEndsQuery, querySubtype=small_result, duration=58242583 ns, resultSize=999995, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="oc", queryType=notEndsQuery, querySubtype=small_result, duration=646770834 ns, resultSize=999778, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ralm", queryType=notEndsQuery, querySubtype=small_result, duration=12555334 ns, resultSize=999663, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ral", queryType=notEndsQuery, querySubtype=small_result, duration=12582000 ns, resultSize=999099, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="neralm", queryType=notEndsQuery, querySubtype=small_result, duration=12551333 ns, resultSize=999944, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="er", queryType=notEndsQuery, querySubtype=small_result, duration=14113542 ns, resultSize=981578, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="aws", queryType=notEndsQuery, querySubtype=small_result, duration=10397375 ns, resultSize=999996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="poc", queryType=notEndsQuery, querySubtype=empty_result, duration=9545916 ns, resultSize=999995, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="qneralm", queryType=notEndsQuery, querySubtype=empty_result, duration=14574125 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="peer", queryType=notEndsQuery, querySubtype=empty_result, duration=11009708 ns, resultSize=999998, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pwer", queryType=notEndsQuery, querySubtype=empty_result, duration=10451125 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wsee", queryType=notEndsQuery, querySubtype=empty_result, duration=8857792 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="vews", queryType=notEndsQuery, querySubtype=empty_result, duration=9208167 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="qews", queryType=notEndsQuery, querySubtype=empty_result, duration=12173042 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="xews", queryType=notEndsQuery, querySubtype=empty_result, duration=12214708 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zews", queryType=notEndsQuery, querySubtype=empty_result, duration=133147833 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="asd", queryType=notEndsQuery, querySubtype=empty_result, duration=10418625 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" de la M", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=28064292 ns, resultSize=999543, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Public", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=14568708 ns, resultSize=997661, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Plaza", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=84505708 ns, resultSize=999643, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Argentina", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=10517792 ns, resultSize=999899, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anada de", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=10524625 ns, resultSize=999837, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ocky ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=46234458 ns, resultSize=999478, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="otel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=13810375 ns, resultSize=996411, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Hotel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=50495000 ns, resultSize=997064, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="entral ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=10787833 ns, resultSize=999649, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="South", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=13341959 ns, resultSize=998050, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zat e reja ;New Cemetery ; of Xhafelln", queryType=notIncludesQuery, querySubtype=empty_result, duration=54110208 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ppirn", queryType=notIncludesQuery, querySubtype=empty_result, duration=10402583 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wnp", queryType=notIncludesQuery, querySubtype=empty_result, duration=553002501 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="thabbaya Mediumw", queryType=notIncludesQuery, querySubtype=empty_result, duration=11903750 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Amuntr de", queryType=notIncludesQuery, querySubtype=empty_result, duration=12105208 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="del o", queryType=notIncludesQuery, querySubtype=empty_result, duration=11949000 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anakp", queryType=notIncludesQuery, querySubtype=empty_result, duration=16303333 ns, resultSize=999992, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anakl", queryType=notIncludesQuery, querySubtype=empty_result, duration=10221708 ns, resultSize=999998, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="amapz", queryType=notIncludesQuery, querySubtype=empty_result, duration=12092667 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="amanln", queryType=notIncludesQuery, querySubtype=empty_result, duration=9685375 ns, resultSize=1000000, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ix", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=14544458 ns, resultSize=997023, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" Roc ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11672042 ns, resultSize=999993, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mn", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=10744500 ns, resultSize=999120, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="n v", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11888500 ns, resultSize=999988, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="omo ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=13449792 ns, resultSize=999930, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mln", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=134086917 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11886750 ns, resultSize=999993, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Wk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11879333 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=12094458 ns, resultSize=999672, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="kz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11769209 ns, resultSize=999898, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=88223584 ns, resultSize=999985, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="knk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=11993208 ns, resultSize=999997, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=50614042 ns, resultSize=999993, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wne Pla", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=13214000 ns, resultSize=999958, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" Yaw", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=11944583 ns, resultSize=999992, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="shkhara", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=48265917 ns, resultSize=999997, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="angounel", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=14051166 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="y de les ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=31279584 ns, resultSize=999988, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="sera de la ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=51263375 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="rra de la Cr", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=12087709 ns, resultSize=999997, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="epentance Creek Public Schoo", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=539353417 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="rranc de la Solana del Pas de la Ca", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=13116875 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="nsmitter ( 1170 kHz); Tow", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=13262208 ns, resultSize=999996, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zat e reja ;New Cemetery ; of Xhafell", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=13107583 ns, resultSize=999999, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="de", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=39099542 ns, resultSize=943232, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" de ", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=25405875 ns, resultSize=979653, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="-ye", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19989750 ns, resultSize=990720, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Va", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=16729625 ns, resultSize=993044, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="a C", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=18637000 ns, resultSize=987103, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="st", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=40769500 ns, resultSize=945105, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Gr", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=109746416 ns, resultSize=982033, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Roc", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=15231625 ns, resultSize=992821, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="am", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=37525708 ns, resultSize=939724, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ill", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=21409083 ns, resultSize=971802, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Park", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=14111625 ns, resultSize=987354, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" de la M", queryType=includesQuery, querySubtype=big_result/big_input, duration=172250 ns, resultSize=457, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Public", queryType=includesQuery, querySubtype=big_result/big_input, duration=359000 ns, resultSize=2339, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Plaza", queryType=includesQuery, querySubtype=big_result/big_input, duration=143375 ns, resultSize=357, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Argentina", queryType=includesQuery, querySubtype=big_result/big_input, duration=18584 ns, resultSize=101, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anada de", queryType=includesQuery, querySubtype=big_result/big_input, duration=85542 ns, resultSize=163, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ocky ", queryType=includesQuery, querySubtype=big_result/big_input, duration=155084 ns, resultSize=522, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="otel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=1742542 ns, resultSize=3589, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Hotel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=1222708 ns, resultSize=2936, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="entral ", queryType=includesQuery, querySubtype=big_result/big_input, duration=126375 ns, resultSize=351, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="South", queryType=includesQuery, querySubtype=big_result/big_input, duration=717916 ns, resultSize=1950, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zat e reja ;New Cemetery ; of Xhafelln", queryType=includesQuery, querySubtype=empty_result, duration=4083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ppirn", queryType=includesQuery, querySubtype=empty_result, duration=1959 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wnp", queryType=includesQuery, querySubtype=empty_result, duration=1625 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="thabbaya Mediumw", queryType=includesQuery, querySubtype=empty_result, duration=2417 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Amuntr de", queryType=includesQuery, querySubtype=empty_result, duration=2542 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="del o", queryType=includesQuery, querySubtype=empty_result, duration=2208 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anakp", queryType=includesQuery, querySubtype=empty_result, duration=3834 ns, resultSize=8, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="anakl", queryType=includesQuery, querySubtype=empty_result, duration=1833 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="amapz", queryType=includesQuery, querySubtype=empty_result, duration=1791 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="amanln", queryType=includesQuery, querySubtype=empty_result, duration=1958 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ix", queryType=includesQuery, querySubtype=small_result/small_input, duration=941083 ns, resultSize=2977, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" Roc ", queryType=includesQuery, querySubtype=small_result/small_input, duration=4625 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mn", queryType=includesQuery, querySubtype=small_result/small_input, duration=296542 ns, resultSize=880, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="n v", queryType=includesQuery, querySubtype=small_result/small_input, duration=6458 ns, resultSize=12, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="omo ", queryType=includesQuery, querySubtype=small_result/small_input, duration=30791 ns, resultSize=70, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="mln", queryType=includesQuery, querySubtype=small_result/small_input, duration=1709 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=3167 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Wk", queryType=includesQuery, querySubtype=small_result/small_input, duration=1125 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zz", queryType=includesQuery, querySubtype=small_result/small_input, duration=130084 ns, resultSize=328, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="kz", queryType=includesQuery, querySubtype=small_result/small_input, duration=31083 ns, resultSize=102, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="pz", queryType=includesQuery, querySubtype=small_result/small_input, duration=6417 ns, resultSize=15, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="knk", queryType=includesQuery, querySubtype=small_result/small_input, duration=1875 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=1625 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="wne Pla", queryType=includesQuery, querySubtype=small_result/big_input, duration=17167 ns, resultSize=42, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" Yaw", queryType=includesQuery, querySubtype=small_result/big_input, duration=4333 ns, resultSize=8, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="shkhara", queryType=includesQuery, querySubtype=small_result/big_input, duration=4334 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="angounel", queryType=includesQuery, querySubtype=small_result/big_input, duration=3459 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="y de les ", queryType=includesQuery, querySubtype=small_result/big_input, duration=5417 ns, resultSize=12, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="sera de la ", queryType=includesQuery, querySubtype=small_result/big_input, duration=4667 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="rra de la Cr", queryType=includesQuery, querySubtype=small_result/big_input, duration=6375 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="epentance Creek Public Schoo", queryType=includesQuery, querySubtype=small_result/big_input, duration=3458 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="rranc de la Solana del Pas de la Ca", queryType=includesQuery, querySubtype=small_result/big_input, duration=3375 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="nsmitter ( 1170 kHz); Tow", queryType=includesQuery, querySubtype=small_result/big_input, duration=5916 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="zat e reja ;New Cemetery ; of Xhafell", queryType=includesQuery, querySubtype=small_result/big_input, duration=1958 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="de", queryType=includesQuery, querySubtype=big_result/small_input, duration=25078709 ns, resultSize=56768, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery=" de ", queryType=includesQuery, querySubtype=big_result/small_input, duration=78717333 ns, resultSize=20347, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="-ye", queryType=includesQuery, querySubtype=big_result/small_input, duration=5023167 ns, resultSize=9280, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Va", queryType=includesQuery, querySubtype=big_result/small_input, duration=3058542 ns, resultSize=6956, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="a C", queryType=includesQuery, querySubtype=big_result/small_input, duration=5536416 ns, resultSize=12897, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="st", queryType=includesQuery, querySubtype=big_result/small_input, duration=26691500 ns, resultSize=54895, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Gr", queryType=includesQuery, querySubtype=big_result/small_input, duration=7485250 ns, resultSize=17967, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Roc", queryType=includesQuery, querySubtype=big_result/small_input, duration=1788084 ns, resultSize=7179, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="am", queryType=includesQuery, querySubtype=big_result/small_input, duration=21987000 ns, resultSize=60276, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="ill", queryType=includesQuery, querySubtype=big_result/small_input, duration=7044750 ns, resultSize=28198, dataSize=1000000<<<<
+>>>>dbName=suffixTreequery="Park", queryType=includesQuery, querySubtype=big_result/small_input, duration=1459750 ns, resultSize=12646, dataSize=1000000<<<<

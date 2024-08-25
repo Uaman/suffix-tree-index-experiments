@@ -1,0 +1,273 @@
+postgres,startsWithQuery,big_result,T,9831541,2622,50000
+postgres,startsWithQuery,big_result,An,2717959,182,50000
+postgres,startsWithQuery,big_result,Ca,2378833,472,50000
+postgres,startsWithQuery,big_result,Da,2879708,2958,50000
+postgres,startsWithQuery,big_result,De,2468250,914,50000
+postgres,startsWithQuery,big_result,Na,2409417,827,50000
+postgres,startsWithQuery,big_result,Mas,2363333,156,50000
+postgres,startsWithQuery,big_result,Ka,2742084,1653,50000
+postgres,startsWithQuery,big_result,Mc,2375958,0,50000
+postgres,startsWithQuery,big_result,W,2613375,1025,50000
+postgres,startsWithQuery,big_result,Ro,2883917,469,50000
+postgres,startsWithQuery,big_result,Sa,2831167,2048,50000
+postgres,startsWithQuery,small_result,Dc,2260708,0,50000
+postgres,startsWithQuery,small_result,pr,2156000,0,50000
+postgres,startsWithQuery,small_result,Mn,2295458,0,50000
+postgres,startsWithQuery,small_result,na,2524250,0,50000
+postgres,startsWithQuery,small_result,ka,2439458,0,50000
+postgres,startsWithQuery,small_result,Sant ,2362042,26,50000
+postgres,startsWithQuery,small_result,Mira ,2226083,4,50000
+postgres,startsWithQuery,small_result,Wa ,2180125,0,50000
+postgres,startsWithQuery,small_result,W ,2206541,0,50000
+postgres,startsWithQuery,small_result,St R,2183042,6,50000
+postgres,startsWithQuery,small_result,Sant Miquel,2192833,4,50000
+postgres,startsWithQuery,empty_result,Ca ,2172542,0,50000
+postgres,startsWithQuery,empty_result,kp,2157750,0,50000
+postgres,startsWithQuery,empty_result,proa,2143250,0,50000
+postgres,startsWithQuery,empty_result, ,2122208,0,50000
+postgres,startsWithQuery,empty_result,Aa ,2180667,0,50000
+postgres,startsWithQuery,empty_result,vb,2197959,0,50000
+postgres,startsWithQuery,empty_result,Sant Miquel de  ,2193291,0,50000
+postgres,startsWithQuery,empty_result,Sant Miel,2167292,0,50000
+postgres,startsWithQuery,empty_result,lap,2127792,0,50000
+postgres,startsWithQuery,empty_result,wad,2126583,0,50000
+postgres,searchQuery,small_input,Travenc,2999875,1,50000
+postgres,searchQuery,small_input,Tolse,2034583,1,50000
+postgres,searchQuery,small_input,La Trava,1945667,2,50000
+postgres,searchQuery,small_input,Artenu,1954708,0,50000
+postgres,searchQuery,small_input,Prats,1927542,1,50000
+postgres,searchQuery,small_input,Llorts,1932750,1,50000
+postgres,searchQuery,small_input,Coll Pa,1936917,2,50000
+postgres,searchQuery,small_input,Lloset,1931541,1,50000
+postgres,searchQuery,small_input,Aygal,1919209,2,50000
+postgres,searchQuery,small_input,Wafd,1927708,1,50000
+postgres,searchQuery,small_input,Tut,1907666,1,50000
+postgres,searchQuery,small_input,Padah,1932667,4,50000
+postgres,searchQuery,small_input,Kim,1895042,2,50000
+postgres,searchQuery,empty_result,olse,1900083,0,50000
+postgres,searchQuery,empty_result,Cami del Pla,1934084,0,50000
+postgres,searchQuery,empty_result,Trava,1917125,0,50000
+postgres,searchQuery,empty_result,arimat Umm al Muwa,1902334,0,50000
+postgres,searchQuery,empty_result,Tu,1889917,0,50000
+postgres,searchQuery,empty_result,Muhammad Bin Khalid,1904333,0,50000
+postgres,searchQuery,empty_result,Forat del Riu,1942791,0,50000
+postgres,searchQuery,empty_result,Shaykh Zayid lith,1918208,0,50000
+postgres,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,1927250,0,50000
+postgres,searchQuery,empty_result,Coll ,1922125,0,50000
+postgres,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,1895333,0,50000
+postgres,searchQuery,big_input,Cami del Pla de les Pedres,1937042,1,50000
+postgres,searchQuery,big_input,Estany dels Meners de la Coma,1906500,1,50000
+postgres,searchQuery,big_input,Cresta del Forat dels Malhiverns,1905833,1,50000
+postgres,searchQuery,big_input,Kharimat Umm al Muwayghir,1901875,1,50000
+postgres,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,1893792,1,50000
+postgres,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,1901000,1,50000
+postgres,searchQuery,big_input,Forat del Riu dels Clots de Massat,1897792,1,50000
+postgres,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,1900125,1,50000
+postgres,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,1905417,1,50000
+postgres,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,1914875,1,50000
+postgres,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,1898334,1,50000
+postgres,endsWithQuery,big_result,an,5112541,3102,50000
+postgres,endsWithQuery,big_result,a,4317625,3235,50000
+postgres,endsWithQuery,big_result,se,3017542,23,50000
+postgres,endsWithQuery,big_result,o,3091667,369,50000
+postgres,endsWithQuery,big_result,ro,3268916,79,50000
+postgres,endsWithQuery,big_result,mo,3003375,8,50000
+postgres,endsWithQuery,big_result,y,3495333,3495,50000
+postgres,endsWithQuery,big_result,es,3254834,375,50000
+postgres,endsWithQuery,big_result,as,4167542,189,50000
+postgres,endsWithQuery,big_result,c,3294167,76,50000
+postgres,endsWithQuery,small_result,ista,3626583,6,50000
+postgres,endsWithQuery,small_result,ny,3578500,43,50000
+postgres,endsWithQuery,small_result,xy,3375375,0,50000
+postgres,endsWithQuery,small_result,aq,4524459,372,50000
+postgres,endsWithQuery,small_result,ayw,4583666,3,50000
+postgres,endsWithQuery,small_result,oc,3944000,0,50000
+postgres,endsWithQuery,small_result,ralm,3925125,0,50000
+postgres,endsWithQuery,small_result,ral,3794291,16,50000
+postgres,endsWithQuery,small_result,neralm,3980750,0,50000
+postgres,endsWithQuery,small_result,er,4116125,379,50000
+postgres,endsWithQuery,small_result,aws,4102834,2,50000
+postgres,endsWithQuery,empty_result,poc,3077083,0,50000
+postgres,endsWithQuery,empty_result,qneralm,2956125,0,50000
+postgres,endsWithQuery,empty_result,peer,2921750,0,50000
+postgres,endsWithQuery,empty_result,pwer,2891041,0,50000
+postgres,endsWithQuery,empty_result,wsee,2944708,0,50000
+postgres,endsWithQuery,empty_result,vews,2886500,0,50000
+postgres,endsWithQuery,empty_result,qews,2891667,0,50000
+postgres,endsWithQuery,empty_result,xews,2867625,0,50000
+postgres,endsWithQuery,empty_result,zews,2928833,0,50000
+postgres,endsWithQuery,empty_result,asd,3858666,0,50000
+postgres,notStartsQuery,big_result,T,9707459,47378,50000
+postgres,notStartsQuery,big_result,An,8113500,49818,50000
+postgres,notStartsQuery,big_result,Ca,7389625,49528,50000
+postgres,notStartsQuery,big_result,Da,6642000,47042,50000
+postgres,notStartsQuery,big_result,De,7148625,49086,50000
+postgres,notStartsQuery,big_result,Na,7636667,49173,50000
+postgres,notStartsQuery,big_result,Mas,7965166,49844,50000
+postgres,notStartsQuery,big_result,Ka,13369542,48347,50000
+postgres,notStartsQuery,big_result,Mc,6337792,50000,50000
+postgres,notStartsQuery,big_result,W,6266291,48975,50000
+postgres,notStartsQuery,big_result,Ro,6209584,49531,50000
+postgres,notStartsQuery,big_result,Sa,6059792,47952,50000
+postgres,notStartsQuery,small_result,Dc,6360042,50000,50000
+postgres,notStartsQuery,small_result,pr,6323000,50000,50000
+postgres,notStartsQuery,small_result,Mn,6349209,50000,50000
+postgres,notStartsQuery,small_result,na,6408458,50000,50000
+postgres,notStartsQuery,small_result,ka,12874542,50000,50000
+postgres,notStartsQuery,small_result,Sant ,6489833,49974,50000
+postgres,notStartsQuery,small_result,Mira ,6403792,49996,50000
+postgres,notStartsQuery,small_result,Wa ,6089875,50000,50000
+postgres,notStartsQuery,small_result,W ,5844792,50000,50000
+postgres,notStartsQuery,small_result,St R,5783000,49994,50000
+postgres,notStartsQuery,small_result,Sant Miquel,5738708,49996,50000
+postgres,notStartsQuery,empty_result,Ca ,5781417,50000,50000
+postgres,notStartsQuery,empty_result,kp,5774125,50000,50000
+postgres,notStartsQuery,empty_result,proa,5727125,50000,50000
+postgres,notStartsQuery,empty_result, ,5713292,50000,50000
+postgres,notStartsQuery,empty_result,Aa ,5760500,50000,50000
+postgres,notStartsQuery,empty_result,vb,5832833,50000,50000
+postgres,notStartsQuery,empty_result,Sant Miquel de  ,5844750,50000,50000
+postgres,notStartsQuery,empty_result,Sant Miel,5783542,50000,50000
+postgres,notStartsQuery,empty_result,lap,5730583,50000,50000
+postgres,notStartsQuery,empty_result,wad,5708000,50000,50000
+postgres,notEndsQuery,big_result,an,10340709,46898,50000
+postgres,notEndsQuery,big_result,a,7439709,46765,50000
+postgres,notEndsQuery,big_result,se,7215250,49977,50000
+postgres,notEndsQuery,big_result,o,7548459,49631,50000
+postgres,notEndsQuery,big_result,ro,7025292,49921,50000
+postgres,notEndsQuery,big_result,mo,6846917,49992,50000
+postgres,notEndsQuery,big_result,y,6549541,46505,50000
+postgres,notEndsQuery,big_result,es,6854000,49625,50000
+postgres,notEndsQuery,big_result,as,7629125,49811,50000
+postgres,notEndsQuery,big_result,c,6563791,49924,50000
+postgres,notEndsQuery,small_result,ista,6828375,49994,50000
+postgres,notEndsQuery,small_result,ny,6762584,49957,50000
+postgres,notEndsQuery,small_result,xy,6639667,50000,50000
+postgres,notEndsQuery,small_result,aq,7676167,49628,50000
+postgres,notEndsQuery,small_result,ayw,7780625,49997,50000
+postgres,notEndsQuery,small_result,oc,6764000,50000,50000
+postgres,notEndsQuery,small_result,ralm,6946000,50000,50000
+postgres,notEndsQuery,small_result,ral,6922958,49984,50000
+postgres,notEndsQuery,small_result,neralm,6739583,50000,50000
+postgres,notEndsQuery,small_result,er,6875417,49621,50000
+postgres,notEndsQuery,small_result,aws,7622167,49998,50000
+postgres,notEndsQuery,empty_result,poc,6621916,50000,50000
+postgres,notEndsQuery,empty_result,qneralm,6583417,50000,50000
+postgres,notEndsQuery,empty_result,peer,6576375,50000,50000
+postgres,notEndsQuery,empty_result,pwer,6541875,50000,50000
+postgres,notEndsQuery,empty_result,wsee,6659667,50000,50000
+postgres,notEndsQuery,empty_result,vews,6506292,50000,50000
+postgres,notEndsQuery,empty_result,qews,6623000,50000,50000
+postgres,notEndsQuery,empty_result,xews,6595416,50000,50000
+postgres,notEndsQuery,empty_result,zews,6628667,50000,50000
+postgres,notEndsQuery,empty_result,asd,7623000,50000,50000
+postgres,notIncludesQuery,big_result/big_input, de la M,7889083,49960,50000
+postgres,notIncludesQuery,big_result/big_input,Public,6579667,50000,50000
+postgres,notIncludesQuery,big_result/big_input,Plaza,6594500,49964,50000
+postgres,notIncludesQuery,big_result/big_input,Argentina,6679709,50000,50000
+postgres,notIncludesQuery,big_result/big_input,anada de,7699625,49998,50000
+postgres,notIncludesQuery,big_result/big_input,ocky ,6695542,50000,50000
+postgres,notIncludesQuery,big_result/big_input,otel ,6803250,49483,50000
+postgres,notIncludesQuery,big_result/big_input,Hotel ,6676833,49521,50000
+postgres,notIncludesQuery,big_result/big_input,entral ,6919584,49994,50000
+postgres,notIncludesQuery,big_result/big_input,South,6685542,49991,50000
+postgres,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,6613500,50000,50000
+postgres,notIncludesQuery,empty_result,ppirn,6644875,50000,50000
+postgres,notIncludesQuery,empty_result,wnp,6663541,50000,50000
+postgres,notIncludesQuery,empty_result,thabbaya Mediumw,6952000,50000,50000
+postgres,notIncludesQuery,empty_result,Amuntr de,7328417,50000,50000
+postgres,notIncludesQuery,empty_result,del o,6995209,50000,50000
+postgres,notIncludesQuery,empty_result,anakp,7745292,50000,50000
+postgres,notIncludesQuery,empty_result,anakl,7750083,50000,50000
+postgres,notIncludesQuery,empty_result,amapz,7605416,50000,50000
+postgres,notIncludesQuery,empty_result,amanln,7605500,50000,50000
+postgres,notIncludesQuery,small_result/small_input,ix,6779333,49914,50000
+postgres,notIncludesQuery,small_result/small_input, Roc ,7060791,49994,50000
+postgres,notIncludesQuery,small_result/small_input,mn,6669250,49983,50000
+postgres,notIncludesQuery,small_result/small_input,n v,6833334,50000,50000
+postgres,notIncludesQuery,small_result/small_input,omo ,6805250,50000,50000
+postgres,notIncludesQuery,small_result/small_input,mln,6721584,50000,50000
+postgres,notIncludesQuery,small_result/small_input,klk,6692791,50000,50000
+postgres,notIncludesQuery,small_result/small_input,Wk,6582250,50000,50000
+postgres,notIncludesQuery,small_result/small_input,zz,6598750,49987,50000
+postgres,notIncludesQuery,small_result/small_input,kz,6660041,49951,50000
+postgres,notIncludesQuery,small_result/small_input,pz,6592833,49999,50000
+postgres,notIncludesQuery,small_result/small_input,knk,6636167,50000,50000
+postgres,notIncludesQuery,small_result/small_input,klk,6609167,50000,50000
+postgres,notIncludesQuery,small_result/big_input,wne Pla,6634833,49993,50000
+postgres,notIncludesQuery,small_result/big_input, Yaw,7007708,49997,50000
+postgres,notIncludesQuery,small_result/big_input,shkhara,6692709,49999,50000
+postgres,notIncludesQuery,small_result/big_input,angounel,7671166,49999,50000
+postgres,notIncludesQuery,small_result/big_input,y de les ,6675250,49988,50000
+postgres,notIncludesQuery,small_result/big_input,sera de la ,8742042,49999,50000
+postgres,notIncludesQuery,small_result/big_input,rra de la Cr,7164167,49999,50000
+postgres,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,6917666,50000,50000
+postgres,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,6984083,49999,50000
+postgres,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,6903208,49996,50000
+postgres,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,7041917,50000,50000
+postgres,notIncludesQuery,big_result/small_input,de,7171792,46884,50000
+postgres,notIncludesQuery,big_result/small_input, de ,6995042,48608,50000
+postgres,notIncludesQuery,big_result/small_input,-ye,6391667,45941,50000
+postgres,notIncludesQuery,big_result/small_input,Va,6492541,49959,50000
+postgres,notIncludesQuery,big_result/small_input,a C,7625041,49767,50000
+postgres,notIncludesQuery,big_result/small_input,st,6639500,48892,50000
+postgres,notIncludesQuery,big_result/small_input,Gr,6590500,49835,50000
+postgres,notIncludesQuery,big_result/small_input,Roc,6595125,49854,50000
+postgres,notIncludesQuery,big_result/small_input,am,7325500,46446,50000
+postgres,notIncludesQuery,big_result/small_input,ill,6888334,49897,50000
+postgres,notIncludesQuery,big_result/small_input,Park,6863417,49932,50000
+postgres,includesQuery,big_result/big_input, de la M,4130625,40,50000
+postgres,includesQuery,big_result/big_input,Public,2922667,0,50000
+postgres,includesQuery,big_result/big_input,Plaza,2969625,36,50000
+postgres,includesQuery,big_result/big_input,Argentina,2992792,0,50000
+postgres,includesQuery,big_result/big_input,anada de,3946291,2,50000
+postgres,includesQuery,big_result/big_input,ocky ,3033417,0,50000
+postgres,includesQuery,big_result/big_input,otel ,3120333,517,50000
+postgres,includesQuery,big_result/big_input,Hotel ,2979584,479,50000
+postgres,includesQuery,big_result/big_input,entral ,3174500,6,50000
+postgres,includesQuery,big_result/big_input,South,2974875,9,50000
+postgres,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,2954625,0,50000
+postgres,includesQuery,empty_result,ppirn,2889958,0,50000
+postgres,includesQuery,empty_result,wnp,2981708,0,50000
+postgres,includesQuery,empty_result,thabbaya Mediumw,3008167,0,50000
+postgres,includesQuery,empty_result,Amuntr de,3029792,0,50000
+postgres,includesQuery,empty_result,del o,3103750,0,50000
+postgres,includesQuery,empty_result,anakp,3962459,0,50000
+postgres,includesQuery,empty_result,anakl,3988208,0,50000
+postgres,includesQuery,empty_result,amapz,3959875,0,50000
+postgres,includesQuery,empty_result,amanln,3944500,0,50000
+postgres,includesQuery,small_result/small_input,ix,3130084,86,50000
+postgres,includesQuery,small_result/small_input, Roc ,3359125,6,50000
+postgres,includesQuery,small_result/small_input,mn,2951500,17,50000
+postgres,includesQuery,small_result/small_input,n v,3128333,0,50000
+postgres,includesQuery,small_result/small_input,omo ,3111042,0,50000
+postgres,includesQuery,small_result/small_input,mln,2982625,0,50000
+postgres,includesQuery,small_result/small_input,klk,2966958,0,50000
+postgres,includesQuery,small_result/small_input,Wk,2933375,0,50000
+postgres,includesQuery,small_result/small_input,zz,2930666,13,50000
+postgres,includesQuery,small_result/small_input,kz,2964916,49,50000
+postgres,includesQuery,small_result/small_input,pz,2936333,1,50000
+postgres,includesQuery,small_result/small_input,knk,2994625,0,50000
+postgres,includesQuery,small_result/small_input,klk,2990750,0,50000
+postgres,includesQuery,small_result/big_input,wne Pla,2925334,7,50000
+postgres,includesQuery,small_result/big_input, Yaw,3643833,3,50000
+postgres,includesQuery,small_result/big_input,shkhara,3185833,1,50000
+postgres,includesQuery,small_result/big_input,angounel,4779334,1,50000
+postgres,includesQuery,small_result/big_input,y de les ,3210667,12,50000
+postgres,includesQuery,small_result/big_input,sera de la ,3121750,1,50000
+postgres,includesQuery,small_result/big_input,rra de la Cr,3252500,1,50000
+postgres,includesQuery,small_result/big_input,epentance Creek Public Schoo,3202792,0,50000
+postgres,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,3166875,1,50000
+postgres,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,3065375,4,50000
+postgres,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,2910667,0,50000
+postgres,includesQuery,big_result/small_input,de,3248250,3116,50000
+postgres,includesQuery,big_result/small_input, de ,3414417,1392,50000
+postgres,includesQuery,big_result/small_input,-ye,3280708,4059,50000
+postgres,includesQuery,big_result/small_input,Va,2856250,41,50000
+postgres,includesQuery,big_result/small_input,a C,3864708,233,50000
+postgres,includesQuery,big_result/small_input,st,3078542,1108,50000
+postgres,includesQuery,big_result/small_input,Gr,2944667,165,50000
+postgres,includesQuery,big_result/small_input,Roc,2913292,146,50000
+postgres,includesQuery,big_result/small_input,am,4118042,3554,50000
+postgres,includesQuery,big_result/small_input,ill,3132209,103,50000
+postgres,includesQuery,big_result/small_input,Park,2891291,68,50000

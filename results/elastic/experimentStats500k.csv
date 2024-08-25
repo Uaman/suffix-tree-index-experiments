@@ -1,0 +1,546 @@
+elastic,startsWithQuery,big_result,T,56596084,10,500000
+elastic,startsWithQuery,big_result,An,5943375,10,500000
+elastic,startsWithQuery,big_result,Ca,7262334,10,500000
+elastic,startsWithQuery,big_result,Da,6014583,10,500000
+elastic,startsWithQuery,big_result,De,4975334,10,500000
+elastic,startsWithQuery,big_result,Na,4984292,10,500000
+elastic,startsWithQuery,big_result,Mas,3782166,10,500000
+elastic,startsWithQuery,big_result,Ka,4522875,10,500000
+elastic,startsWithQuery,big_result,Mc,3158666,10,500000
+elastic,startsWithQuery,big_result,W,4434250,10,500000
+elastic,startsWithQuery,big_result,Ro,3785291,10,500000
+elastic,startsWithQuery,big_result,Sa,4833041,10,500000
+elastic,startsWithQuery,small_result,Dc,2624000,0,500000
+elastic,startsWithQuery,small_result,pr,3187875,10,500000
+elastic,startsWithQuery,small_result,Mn,3090375,10,500000
+elastic,startsWithQuery,small_result,na,3093416,10,500000
+elastic,startsWithQuery,small_result,ka,2995875,10,500000
+elastic,startsWithQuery,small_result,Sant ,2462042,0,500000
+elastic,startsWithQuery,small_result,Mira ,2348750,0,500000
+elastic,startsWithQuery,small_result,Wa ,2072334,0,500000
+elastic,startsWithQuery,small_result,W ,2135000,0,500000
+elastic,startsWithQuery,small_result,St R,1996750,0,500000
+elastic,startsWithQuery,small_result,Sant Miquel,2170834,0,500000
+elastic,startsWithQuery,empty_result,Ca ,2005250,0,500000
+elastic,startsWithQuery,empty_result,kp,2233916,0,500000
+elastic,startsWithQuery,empty_result,proa,2253459,0,500000
+elastic,startsWithQuery,empty_result, ,2147917,0,500000
+elastic,startsWithQuery,empty_result,Aa ,2260959,0,500000
+elastic,startsWithQuery,empty_result,vb,2060709,0,500000
+elastic,startsWithQuery,empty_result,Sant Miquel de  ,2325917,0,500000
+elastic,startsWithQuery,empty_result,Sant Miel,2083333,0,500000
+elastic,startsWithQuery,empty_result,lap,1974666,0,500000
+elastic,startsWithQuery,empty_result,wad,2358500,2,500000
+elastic,searchQuery,small_input,Travenc,5040917,1,500000
+elastic,searchQuery,small_input,Tolse,2708958,3,500000
+elastic,searchQuery,small_input,La Trava,4410042,10,500000
+elastic,searchQuery,small_input,Artenu,2596917,3,500000
+elastic,searchQuery,small_input,Prats,2806792,10,500000
+elastic,searchQuery,small_input,Llorts,2764458,1,500000
+elastic,searchQuery,small_input,Coll Pa,3263042,10,500000
+elastic,searchQuery,small_input,Lloset,2613917,4,500000
+elastic,searchQuery,small_input,Aygal,2312208,3,500000
+elastic,searchQuery,small_input,Wafd,2398667,1,500000
+elastic,searchQuery,small_input,Tut,2607708,10,500000
+elastic,searchQuery,small_input,Padah,2658542,10,500000
+elastic,searchQuery,small_input,Kim,2722916,10,500000
+elastic,searchQuery,empty_result,olse,2109167,0,500000
+elastic,searchQuery,empty_result,Cami del Pla,3060208,10,500000
+elastic,searchQuery,empty_result,Trava,2481625,7,500000
+elastic,searchQuery,empty_result,arimat Umm al Muwa,3470708,10,500000
+elastic,searchQuery,empty_result,Tu,2502042,10,500000
+elastic,searchQuery,empty_result,Muhammad Bin Khalid,3051083,10,500000
+elastic,searchQuery,empty_result,Forat del Riu,3001334,10,500000
+elastic,searchQuery,empty_result,Shaykh Zayid lith,3175583,10,500000
+elastic,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,3572250,10,500000
+elastic,searchQuery,empty_result,Coll ,2228291,10,500000
+elastic,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,3379833,10,500000
+elastic,searchQuery,big_input,Cami del Pla de les Pedres,4448625,10,500000
+elastic,searchQuery,big_input,Estany dels Meners de la Coma,4563667,10,500000
+elastic,searchQuery,big_input,Cresta del Forat dels Malhiverns,3569042,10,500000
+elastic,searchQuery,big_input,Kharimat Umm al Muwayghir,3944292,10,500000
+elastic,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,4172292,10,500000
+elastic,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,4011708,10,500000
+elastic,searchQuery,big_input,Forat del Riu dels Clots de Massat,4312000,10,500000
+elastic,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,3690208,10,500000
+elastic,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,3739208,10,500000
+elastic,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,8547792,10,500000
+elastic,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,5070125,10,500000
+elastic,endsWithQuery,big_result,an,8918500,10,500000
+elastic,endsWithQuery,big_result,a,11413542,10,500000
+elastic,endsWithQuery,big_result,se,6915667,10,500000
+elastic,endsWithQuery,big_result,o,7029166,10,500000
+elastic,endsWithQuery,big_result,ro,5855209,10,500000
+elastic,endsWithQuery,big_result,mo,5373875,10,500000
+elastic,endsWithQuery,big_result,y,5554334,10,500000
+elastic,endsWithQuery,big_result,es,5532250,10,500000
+elastic,endsWithQuery,big_result,as,5521625,10,500000
+elastic,endsWithQuery,big_result,c,5594042,10,500000
+elastic,endsWithQuery,small_result,ista,5609791,10,500000
+elastic,endsWithQuery,small_result,ny,5860792,10,500000
+elastic,endsWithQuery,small_result,xy,4410083,1,500000
+elastic,endsWithQuery,small_result,aq,3539333,10,500000
+elastic,endsWithQuery,small_result,ayw,3912625,7,500000
+elastic,endsWithQuery,small_result,oc,3762833,10,500000
+elastic,endsWithQuery,small_result,ralm,3370000,10,500000
+elastic,endsWithQuery,small_result,ral,3126125,10,500000
+elastic,endsWithQuery,small_result,neralm,3591875,10,500000
+elastic,endsWithQuery,small_result,er,3959083,10,500000
+elastic,endsWithQuery,small_result,aws,3278959,1,500000
+elastic,endsWithQuery,empty_result,poc,3663500,1,500000
+elastic,endsWithQuery,empty_result,qneralm,3016500,0,500000
+elastic,endsWithQuery,empty_result,peer,3786917,5,500000
+elastic,endsWithQuery,empty_result,pwer,3059250,0,500000
+elastic,endsWithQuery,empty_result,wsee,3274125,0,500000
+elastic,endsWithQuery,empty_result,vews,2932959,0,500000
+elastic,endsWithQuery,empty_result,qews,2919667,0,500000
+elastic,endsWithQuery,empty_result,xews,2708625,0,500000
+elastic,endsWithQuery,empty_result,zews,2878000,0,500000
+elastic,endsWithQuery,empty_result,asd,2840250,0,500000
+elastic,notStartsQuery,big_result,T,26859500,10,500000
+elastic,notStartsQuery,big_result,An,24731167,10,500000
+elastic,notStartsQuery,big_result,Ca,27401542,10,500000
+elastic,notStartsQuery,big_result,Da,28285458,10,500000
+elastic,notStartsQuery,big_result,De,25094625,10,500000
+elastic,notStartsQuery,big_result,Na,18456084,10,500000
+elastic,notStartsQuery,big_result,Mas,24833792,10,500000
+elastic,notStartsQuery,big_result,Ka,20131458,10,500000
+elastic,notStartsQuery,big_result,Mc,22120584,10,500000
+elastic,notStartsQuery,big_result,W,20393709,10,500000
+elastic,notStartsQuery,big_result,Ro,20936458,10,500000
+elastic,notStartsQuery,big_result,Sa,20141875,10,500000
+elastic,notStartsQuery,small_result,Dc,17983500,10,500000
+elastic,notStartsQuery,small_result,pr,24374166,10,500000
+elastic,notStartsQuery,small_result,Mn,23816125,10,500000
+elastic,notStartsQuery,small_result,na,23608209,10,500000
+elastic,notStartsQuery,small_result,ka,19139333,10,500000
+elastic,notStartsQuery,small_result,Sant ,17482541,10,500000
+elastic,notStartsQuery,small_result,Mira ,20520167,10,500000
+elastic,notStartsQuery,small_result,Wa ,20721708,10,500000
+elastic,notStartsQuery,small_result,W ,25840667,10,500000
+elastic,notStartsQuery,small_result,St R,20601000,10,500000
+elastic,notStartsQuery,small_result,Sant Miquel,22302750,10,500000
+elastic,notStartsQuery,empty_result,Ca ,20076417,10,500000
+elastic,notStartsQuery,empty_result,kp,22898584,10,500000
+elastic,notStartsQuery,empty_result,proa,20395917,10,500000
+elastic,notStartsQuery,empty_result, ,25326416,10,500000
+elastic,notStartsQuery,empty_result,Aa ,29032417,10,500000
+elastic,notStartsQuery,empty_result,vb,18269709,10,500000
+elastic,notStartsQuery,empty_result,Sant Miquel de  ,22762083,10,500000
+elastic,notStartsQuery,empty_result,Sant Miel,21940541,10,500000
+elastic,notStartsQuery,empty_result,lap,22362417,10,500000
+elastic,notStartsQuery,empty_result,wad,22418792,10,500000
+elastic,notEndsQuery,big_result,an,47218250,10,500000
+elastic,notEndsQuery,big_result,a,21841667,10,500000
+elastic,notEndsQuery,big_result,se,20929667,10,500000
+elastic,notEndsQuery,big_result,o,20390208,10,500000
+elastic,notEndsQuery,big_result,ro,18239291,10,500000
+elastic,notEndsQuery,big_result,mo,21052792,10,500000
+elastic,notEndsQuery,big_result,y,20324666,10,500000
+elastic,notEndsQuery,big_result,es,17341791,10,500000
+elastic,notEndsQuery,big_result,as,21088417,10,500000
+elastic,notEndsQuery,big_result,c,21327084,10,500000
+elastic,notEndsQuery,small_result,ista,26141875,10,500000
+elastic,notEndsQuery,small_result,ny,26183584,10,500000
+elastic,notEndsQuery,small_result,xy,23850875,10,500000
+elastic,notEndsQuery,small_result,aq,24044542,10,500000
+elastic,notEndsQuery,small_result,ayw,18938166,10,500000
+elastic,notEndsQuery,small_result,oc,17849542,10,500000
+elastic,notEndsQuery,small_result,ralm,20445750,10,500000
+elastic,notEndsQuery,small_result,ral,25138917,10,500000
+elastic,notEndsQuery,small_result,neralm,18673542,10,500000
+elastic,notEndsQuery,small_result,er,20037792,10,500000
+elastic,notEndsQuery,small_result,aws,20962750,10,500000
+elastic,notEndsQuery,empty_result,poc,27156334,10,500000
+elastic,notEndsQuery,empty_result,qneralm,24524375,10,500000
+elastic,notEndsQuery,empty_result,peer,24492750,10,500000
+elastic,notEndsQuery,empty_result,pwer,22725917,10,500000
+elastic,notEndsQuery,empty_result,wsee,22051708,10,500000
+elastic,notEndsQuery,empty_result,vews,24913500,10,500000
+elastic,notEndsQuery,empty_result,qews,21394084,10,500000
+elastic,notEndsQuery,empty_result,xews,19460333,10,500000
+elastic,notEndsQuery,empty_result,zews,23030584,10,500000
+elastic,notEndsQuery,empty_result,asd,21760667,10,500000
+elastic,notIncludesQuery,big_result/big_input, de la M,24177291,10,500000
+elastic,notIncludesQuery,big_result/big_input,Public,23998709,10,500000
+elastic,notIncludesQuery,big_result/big_input,Plaza,25139375,10,500000
+elastic,notIncludesQuery,big_result/big_input,Argentina,23015417,10,500000
+elastic,notIncludesQuery,big_result/big_input,anada de,21535792,10,500000
+elastic,notIncludesQuery,big_result/big_input,ocky ,22679916,10,500000
+elastic,notIncludesQuery,big_result/big_input,otel ,21802834,10,500000
+elastic,notIncludesQuery,big_result/big_input,Hotel ,18045834,10,500000
+elastic,notIncludesQuery,big_result/big_input,entral ,19014125,10,500000
+elastic,notIncludesQuery,big_result/big_input,South,18982000,10,500000
+elastic,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,20438000,10,500000
+elastic,notIncludesQuery,empty_result,ppirn,20620792,10,500000
+elastic,notIncludesQuery,empty_result,wnp,21094375,10,500000
+elastic,notIncludesQuery,empty_result,thabbaya Mediumw,27689916,10,500000
+elastic,notIncludesQuery,empty_result,Amuntr de,25865333,10,500000
+elastic,notIncludesQuery,empty_result,del o,22976333,10,500000
+elastic,notIncludesQuery,empty_result,anakp,21482875,10,500000
+elastic,notIncludesQuery,empty_result,anakl,25110958,10,500000
+elastic,notIncludesQuery,empty_result,amapz,28468583,10,500000
+elastic,notIncludesQuery,empty_result,amanln,27118667,10,500000
+elastic,notIncludesQuery,small_result/small_input,ix,29716500,10,500000
+elastic,notIncludesQuery,small_result/small_input, Roc ,28278958,10,500000
+elastic,notIncludesQuery,small_result/small_input,mn,27995750,10,500000
+elastic,notIncludesQuery,small_result/small_input,n v,31191792,10,500000
+elastic,notIncludesQuery,small_result/small_input,omo ,22646750,10,500000
+elastic,notIncludesQuery,small_result/small_input,mln,22201416,10,500000
+elastic,notIncludesQuery,small_result/small_input,klk,27702000,10,500000
+elastic,notIncludesQuery,small_result/small_input,Wk,25733583,10,500000
+elastic,notIncludesQuery,small_result/small_input,zz,21857625,10,500000
+elastic,notIncludesQuery,small_result/small_input,kz,22278708,10,500000
+elastic,notIncludesQuery,small_result/small_input,pz,19214958,10,500000
+elastic,notIncludesQuery,small_result/small_input,knk,28053125,10,500000
+elastic,notIncludesQuery,small_result/small_input,klk,22012542,10,500000
+elastic,notIncludesQuery,small_result/big_input,wne Pla,22267542,10,500000
+elastic,notIncludesQuery,small_result/big_input, Yaw,18291250,10,500000
+elastic,notIncludesQuery,small_result/big_input,shkhara,27288583,10,500000
+elastic,notIncludesQuery,small_result/big_input,angounel,19583584,10,500000
+elastic,notIncludesQuery,small_result/big_input,y de les ,22122416,10,500000
+elastic,notIncludesQuery,small_result/big_input,sera de la ,19958625,10,500000
+elastic,notIncludesQuery,small_result/big_input,rra de la Cr,22616459,10,500000
+elastic,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,24842958,10,500000
+elastic,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,19529583,10,500000
+elastic,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,24392209,10,500000
+elastic,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,27691542,10,500000
+elastic,notIncludesQuery,big_result/small_input,de,20134625,10,500000
+elastic,notIncludesQuery,big_result/small_input, de ,27956958,10,500000
+elastic,notIncludesQuery,big_result/small_input,-ye,24432625,10,500000
+elastic,notIncludesQuery,big_result/small_input,Va,21437750,10,500000
+elastic,notIncludesQuery,big_result/small_input,a C,21453834,10,500000
+elastic,notIncludesQuery,big_result/small_input,st,20514750,10,500000
+elastic,notIncludesQuery,big_result/small_input,Gr,22077417,10,500000
+elastic,notIncludesQuery,big_result/small_input,Roc,21384500,10,500000
+elastic,notIncludesQuery,big_result/small_input,am,25690792,10,500000
+elastic,notIncludesQuery,big_result/small_input,ill,26528000,10,500000
+elastic,notIncludesQuery,big_result/small_input,Park,26179542,10,500000
+elastic,includesQuery,big_result/big_input, de la M,4868000,0,500000
+elastic,includesQuery,big_result/big_input,Public,4013375,10,500000
+elastic,includesQuery,big_result/big_input,Plaza,3459167,10,500000
+elastic,includesQuery,big_result/big_input,Argentina,4580667,10,500000
+elastic,includesQuery,big_result/big_input,anada de,3972041,0,500000
+elastic,includesQuery,big_result/big_input,ocky ,3813833,0,500000
+elastic,includesQuery,big_result/big_input,otel ,3376542,0,500000
+elastic,includesQuery,big_result/big_input,Hotel ,3271167,0,500000
+elastic,includesQuery,big_result/big_input,entral ,3369708,0,500000
+elastic,includesQuery,big_result/big_input,South,3580083,10,500000
+elastic,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,4642959,0,500000
+elastic,includesQuery,empty_result,ppirn,3201292,0,500000
+elastic,includesQuery,empty_result,wnp,3153709,0,500000
+elastic,includesQuery,empty_result,thabbaya Mediumw,3661625,0,500000
+elastic,includesQuery,empty_result,Amuntr de,3202083,0,500000
+elastic,includesQuery,empty_result,del o,3031500,0,500000
+elastic,includesQuery,empty_result,anakp,2985834,0,500000
+elastic,includesQuery,empty_result,anakl,2961917,0,500000
+elastic,includesQuery,empty_result,amapz,3089542,0,500000
+elastic,includesQuery,empty_result,amanln,3098958,0,500000
+elastic,includesQuery,small_result/small_input,ix,3323458,10,500000
+elastic,includesQuery,small_result/small_input, Roc ,3183125,0,500000
+elastic,includesQuery,small_result/small_input,mn,3405708,10,500000
+elastic,includesQuery,small_result/small_input,n v,3280875,0,500000
+elastic,includesQuery,small_result/small_input,omo ,3301959,0,500000
+elastic,includesQuery,small_result/small_input,mln,3233125,1,500000
+elastic,includesQuery,small_result/small_input,klk,3510333,7,500000
+elastic,includesQuery,small_result/small_input,Wk,3067750,0,500000
+elastic,includesQuery,small_result/small_input,zz,3401542,10,500000
+elastic,includesQuery,small_result/small_input,kz,3341959,10,500000
+elastic,includesQuery,small_result/small_input,pz,3368708,10,500000
+elastic,includesQuery,small_result/small_input,knk,3676750,3,500000
+elastic,includesQuery,small_result/small_input,klk,3422750,7,500000
+elastic,includesQuery,small_result/big_input,wne Pla,3598000,0,500000
+elastic,includesQuery,small_result/big_input, Yaw,3155417,0,500000
+elastic,includesQuery,small_result/big_input,shkhara,3566166,3,500000
+elastic,includesQuery,small_result/big_input,angounel,3706083,1,500000
+elastic,includesQuery,small_result/big_input,y de les ,3520708,0,500000
+elastic,includesQuery,small_result/big_input,sera de la ,3391375,0,500000
+elastic,includesQuery,small_result/big_input,rra de la Cr,3548000,0,500000
+elastic,includesQuery,small_result/big_input,epentance Creek Public Schoo,4394875,0,500000
+elastic,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,4573084,0,500000
+elastic,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,4280875,0,500000
+elastic,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,4849584,0,500000
+elastic,includesQuery,big_result/small_input,de,4712791,10,500000
+elastic,includesQuery,big_result/small_input, de ,3247708,0,500000
+elastic,includesQuery,big_result/small_input,-ye,3145334,0,500000
+elastic,includesQuery,big_result/small_input,Va,3415125,10,500000
+elastic,includesQuery,big_result/small_input,a C,3040916,0,500000
+elastic,includesQuery,big_result/small_input,st,3940959,10,500000
+elastic,includesQuery,big_result/small_input,Gr,3375291,10,500000
+elastic,includesQuery,big_result/small_input,Roc,3155875,10,500000
+elastic,includesQuery,big_result/small_input,am,4659083,10,500000
+elastic,includesQuery,big_result/small_input,ill,3475834,10,500000
+elastic,includesQuery,big_result/small_input,Park,3445542,10,500000
+elastic,startsWithQuery,big_result,T,60197875,10,500000
+elastic,startsWithQuery,big_result,An,4654792,10,500000
+elastic,startsWithQuery,big_result,Ca,3580000,10,500000
+elastic,startsWithQuery,big_result,Da,3854583,10,500000
+elastic,startsWithQuery,big_result,De,3258250,10,500000
+elastic,startsWithQuery,big_result,Na,3219875,10,500000
+elastic,startsWithQuery,big_result,Mas,2678917,10,500000
+elastic,startsWithQuery,big_result,Ka,3410000,10,500000
+elastic,startsWithQuery,big_result,Mc,2700250,10,500000
+elastic,startsWithQuery,big_result,W,3698916,10,500000
+elastic,startsWithQuery,big_result,Ro,3248333,10,500000
+elastic,startsWithQuery,big_result,Sa,3301416,10,500000
+elastic,startsWithQuery,small_result,Dc,2034167,0,500000
+elastic,startsWithQuery,small_result,pr,2626875,10,500000
+elastic,startsWithQuery,small_result,Mn,2803917,10,500000
+elastic,startsWithQuery,small_result,na,2854125,10,500000
+elastic,startsWithQuery,small_result,ka,2451209,10,500000
+elastic,startsWithQuery,small_result,Sant ,1868209,0,500000
+elastic,startsWithQuery,small_result,Mira ,2240833,0,500000
+elastic,startsWithQuery,small_result,Wa ,2222584,0,500000
+elastic,startsWithQuery,small_result,W ,2273542,0,500000
+elastic,startsWithQuery,small_result,St R,2193042,0,500000
+elastic,startsWithQuery,small_result,Sant Miquel,2193084,0,500000
+elastic,startsWithQuery,empty_result,Ca ,1989667,0,500000
+elastic,startsWithQuery,empty_result,kp,2077708,0,500000
+elastic,startsWithQuery,empty_result,proa,1871125,0,500000
+elastic,startsWithQuery,empty_result, ,1821250,0,500000
+elastic,startsWithQuery,empty_result,Aa ,1719708,0,500000
+elastic,startsWithQuery,empty_result,vb,1864000,0,500000
+elastic,startsWithQuery,empty_result,Sant Miquel de  ,1801625,0,500000
+elastic,startsWithQuery,empty_result,Sant Miel,1677792,0,500000
+elastic,startsWithQuery,empty_result,lap,1683084,0,500000
+elastic,startsWithQuery,empty_result,wad,1919333,2,500000
+elastic,searchQuery,small_input,Travenc,4962709,1,500000
+elastic,searchQuery,small_input,Tolse,2658959,3,500000
+elastic,searchQuery,small_input,La Trava,3068917,10,500000
+elastic,searchQuery,small_input,Artenu,2179625,3,500000
+elastic,searchQuery,small_input,Prats,2415000,10,500000
+elastic,searchQuery,small_input,Llorts,2733208,1,500000
+elastic,searchQuery,small_input,Coll Pa,2695125,10,500000
+elastic,searchQuery,small_input,Lloset,2226334,4,500000
+elastic,searchQuery,small_input,Aygal,2288666,3,500000
+elastic,searchQuery,small_input,Wafd,2306583,1,500000
+elastic,searchQuery,small_input,Tut,2658542,10,500000
+elastic,searchQuery,small_input,Padah,2573708,10,500000
+elastic,searchQuery,small_input,Kim,2227792,9,500000
+elastic,searchQuery,empty_result,olse,2060500,0,500000
+elastic,searchQuery,empty_result,Cami del Pla,3111250,10,500000
+elastic,searchQuery,empty_result,Trava,2367458,7,500000
+elastic,searchQuery,empty_result,arimat Umm al Muwa,2709708,10,500000
+elastic,searchQuery,empty_result,Tu,2699167,10,500000
+elastic,searchQuery,empty_result,Muhammad Bin Khalid,3153750,10,500000
+elastic,searchQuery,empty_result,Forat del Riu,2801083,10,500000
+elastic,searchQuery,empty_result,Shaykh Zayid lith,2959416,10,500000
+elastic,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,3244084,10,500000
+elastic,searchQuery,empty_result,Coll ,2536500,10,500000
+elastic,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,3183416,10,500000
+elastic,searchQuery,big_input,Cami del Pla de les Pedres,3540208,10,500000
+elastic,searchQuery,big_input,Estany dels Meners de la Coma,3384583,10,500000
+elastic,searchQuery,big_input,Cresta del Forat dels Malhiverns,2760292,10,500000
+elastic,searchQuery,big_input,Kharimat Umm al Muwayghir,2607000,10,500000
+elastic,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,2862416,10,500000
+elastic,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,3289541,10,500000
+elastic,searchQuery,big_input,Forat del Riu dels Clots de Massat,3272458,10,500000
+elastic,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,3027250,10,500000
+elastic,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,3570167,10,500000
+elastic,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,3465666,10,500000
+elastic,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,3704625,10,500000
+elastic,endsWithQuery,big_result,an,6502458,10,500000
+elastic,endsWithQuery,big_result,a,4651083,10,500000
+elastic,endsWithQuery,big_result,se,3126250,10,500000
+elastic,endsWithQuery,big_result,o,3903459,10,500000
+elastic,endsWithQuery,big_result,ro,2988500,10,500000
+elastic,endsWithQuery,big_result,mo,3166875,10,500000
+elastic,endsWithQuery,big_result,y,3345750,10,500000
+elastic,endsWithQuery,big_result,es,3233167,10,500000
+elastic,endsWithQuery,big_result,as,3533333,10,500000
+elastic,endsWithQuery,big_result,c,3073625,10,500000
+elastic,endsWithQuery,small_result,ista,3160709,10,500000
+elastic,endsWithQuery,small_result,ny,2970209,10,500000
+elastic,endsWithQuery,small_result,xy,2627750,1,500000
+elastic,endsWithQuery,small_result,aq,3188166,10,500000
+elastic,endsWithQuery,small_result,ayw,3075458,7,500000
+elastic,endsWithQuery,small_result,oc,3049250,10,500000
+elastic,endsWithQuery,small_result,ralm,3312000,10,500000
+elastic,endsWithQuery,small_result,ral,3504667,10,500000
+elastic,endsWithQuery,small_result,neralm,3271041,10,500000
+elastic,endsWithQuery,small_result,er,4183792,10,500000
+elastic,endsWithQuery,small_result,aws,3222250,1,500000
+elastic,endsWithQuery,empty_result,poc,3363709,1,500000
+elastic,endsWithQuery,empty_result,qneralm,3265500,0,500000
+elastic,endsWithQuery,empty_result,peer,3571166,5,500000
+elastic,endsWithQuery,empty_result,pwer,3048708,0,500000
+elastic,endsWithQuery,empty_result,wsee,3021792,0,500000
+elastic,endsWithQuery,empty_result,vews,2908166,0,500000
+elastic,endsWithQuery,empty_result,qews,2883542,0,500000
+elastic,endsWithQuery,empty_result,xews,2807708,0,500000
+elastic,endsWithQuery,empty_result,zews,2782000,0,500000
+elastic,endsWithQuery,empty_result,asd,2540292,0,500000
+elastic,notStartsQuery,big_result,T,24933083,10,500000
+elastic,notStartsQuery,big_result,An,21871458,10,500000
+elastic,notStartsQuery,big_result,Ca,30696083,10,500000
+elastic,notStartsQuery,big_result,Da,27542209,10,500000
+elastic,notStartsQuery,big_result,De,28506959,10,500000
+elastic,notStartsQuery,big_result,Na,26655791,10,500000
+elastic,notStartsQuery,big_result,Mas,30896334,10,500000
+elastic,notStartsQuery,big_result,Ka,24879083,10,500000
+elastic,notStartsQuery,big_result,Mc,24590667,10,500000
+elastic,notStartsQuery,big_result,W,22529916,10,500000
+elastic,notStartsQuery,big_result,Ro,23606917,10,500000
+elastic,notStartsQuery,big_result,Sa,26884083,10,500000
+elastic,notStartsQuery,small_result,Dc,30144125,10,500000
+elastic,notStartsQuery,small_result,pr,25795125,10,500000
+elastic,notStartsQuery,small_result,Mn,26535125,10,500000
+elastic,notStartsQuery,small_result,na,21919875,10,500000
+elastic,notStartsQuery,small_result,ka,24100500,10,500000
+elastic,notStartsQuery,small_result,Sant ,30435792,10,500000
+elastic,notStartsQuery,small_result,Mira ,28752584,10,500000
+elastic,notStartsQuery,small_result,Wa ,30777209,10,500000
+elastic,notStartsQuery,small_result,W ,26358291,10,500000
+elastic,notStartsQuery,small_result,St R,22752458,10,500000
+elastic,notStartsQuery,small_result,Sant Miquel,30467500,10,500000
+elastic,notStartsQuery,empty_result,Ca ,26610167,10,500000
+elastic,notStartsQuery,empty_result,kp,26072125,10,500000
+elastic,notStartsQuery,empty_result,proa,26584000,10,500000
+elastic,notStartsQuery,empty_result, ,24678417,10,500000
+elastic,notStartsQuery,empty_result,Aa ,31080042,10,500000
+elastic,notStartsQuery,empty_result,vb,25953542,10,500000
+elastic,notStartsQuery,empty_result,Sant Miquel de  ,27620625,10,500000
+elastic,notStartsQuery,empty_result,Sant Miel,23038459,10,500000
+elastic,notStartsQuery,empty_result,lap,29302834,10,500000
+elastic,notStartsQuery,empty_result,wad,29675583,10,500000
+elastic,notEndsQuery,big_result,an,24189417,10,500000
+elastic,notEndsQuery,big_result,a,21774250,10,500000
+elastic,notEndsQuery,big_result,se,18384917,10,500000
+elastic,notEndsQuery,big_result,o,20917167,10,500000
+elastic,notEndsQuery,big_result,ro,24949167,10,500000
+elastic,notEndsQuery,big_result,mo,27829500,10,500000
+elastic,notEndsQuery,big_result,y,18710584,10,500000
+elastic,notEndsQuery,big_result,es,24509708,10,500000
+elastic,notEndsQuery,big_result,as,25716083,10,500000
+elastic,notEndsQuery,big_result,c,23714500,10,500000
+elastic,notEndsQuery,small_result,ista,20419875,10,500000
+elastic,notEndsQuery,small_result,ny,23228958,10,500000
+elastic,notEndsQuery,small_result,xy,20459667,10,500000
+elastic,notEndsQuery,small_result,aq,24835000,10,500000
+elastic,notEndsQuery,small_result,ayw,21228833,10,500000
+elastic,notEndsQuery,small_result,oc,18364125,10,500000
+elastic,notEndsQuery,small_result,ralm,17060375,10,500000
+elastic,notEndsQuery,small_result,ral,19372709,10,500000
+elastic,notEndsQuery,small_result,neralm,26322084,10,500000
+elastic,notEndsQuery,small_result,er,22745250,10,500000
+elastic,notEndsQuery,small_result,aws,18797167,10,500000
+elastic,notEndsQuery,empty_result,poc,25878125,10,500000
+elastic,notEndsQuery,empty_result,qneralm,18362917,10,500000
+elastic,notEndsQuery,empty_result,peer,20357583,10,500000
+elastic,notEndsQuery,empty_result,pwer,20834750,10,500000
+elastic,notEndsQuery,empty_result,wsee,23592083,10,500000
+elastic,notEndsQuery,empty_result,vews,22299875,10,500000
+elastic,notEndsQuery,empty_result,qews,22786333,10,500000
+elastic,notEndsQuery,empty_result,xews,22025125,10,500000
+elastic,notEndsQuery,empty_result,zews,18845458,10,500000
+elastic,notEndsQuery,empty_result,asd,18392334,10,500000
+elastic,notIncludesQuery,big_result/big_input, de la M,25447417,10,500000
+elastic,notIncludesQuery,big_result/big_input,Public,21342208,10,500000
+elastic,notIncludesQuery,big_result/big_input,Plaza,23149584,10,500000
+elastic,notIncludesQuery,big_result/big_input,Argentina,23426833,10,500000
+elastic,notIncludesQuery,big_result/big_input,anada de,28669334,10,500000
+elastic,notIncludesQuery,big_result/big_input,ocky ,25578375,10,500000
+elastic,notIncludesQuery,big_result/big_input,otel ,17968292,10,500000
+elastic,notIncludesQuery,big_result/big_input,Hotel ,25549375,10,500000
+elastic,notIncludesQuery,big_result/big_input,entral ,25126667,10,500000
+elastic,notIncludesQuery,big_result/big_input,South,21599750,10,500000
+elastic,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,20670292,10,500000
+elastic,notIncludesQuery,empty_result,ppirn,20571750,10,500000
+elastic,notIncludesQuery,empty_result,wnp,20667833,10,500000
+elastic,notIncludesQuery,empty_result,thabbaya Mediumw,26356875,10,500000
+elastic,notIncludesQuery,empty_result,Amuntr de,23786416,10,500000
+elastic,notIncludesQuery,empty_result,del o,21613500,10,500000
+elastic,notIncludesQuery,empty_result,anakp,20994041,10,500000
+elastic,notIncludesQuery,empty_result,anakl,21141083,10,500000
+elastic,notIncludesQuery,empty_result,amapz,21783042,10,500000
+elastic,notIncludesQuery,empty_result,amanln,25640458,10,500000
+elastic,notIncludesQuery,small_result/small_input,ix,20465709,10,500000
+elastic,notIncludesQuery,small_result/small_input, Roc ,25687708,10,500000
+elastic,notIncludesQuery,small_result/small_input,mn,21230166,10,500000
+elastic,notIncludesQuery,small_result/small_input,n v,21242666,10,500000
+elastic,notIncludesQuery,small_result/small_input,omo ,21730916,10,500000
+elastic,notIncludesQuery,small_result/small_input,mln,18271750,10,500000
+elastic,notIncludesQuery,small_result/small_input,klk,24901666,10,500000
+elastic,notIncludesQuery,small_result/small_input,Wk,22075875,10,500000
+elastic,notIncludesQuery,small_result/small_input,zz,21135666,10,500000
+elastic,notIncludesQuery,small_result/small_input,kz,20445750,10,500000
+elastic,notIncludesQuery,small_result/small_input,pz,25200791,10,500000
+elastic,notIncludesQuery,small_result/small_input,knk,22633458,10,500000
+elastic,notIncludesQuery,small_result/small_input,klk,26258792,10,500000
+elastic,notIncludesQuery,small_result/big_input,wne Pla,25910958,10,500000
+elastic,notIncludesQuery,small_result/big_input, Yaw,24357542,10,500000
+elastic,notIncludesQuery,small_result/big_input,shkhara,21412291,10,500000
+elastic,notIncludesQuery,small_result/big_input,angounel,24406333,10,500000
+elastic,notIncludesQuery,small_result/big_input,y de les ,23125625,10,500000
+elastic,notIncludesQuery,small_result/big_input,sera de la ,22389542,10,500000
+elastic,notIncludesQuery,small_result/big_input,rra de la Cr,27428917,10,500000
+elastic,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,25854666,10,500000
+elastic,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,28171125,10,500000
+elastic,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,20695542,10,500000
+elastic,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,22999709,10,500000
+elastic,notIncludesQuery,big_result/small_input,de,20197250,10,500000
+elastic,notIncludesQuery,big_result/small_input, de ,25873875,10,500000
+elastic,notIncludesQuery,big_result/small_input,-ye,21086334,10,500000
+elastic,notIncludesQuery,big_result/small_input,Va,24760292,10,500000
+elastic,notIncludesQuery,big_result/small_input,a C,19447750,10,500000
+elastic,notIncludesQuery,big_result/small_input,st,17876209,10,500000
+elastic,notIncludesQuery,big_result/small_input,Gr,25161625,10,500000
+elastic,notIncludesQuery,big_result/small_input,Roc,20649709,10,500000
+elastic,notIncludesQuery,big_result/small_input,am,26275459,10,500000
+elastic,notIncludesQuery,big_result/small_input,ill,26708125,10,500000
+elastic,notIncludesQuery,big_result/small_input,Park,22222458,10,500000
+elastic,includesQuery,big_result/big_input, de la M,4798084,0,500000
+elastic,includesQuery,big_result/big_input,Public,3444208,10,500000
+elastic,includesQuery,big_result/big_input,Plaza,3450333,10,500000
+elastic,includesQuery,big_result/big_input,Argentina,3534416,10,500000
+elastic,includesQuery,big_result/big_input,anada de,3334208,0,500000
+elastic,includesQuery,big_result/big_input,ocky ,3082958,0,500000
+elastic,includesQuery,big_result/big_input,otel ,3029084,0,500000
+elastic,includesQuery,big_result/big_input,Hotel ,3031500,0,500000
+elastic,includesQuery,big_result/big_input,entral ,3106792,0,500000
+elastic,includesQuery,big_result/big_input,South,3436250,10,500000
+elastic,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,4818917,0,500000
+elastic,includesQuery,empty_result,ppirn,3411250,0,500000
+elastic,includesQuery,empty_result,wnp,3120041,0,500000
+elastic,includesQuery,empty_result,thabbaya Mediumw,3491292,0,500000
+elastic,includesQuery,empty_result,Amuntr de,3334750,0,500000
+elastic,includesQuery,empty_result,del o,3001625,0,500000
+elastic,includesQuery,empty_result,anakp,2895292,0,500000
+elastic,includesQuery,empty_result,anakl,2982917,0,500000
+elastic,includesQuery,empty_result,amapz,2913917,0,500000
+elastic,includesQuery,empty_result,amanln,2957375,0,500000
+elastic,includesQuery,small_result/small_input,ix,3089958,10,500000
+elastic,includesQuery,small_result/small_input, Roc ,3227958,0,500000
+elastic,includesQuery,small_result/small_input,mn,3303542,10,500000
+elastic,includesQuery,small_result/small_input,n v,3166291,0,500000
+elastic,includesQuery,small_result/small_input,omo ,3135000,0,500000
+elastic,includesQuery,small_result/small_input,mln,3444542,1,500000
+elastic,includesQuery,small_result/small_input,klk,3485292,7,500000
+elastic,includesQuery,small_result/small_input,Wk,3727583,0,500000
+elastic,includesQuery,small_result/small_input,zz,4062667,10,500000
+elastic,includesQuery,small_result/small_input,kz,4005917,10,500000
+elastic,includesQuery,small_result/small_input,pz,3931042,10,500000
+elastic,includesQuery,small_result/small_input,knk,4188750,3,500000
+elastic,includesQuery,small_result/small_input,klk,4084625,7,500000
+elastic,includesQuery,small_result/big_input,wne Pla,4073292,0,500000
+elastic,includesQuery,small_result/big_input, Yaw,3432083,0,500000
+elastic,includesQuery,small_result/big_input,shkhara,3677542,3,500000
+elastic,includesQuery,small_result/big_input,angounel,3462708,1,500000
+elastic,includesQuery,small_result/big_input,y de les ,6011333,0,500000
+elastic,includesQuery,small_result/big_input,sera de la ,4100375,0,500000
+elastic,includesQuery,small_result/big_input,rra de la Cr,3454333,0,500000
+elastic,includesQuery,small_result/big_input,epentance Creek Public Schoo,4402625,0,500000
+elastic,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,4629000,0,500000
+elastic,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,3962667,0,500000
+elastic,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,4370167,0,500000
+elastic,includesQuery,big_result/small_input,de,3761500,10,500000
+elastic,includesQuery,big_result/small_input, de ,2878875,0,500000
+elastic,includesQuery,big_result/small_input,-ye,2965083,0,500000
+elastic,includesQuery,big_result/small_input,Va,3182125,10,500000
+elastic,includesQuery,big_result/small_input,a C,2798250,0,500000
+elastic,includesQuery,big_result/small_input,st,3653541,10,500000
+elastic,includesQuery,big_result/small_input,Gr,3276625,10,500000
+elastic,includesQuery,big_result/small_input,Roc,3105000,10,500000
+elastic,includesQuery,big_result/small_input,am,3611041,10,500000
+elastic,includesQuery,big_result/small_input,ill,3362042,10,500000
+elastic,includesQuery,big_result/small_input,Park,3556208,10,500000

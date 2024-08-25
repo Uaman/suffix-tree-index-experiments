@@ -1,0 +1,273 @@
+>>>>dbName=postgresquery="T", queryType=startsWithQuery, querySubtype=big_result, duration=39317958 ns, resultSize=25565, dataSize=500000<<<<
+>>>>dbName=postgresquery="An", queryType=startsWithQuery, querySubtype=big_result, duration=22392083 ns, resultSize=2113, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ca", queryType=startsWithQuery, querySubtype=big_result, duration=25129250 ns, resultSize=20107, dataSize=500000<<<<
+>>>>dbName=postgresquery="Da", queryType=startsWithQuery, querySubtype=big_result, duration=22790667 ns, resultSize=8012, dataSize=500000<<<<
+>>>>dbName=postgresquery="De", queryType=startsWithQuery, querySubtype=big_result, duration=22906542 ns, resultSize=4511, dataSize=500000<<<<
+>>>>dbName=postgresquery="Na", queryType=startsWithQuery, querySubtype=big_result, duration=22491250 ns, resultSize=4069, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mas", queryType=startsWithQuery, querySubtype=big_result, duration=21149500 ns, resultSize=570, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ka", queryType=startsWithQuery, querySubtype=big_result, duration=22421542 ns, resultSize=7540, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mc", queryType=startsWithQuery, querySubtype=big_result, duration=21701791 ns, resultSize=875, dataSize=500000<<<<
+>>>>dbName=postgresquery="W", queryType=startsWithQuery, querySubtype=big_result, duration=23867500 ns, resultSize=19677, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ro", queryType=startsWithQuery, querySubtype=big_result, duration=21955459 ns, resultSize=5224, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sa", queryType=startsWithQuery, querySubtype=big_result, duration=22115792 ns, resultSize=11439, dataSize=500000<<<<
+>>>>dbName=postgresquery="Dc", queryType=startsWithQuery, querySubtype=small_result, duration=21112292 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="pr", queryType=startsWithQuery, querySubtype=small_result, duration=20670292 ns, resultSize=11, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mn", queryType=startsWithQuery, querySubtype=small_result, duration=21261583 ns, resultSize=20, dataSize=500000<<<<
+>>>>dbName=postgresquery="na", queryType=startsWithQuery, querySubtype=small_result, duration=21736458 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="ka", queryType=startsWithQuery, querySubtype=small_result, duration=21421833 ns, resultSize=19, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant ", queryType=startsWithQuery, querySubtype=small_result, duration=21393375 ns, resultSize=26, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mira ", queryType=startsWithQuery, querySubtype=small_result, duration=21612834 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=postgresquery="Wa ", queryType=startsWithQuery, querySubtype=small_result, duration=21651625 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=postgresquery="W ", queryType=startsWithQuery, querySubtype=small_result, duration=20802208 ns, resultSize=21, dataSize=500000<<<<
+>>>>dbName=postgresquery="St R", queryType=startsWithQuery, querySubtype=small_result, duration=20877250 ns, resultSize=11, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miquel", queryType=startsWithQuery, querySubtype=small_result, duration=21118333 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ca ", queryType=startsWithQuery, querySubtype=empty_result, duration=21014000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="kp", queryType=startsWithQuery, querySubtype=empty_result, duration=20581166 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="proa", queryType=startsWithQuery, querySubtype=empty_result, duration=20784000 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery=" ", queryType=startsWithQuery, querySubtype=empty_result, duration=20471417 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Aa ", queryType=startsWithQuery, querySubtype=empty_result, duration=20585750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="vb", queryType=startsWithQuery, querySubtype=empty_result, duration=20786792 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miquel de  ", queryType=startsWithQuery, querySubtype=empty_result, duration=20848417 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miel", queryType=startsWithQuery, querySubtype=empty_result, duration=20761708 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="lap", queryType=startsWithQuery, querySubtype=empty_result, duration=20596750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="wad", queryType=startsWithQuery, querySubtype=empty_result, duration=20548375 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Travenc", queryType=searchQuery, querySubtype=small_input, duration=23697250 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Tolse", queryType=searchQuery, querySubtype=small_input, duration=18860333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="La Trava", queryType=searchQuery, querySubtype=small_input, duration=19201083 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="Artenu", queryType=searchQuery, querySubtype=small_input, duration=18862542 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="Prats", queryType=searchQuery, querySubtype=small_input, duration=18622250 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Llorts", queryType=searchQuery, querySubtype=small_input, duration=18795792 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Coll Pa", queryType=searchQuery, querySubtype=small_input, duration=18733125 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="Lloset", queryType=searchQuery, querySubtype=small_input, duration=18746291 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Aygal", queryType=searchQuery, querySubtype=small_input, duration=18608458 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="Wafd", queryType=searchQuery, querySubtype=small_input, duration=18489125 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Tut", queryType=searchQuery, querySubtype=small_input, duration=18406042 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="Padah", queryType=searchQuery, querySubtype=small_input, duration=18578333 ns, resultSize=6, dataSize=500000<<<<
+>>>>dbName=postgresquery="Kim", queryType=searchQuery, querySubtype=small_input, duration=18275250 ns, resultSize=2, dataSize=500000<<<<
+>>>>dbName=postgresquery="olse", queryType=searchQuery, querySubtype=empty_result, duration=18401833 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Cami del Pla", queryType=searchQuery, querySubtype=empty_result, duration=18753042 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Trava", queryType=searchQuery, querySubtype=empty_result, duration=18536750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="arimat Umm al Muwa", queryType=searchQuery, querySubtype=empty_result, duration=18456875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Tu", queryType=searchQuery, querySubtype=empty_result, duration=18257292 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Muhammad Bin Khalid", queryType=searchQuery, querySubtype=empty_result, duration=18444708 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Forat del Riu", queryType=searchQuery, querySubtype=empty_result, duration=19235167 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Shaykh Zayid lith", queryType=searchQuery, querySubtype=empty_result, duration=18653042 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Shaykh Khalid Bin Sultan al Qassimi Squar", queryType=searchQuery, querySubtype=empty_result, duration=18906125 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Coll ", queryType=searchQuery, querySubtype=empty_result, duration=19615291 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Madrasat Muhammad Bin Khalid ath Thanawiya", queryType=searchQuery, querySubtype=empty_result, duration=19432916 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Cami del Pla de les Pedres", queryType=searchQuery, querySubtype=big_input, duration=19901459 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Estany dels Meners de la Coma", queryType=searchQuery, querySubtype=big_input, duration=19710083 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Cresta del Forat dels Malhiverns", queryType=searchQuery, querySubtype=big_input, duration=19533083 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Kharimat Umm al Muwayghir", queryType=searchQuery, querySubtype=big_input, duration=19653292 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Madrasat Muhammad Bin Khalid ath Thanawiyah", queryType=searchQuery, querySubtype=big_input, duration=19792916 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah", queryType=searchQuery, querySubtype=big_input, duration=19194000 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Forat del Riu dels Clots de Massat", queryType=searchQuery, querySubtype=big_input, duration=18605875 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Shaykh Khalid Bin Sultan al Qassimi Square", queryType=searchQuery, querySubtype=big_input, duration=18420375 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Le Royal Meridien Beach Resort Spa Dubai", queryType=searchQuery, querySubtype=big_input, duration=18750958 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Qaryah-ye Haji Muhammad Afzal Khan", queryType=searchQuery, querySubtype=big_input, duration=18772708 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="Darya-ye Khushk-e Khinjak Manah", queryType=searchQuery, querySubtype=big_input, duration=18543791 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="an", queryType=endsWithQuery, querySubtype=big_result, duration=41176959 ns, resultSize=9096, dataSize=500000<<<<
+>>>>dbName=postgresquery="a", queryType=endsWithQuery, querySubtype=big_result, duration=41265541 ns, resultSize=59176, dataSize=500000<<<<
+>>>>dbName=postgresquery="se", queryType=endsWithQuery, querySubtype=big_result, duration=32216375 ns, resultSize=2025, dataSize=500000<<<<
+>>>>dbName=postgresquery="o", queryType=endsWithQuery, querySubtype=big_result, duration=35736750 ns, resultSize=29520, dataSize=500000<<<<
+>>>>dbName=postgresquery="ro", queryType=endsWithQuery, querySubtype=big_result, duration=32406208 ns, resultSize=2707, dataSize=500000<<<<
+>>>>dbName=postgresquery="mo", queryType=endsWithQuery, querySubtype=big_result, duration=29113541 ns, resultSize=485, dataSize=500000<<<<
+>>>>dbName=postgresquery="y", queryType=endsWithQuery, querySubtype=big_result, duration=30439167 ns, resultSize=15923, dataSize=500000<<<<
+>>>>dbName=postgresquery="es", queryType=endsWithQuery, querySubtype=big_result, duration=33619375 ns, resultSize=5729, dataSize=500000<<<<
+>>>>dbName=postgresquery="as", queryType=endsWithQuery, querySubtype=big_result, duration=35716583 ns, resultSize=4091, dataSize=500000<<<<
+>>>>dbName=postgresquery="c", queryType=endsWithQuery, querySubtype=big_result, duration=32044416 ns, resultSize=530, dataSize=500000<<<<
+>>>>dbName=postgresquery="ista", queryType=endsWithQuery, querySubtype=small_result, duration=32604750 ns, resultSize=274, dataSize=500000<<<<
+>>>>dbName=postgresquery="ny", queryType=endsWithQuery, querySubtype=small_result, duration=32140709 ns, resultSize=190, dataSize=500000<<<<
+>>>>dbName=postgresquery="xy", queryType=endsWithQuery, querySubtype=small_result, duration=28450208 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="aq", queryType=endsWithQuery, querySubtype=small_result, duration=35165250 ns, resultSize=574, dataSize=500000<<<<
+>>>>dbName=postgresquery="ayw", queryType=endsWithQuery, querySubtype=small_result, duration=34953000 ns, resultSize=5, dataSize=500000<<<<
+>>>>dbName=postgresquery="oc", queryType=endsWithQuery, querySubtype=small_result, duration=31472667 ns, resultSize=74, dataSize=500000<<<<
+>>>>dbName=postgresquery="ralm", queryType=endsWithQuery, querySubtype=small_result, duration=32213625 ns, resultSize=337, dataSize=500000<<<<
+>>>>dbName=postgresquery="ral", queryType=endsWithQuery, querySubtype=small_result, duration=32093250 ns, resultSize=381, dataSize=500000<<<<
+>>>>dbName=postgresquery="neralm", queryType=endsWithQuery, querySubtype=small_result, duration=31499417 ns, resultSize=56, dataSize=500000<<<<
+>>>>dbName=postgresquery="er", queryType=endsWithQuery, querySubtype=small_result, duration=34246167 ns, resultSize=11229, dataSize=500000<<<<
+>>>>dbName=postgresquery="aws", queryType=endsWithQuery, querySubtype=small_result, duration=34665958 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=postgresquery="poc", queryType=endsWithQuery, querySubtype=empty_result, duration=28461083 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="qneralm", queryType=endsWithQuery, querySubtype=empty_result, duration=27966833 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="peer", queryType=endsWithQuery, querySubtype=empty_result, duration=28451084 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="pwer", queryType=endsWithQuery, querySubtype=empty_result, duration=28423667 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="wsee", queryType=endsWithQuery, querySubtype=empty_result, duration=28365333 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="vews", queryType=endsWithQuery, querySubtype=empty_result, duration=28242084 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="qews", queryType=endsWithQuery, querySubtype=empty_result, duration=27931375 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="xews", queryType=endsWithQuery, querySubtype=empty_result, duration=28148833 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="zews", queryType=endsWithQuery, querySubtype=empty_result, duration=28432375 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="asd", queryType=endsWithQuery, querySubtype=empty_result, duration=34812833 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="T", queryType=notStartsQuery, querySubtype=big_result, duration=75986250 ns, resultSize=474435, dataSize=500000<<<<
+>>>>dbName=postgresquery="An", queryType=notStartsQuery, querySubtype=big_result, duration=97500792 ns, resultSize=497887, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ca", queryType=notStartsQuery, querySubtype=big_result, duration=57001833 ns, resultSize=479893, dataSize=500000<<<<
+>>>>dbName=postgresquery="Da", queryType=notStartsQuery, querySubtype=big_result, duration=108164375 ns, resultSize=491988, dataSize=500000<<<<
+>>>>dbName=postgresquery="De", queryType=notStartsQuery, querySubtype=big_result, duration=78613375 ns, resultSize=495489, dataSize=500000<<<<
+>>>>dbName=postgresquery="Na", queryType=notStartsQuery, querySubtype=big_result, duration=58600666 ns, resultSize=495931, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mas", queryType=notStartsQuery, querySubtype=big_result, duration=68768791 ns, resultSize=499430, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ka", queryType=notStartsQuery, querySubtype=big_result, duration=57663542 ns, resultSize=492460, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mc", queryType=notStartsQuery, querySubtype=big_result, duration=58048292 ns, resultSize=499125, dataSize=500000<<<<
+>>>>dbName=postgresquery="W", queryType=notStartsQuery, querySubtype=big_result, duration=56651334 ns, resultSize=480323, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ro", queryType=notStartsQuery, querySubtype=big_result, duration=88666292 ns, resultSize=494776, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sa", queryType=notStartsQuery, querySubtype=big_result, duration=57295916 ns, resultSize=488561, dataSize=500000<<<<
+>>>>dbName=postgresquery="Dc", queryType=notStartsQuery, querySubtype=small_result, duration=88276375 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="pr", queryType=notStartsQuery, querySubtype=small_result, duration=63403417 ns, resultSize=499989, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mn", queryType=notStartsQuery, querySubtype=small_result, duration=59599917 ns, resultSize=499980, dataSize=500000<<<<
+>>>>dbName=postgresquery="na", queryType=notStartsQuery, querySubtype=small_result, duration=59202292 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="ka", queryType=notStartsQuery, querySubtype=small_result, duration=57933792 ns, resultSize=499981, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant ", queryType=notStartsQuery, querySubtype=small_result, duration=58236292 ns, resultSize=499974, dataSize=500000<<<<
+>>>>dbName=postgresquery="Mira ", queryType=notStartsQuery, querySubtype=small_result, duration=58060000 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=postgresquery="Wa ", queryType=notStartsQuery, querySubtype=small_result, duration=57990500 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=postgresquery="W ", queryType=notStartsQuery, querySubtype=small_result, duration=178874666 ns, resultSize=499979, dataSize=500000<<<<
+>>>>dbName=postgresquery="St R", queryType=notStartsQuery, querySubtype=small_result, duration=57779626 ns, resultSize=499989, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miquel", queryType=notStartsQuery, querySubtype=small_result, duration=65422000 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=postgresquery="Ca ", queryType=notStartsQuery, querySubtype=empty_result, duration=59545167 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="kp", queryType=notStartsQuery, querySubtype=empty_result, duration=57959833 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="proa", queryType=notStartsQuery, querySubtype=empty_result, duration=57875250 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery=" ", queryType=notStartsQuery, querySubtype=empty_result, duration=58242000 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="Aa ", queryType=notStartsQuery, querySubtype=empty_result, duration=59196708 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="vb", queryType=notStartsQuery, querySubtype=empty_result, duration=58541416 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miquel de  ", queryType=notStartsQuery, querySubtype=empty_result, duration=58775916 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="Sant Miel", queryType=notStartsQuery, querySubtype=empty_result, duration=58072708 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="lap", queryType=notStartsQuery, querySubtype=empty_result, duration=191368334 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="wad", queryType=notStartsQuery, querySubtype=empty_result, duration=58325416 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="an", queryType=notEndsQuery, querySubtype=big_result, duration=78364875 ns, resultSize=490904, dataSize=500000<<<<
+>>>>dbName=postgresquery="a", queryType=notEndsQuery, querySubtype=big_result, duration=116735666 ns, resultSize=440824, dataSize=500000<<<<
+>>>>dbName=postgresquery="se", queryType=notEndsQuery, querySubtype=big_result, duration=69394541 ns, resultSize=497975, dataSize=500000<<<<
+>>>>dbName=postgresquery="o", queryType=notEndsQuery, querySubtype=big_result, duration=68583292 ns, resultSize=470480, dataSize=500000<<<<
+>>>>dbName=postgresquery="ro", queryType=notEndsQuery, querySubtype=big_result, duration=73266041 ns, resultSize=497293, dataSize=500000<<<<
+>>>>dbName=postgresquery="mo", queryType=notEndsQuery, querySubtype=big_result, duration=70492458 ns, resultSize=499515, dataSize=500000<<<<
+>>>>dbName=postgresquery="y", queryType=notEndsQuery, querySubtype=big_result, duration=67300375 ns, resultSize=484077, dataSize=500000<<<<
+>>>>dbName=postgresquery="es", queryType=notEndsQuery, querySubtype=big_result, duration=72017041 ns, resultSize=494271, dataSize=500000<<<<
+>>>>dbName=postgresquery="as", queryType=notEndsQuery, querySubtype=big_result, duration=73331292 ns, resultSize=495909, dataSize=500000<<<<
+>>>>dbName=postgresquery="c", queryType=notEndsQuery, querySubtype=big_result, duration=67386541 ns, resultSize=499470, dataSize=500000<<<<
+>>>>dbName=postgresquery="ista", queryType=notEndsQuery, querySubtype=small_result, duration=69388791 ns, resultSize=499726, dataSize=500000<<<<
+>>>>dbName=postgresquery="ny", queryType=notEndsQuery, querySubtype=small_result, duration=201913958 ns, resultSize=499810, dataSize=500000<<<<
+>>>>dbName=postgresquery="xy", queryType=notEndsQuery, querySubtype=small_result, duration=70572000 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="aq", queryType=notEndsQuery, querySubtype=small_result, duration=77742708 ns, resultSize=499426, dataSize=500000<<<<
+>>>>dbName=postgresquery="ayw", queryType=notEndsQuery, querySubtype=small_result, duration=74571209 ns, resultSize=499995, dataSize=500000<<<<
+>>>>dbName=postgresquery="oc", queryType=notEndsQuery, querySubtype=small_result, duration=72576333 ns, resultSize=499926, dataSize=500000<<<<
+>>>>dbName=postgresquery="ralm", queryType=notEndsQuery, querySubtype=small_result, duration=72554334 ns, resultSize=499663, dataSize=500000<<<<
+>>>>dbName=postgresquery="ral", queryType=notEndsQuery, querySubtype=small_result, duration=70842250 ns, resultSize=499619, dataSize=500000<<<<
+>>>>dbName=postgresquery="neralm", queryType=notEndsQuery, querySubtype=small_result, duration=145836709 ns, resultSize=499944, dataSize=500000<<<<
+>>>>dbName=postgresquery="er", queryType=notEndsQuery, querySubtype=small_result, duration=71321708 ns, resultSize=488771, dataSize=500000<<<<
+>>>>dbName=postgresquery="aws", queryType=notEndsQuery, querySubtype=small_result, duration=73369209 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=postgresquery="poc", queryType=notEndsQuery, querySubtype=empty_result, duration=67559375 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="qneralm", queryType=notEndsQuery, querySubtype=empty_result, duration=156114916 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="peer", queryType=notEndsQuery, querySubtype=empty_result, duration=68548917 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="pwer", queryType=notEndsQuery, querySubtype=empty_result, duration=66818250 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="wsee", queryType=notEndsQuery, querySubtype=empty_result, duration=66954208 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="vews", queryType=notEndsQuery, querySubtype=empty_result, duration=66849333 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="qews", queryType=notEndsQuery, querySubtype=empty_result, duration=66617167 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="xews", queryType=notEndsQuery, querySubtype=empty_result, duration=150053875 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="zews", queryType=notEndsQuery, querySubtype=empty_result, duration=67591792 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="asd", queryType=notEndsQuery, querySubtype=empty_result, duration=74074625 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery=" de la M", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=76689000 ns, resultSize=499908, dataSize=500000<<<<
+>>>>dbName=postgresquery="Public", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=67447875 ns, resultSize=497691, dataSize=500000<<<<
+>>>>dbName=postgresquery="Plaza", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=112993750 ns, resultSize=499840, dataSize=500000<<<<
+>>>>dbName=postgresquery="Argentina", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=67347833 ns, resultSize=499904, dataSize=500000<<<<
+>>>>dbName=postgresquery="anada de", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=73728500 ns, resultSize=499849, dataSize=500000<<<<
+>>>>dbName=postgresquery="ocky ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=70039917 ns, resultSize=499529, dataSize=500000<<<<
+>>>>dbName=postgresquery="otel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=69824667 ns, resultSize=497838, dataSize=500000<<<<
+>>>>dbName=postgresquery="Hotel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=69433458 ns, resultSize=498364, dataSize=500000<<<<
+>>>>dbName=postgresquery="entral ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=172465500 ns, resultSize=499749, dataSize=500000<<<<
+>>>>dbName=postgresquery="South", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=70840042 ns, resultSize=498391, dataSize=500000<<<<
+>>>>dbName=postgresquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=notIncludesQuery, querySubtype=empty_result, duration=67996667 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="ppirn", queryType=notIncludesQuery, querySubtype=empty_result, duration=67201417 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="wnp", queryType=notIncludesQuery, querySubtype=empty_result, duration=67632166 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="thabbaya Mediumw", queryType=notIncludesQuery, querySubtype=empty_result, duration=68863208 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="Amuntr de", queryType=notIncludesQuery, querySubtype=empty_result, duration=67014916 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="del o", queryType=notIncludesQuery, querySubtype=empty_result, duration=68116000 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="anakp", queryType=notIncludesQuery, querySubtype=empty_result, duration=73975750 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="anakl", queryType=notIncludesQuery, querySubtype=empty_result, duration=230423959 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="amapz", queryType=notIncludesQuery, querySubtype=empty_result, duration=73716167 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="amanln", queryType=notIncludesQuery, querySubtype=empty_result, duration=73378833 ns, resultSize=500000, dataSize=500000<<<<
+>>>>dbName=postgresquery="ix", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=69448875 ns, resultSize=499149, dataSize=500000<<<<
+>>>>dbName=postgresquery=" Roc ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=70584667 ns, resultSize=499994, dataSize=500000<<<<
+>>>>dbName=postgresquery="mn", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=133376333 ns, resultSize=499782, dataSize=500000<<<<
+>>>>dbName=postgresquery="n v", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=69777709 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=postgresquery="omo ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=69757959 ns, resultSize=499967, dataSize=500000<<<<
+>>>>dbName=postgresquery="mln", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=67344875 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=67439958 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=postgresquery="Wk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=66607500 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="zz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=66789459 ns, resultSize=499844, dataSize=500000<<<<
+>>>>dbName=postgresquery="kz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=67446125 ns, resultSize=499912, dataSize=500000<<<<
+>>>>dbName=postgresquery="pz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=66869750 ns, resultSize=499990, dataSize=500000<<<<
+>>>>dbName=postgresquery="knk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=222171083 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=postgresquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=92550167 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=postgresquery="wne Pla", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=83898500 ns, resultSize=499974, dataSize=500000<<<<
+>>>>dbName=postgresquery=" Yaw", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=82293083 ns, resultSize=499993, dataSize=500000<<<<
+>>>>dbName=postgresquery="shkhara", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=80872458 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=postgresquery="angounel", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=99076458 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="y de les ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=81038375 ns, resultSize=499988, dataSize=500000<<<<
+>>>>dbName=postgresquery="sera de la ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=84161625 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="rra de la Cr", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=83704708 ns, resultSize=499997, dataSize=500000<<<<
+>>>>dbName=postgresquery="epentance Creek Public Schoo", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=86487584 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="rranc de la Solana del Pas de la Ca", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=95235042 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="nsmitter ( 1170 kHz); Tow", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=87308000 ns, resultSize=499996, dataSize=500000<<<<
+>>>>dbName=postgresquery="zat e reja ;New Cemetery ; of Xhafell", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=79098709 ns, resultSize=499999, dataSize=500000<<<<
+>>>>dbName=postgresquery="de", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=82719167 ns, resultSize=473799, dataSize=500000<<<<
+>>>>dbName=postgresquery=" de ", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=97218208 ns, resultSize=493232, dataSize=500000<<<<
+>>>>dbName=postgresquery="-ye", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=82996834 ns, resultSize=490722, dataSize=500000<<<<
+>>>>dbName=postgresquery="Va", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=82551125 ns, resultSize=496083, dataSize=500000<<<<
+>>>>dbName=postgresquery="a C", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=94224958 ns, resultSize=494159, dataSize=500000<<<<
+>>>>dbName=postgresquery="st", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=77307792 ns, resultSize=467987, dataSize=500000<<<<
+>>>>dbName=postgresquery="Gr", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=80834458 ns, resultSize=492753, dataSize=500000<<<<
+>>>>dbName=postgresquery="Roc", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=66483667 ns, resultSize=495913, dataSize=500000<<<<
+>>>>dbName=postgresquery="am", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=70711750 ns, resultSize=464950, dataSize=500000<<<<
+>>>>dbName=postgresquery="ill", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=69259791 ns, resultSize=479879, dataSize=500000<<<<
+>>>>dbName=postgresquery="Park", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=68367208 ns, resultSize=488580, dataSize=500000<<<<
+>>>>dbName=postgresquery=" de la M", queryType=includesQuery, querySubtype=big_result/big_input, duration=37403750 ns, resultSize=92, dataSize=500000<<<<
+>>>>dbName=postgresquery="Public", queryType=includesQuery, querySubtype=big_result/big_input, duration=29640875 ns, resultSize=2309, dataSize=500000<<<<
+>>>>dbName=postgresquery="Plaza", queryType=includesQuery, querySubtype=big_result/big_input, duration=28573834 ns, resultSize=160, dataSize=500000<<<<
+>>>>dbName=postgresquery="Argentina", queryType=includesQuery, querySubtype=big_result/big_input, duration=31335125 ns, resultSize=96, dataSize=500000<<<<
+>>>>dbName=postgresquery="anada de", queryType=includesQuery, querySubtype=big_result/big_input, duration=36991667 ns, resultSize=151, dataSize=500000<<<<
+>>>>dbName=postgresquery="ocky ", queryType=includesQuery, querySubtype=big_result/big_input, duration=32562750 ns, resultSize=471, dataSize=500000<<<<
+>>>>dbName=postgresquery="otel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=32405584 ns, resultSize=2162, dataSize=500000<<<<
+>>>>dbName=postgresquery="Hotel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=28774292 ns, resultSize=1636, dataSize=500000<<<<
+>>>>dbName=postgresquery="entral ", queryType=includesQuery, querySubtype=big_result/big_input, duration=33487875 ns, resultSize=251, dataSize=500000<<<<
+>>>>dbName=postgresquery="South", queryType=includesQuery, querySubtype=big_result/big_input, duration=29004791 ns, resultSize=1609, dataSize=500000<<<<
+>>>>dbName=postgresquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=includesQuery, querySubtype=empty_result, duration=28455583 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="ppirn", queryType=includesQuery, querySubtype=empty_result, duration=28360667 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="wnp", queryType=includesQuery, querySubtype=empty_result, duration=28494583 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="thabbaya Mediumw", queryType=includesQuery, querySubtype=empty_result, duration=30180875 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="Amuntr de", queryType=includesQuery, querySubtype=empty_result, duration=28519083 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="del o", queryType=includesQuery, querySubtype=empty_result, duration=29500167 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="anakp", queryType=includesQuery, querySubtype=empty_result, duration=35707459 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="anakl", queryType=includesQuery, querySubtype=empty_result, duration=37359750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="amapz", queryType=includesQuery, querySubtype=empty_result, duration=36716417 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="amanln", queryType=includesQuery, querySubtype=empty_result, duration=35103750 ns, resultSize=0, dataSize=500000<<<<
+>>>>dbName=postgresquery="ix", queryType=includesQuery, querySubtype=small_result/small_input, duration=31095167 ns, resultSize=851, dataSize=500000<<<<
+>>>>dbName=postgresquery=" Roc ", queryType=includesQuery, querySubtype=small_result/small_input, duration=31886292 ns, resultSize=6, dataSize=500000<<<<
+>>>>dbName=postgresquery="mn", queryType=includesQuery, querySubtype=small_result/small_input, duration=29029292 ns, resultSize=218, dataSize=500000<<<<
+>>>>dbName=postgresquery="n v", queryType=includesQuery, querySubtype=small_result/small_input, duration=31509458 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=postgresquery="omo ", queryType=includesQuery, querySubtype=small_result/small_input, duration=31469542 ns, resultSize=33, dataSize=500000<<<<
+>>>>dbName=postgresquery="mln", queryType=includesQuery, querySubtype=small_result/small_input, duration=29081917 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=29213167 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=postgresquery="Wk", queryType=includesQuery, querySubtype=small_result/small_input, duration=28328417 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="zz", queryType=includesQuery, querySubtype=small_result/small_input, duration=28240708 ns, resultSize=156, dataSize=500000<<<<
+>>>>dbName=postgresquery="kz", queryType=includesQuery, querySubtype=small_result/small_input, duration=28976667 ns, resultSize=88, dataSize=500000<<<<
+>>>>dbName=postgresquery="pz", queryType=includesQuery, querySubtype=small_result/small_input, duration=28355833 ns, resultSize=10, dataSize=500000<<<<
+>>>>dbName=postgresquery="knk", queryType=includesQuery, querySubtype=small_result/small_input, duration=28855167 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=postgresquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=28898334 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=postgresquery="wne Pla", queryType=includesQuery, querySubtype=small_result/big_input, duration=28410917 ns, resultSize=26, dataSize=500000<<<<
+>>>>dbName=postgresquery=" Yaw", queryType=includesQuery, querySubtype=small_result/big_input, duration=31789875 ns, resultSize=7, dataSize=500000<<<<
+>>>>dbName=postgresquery="shkhara", queryType=includesQuery, querySubtype=small_result/big_input, duration=29918542 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=postgresquery="angounel", queryType=includesQuery, querySubtype=small_result/big_input, duration=35266833 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="y de les ", queryType=includesQuery, querySubtype=small_result/big_input, duration=28927375 ns, resultSize=12, dataSize=500000<<<<
+>>>>dbName=postgresquery="sera de la ", queryType=includesQuery, querySubtype=small_result/big_input, duration=30020333 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="rra de la Cr", queryType=includesQuery, querySubtype=small_result/big_input, duration=31820000 ns, resultSize=3, dataSize=500000<<<<
+>>>>dbName=postgresquery="epentance Creek Public Schoo", queryType=includesQuery, querySubtype=small_result/big_input, duration=34549166 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="rranc de la Solana del Pas de la Ca", queryType=includesQuery, querySubtype=small_result/big_input, duration=32079334 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="nsmitter ( 1170 kHz); Tow", queryType=includesQuery, querySubtype=small_result/big_input, duration=31346625 ns, resultSize=4, dataSize=500000<<<<
+>>>>dbName=postgresquery="zat e reja ;New Cemetery ; of Xhafell", queryType=includesQuery, querySubtype=small_result/big_input, duration=28533834 ns, resultSize=1, dataSize=500000<<<<
+>>>>dbName=postgresquery="de", queryType=includesQuery, querySubtype=big_result/small_input, duration=31656167 ns, resultSize=26201, dataSize=500000<<<<
+>>>>dbName=postgresquery=" de ", queryType=includesQuery, querySubtype=big_result/small_input, duration=32338417 ns, resultSize=6768, dataSize=500000<<<<
+>>>>dbName=postgresquery="-ye", queryType=includesQuery, querySubtype=big_result/small_input, duration=29041917 ns, resultSize=9278, dataSize=500000<<<<
+>>>>dbName=postgresquery="Va", queryType=includesQuery, querySubtype=big_result/small_input, duration=28476500 ns, resultSize=3917, dataSize=500000<<<<
+>>>>dbName=postgresquery="a C", queryType=includesQuery, querySubtype=big_result/small_input, duration=35314334 ns, resultSize=5841, dataSize=500000<<<<
+>>>>dbName=postgresquery="st", queryType=includesQuery, querySubtype=big_result/small_input, duration=32340333 ns, resultSize=32013, dataSize=500000<<<<
+>>>>dbName=postgresquery="Gr", queryType=includesQuery, querySubtype=big_result/small_input, duration=29028375 ns, resultSize=7247, dataSize=500000<<<<
+>>>>dbName=postgresquery="Roc", queryType=includesQuery, querySubtype=big_result/small_input, duration=28837667 ns, resultSize=4087, dataSize=500000<<<<
+>>>>dbName=postgresquery="am", queryType=includesQuery, querySubtype=big_result/small_input, duration=37580416 ns, resultSize=35050, dataSize=500000<<<<
+>>>>dbName=postgresquery="ill", queryType=includesQuery, querySubtype=big_result/small_input, duration=32907500 ns, resultSize=20121, dataSize=500000<<<<
+>>>>dbName=postgresquery="Park", queryType=includesQuery, querySubtype=big_result/small_input, duration=29790125 ns, resultSize=11420, dataSize=500000<<<<

@@ -1,0 +1,273 @@
+>>>>dbName=mysqlquery="T", queryType=startsWithQuery, querySubtype=big_result, duration=211431959 ns, resultSize=62406, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="An", queryType=startsWithQuery, querySubtype=big_result, duration=175377916 ns, resultSize=6460, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ca", queryType=startsWithQuery, querySubtype=big_result, duration=180313251 ns, resultSize=38565, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Da", queryType=startsWithQuery, querySubtype=big_result, duration=176207583 ns, resultSize=17443, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="De", queryType=startsWithQuery, querySubtype=big_result, duration=174274667 ns, resultSize=11105, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Na", queryType=startsWithQuery, querySubtype=big_result, duration=174939209 ns, resultSize=12104, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mas", queryType=startsWithQuery, querySubtype=big_result, duration=173261167 ns, resultSize=2137, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ka", queryType=startsWithQuery, querySubtype=big_result, duration=195563334 ns, resultSize=30128, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mc", queryType=startsWithQuery, querySubtype=big_result, duration=173686959 ns, resultSize=3728, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="W", queryType=startsWithQuery, querySubtype=big_result, duration=178656625 ns, resultSize=38976, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ro", queryType=startsWithQuery, querySubtype=big_result, duration=175632334 ns, resultSize=12204, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sa", queryType=startsWithQuery, querySubtype=big_result, duration=179183166 ns, resultSize=34527, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Dc", queryType=startsWithQuery, querySubtype=small_result, duration=171556917 ns, resultSize=6, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pr", queryType=startsWithQuery, querySubtype=small_result, duration=173480417 ns, resultSize=6531, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mn", queryType=startsWithQuery, querySubtype=small_result, duration=172025625 ns, resultSize=31, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="na", queryType=startsWithQuery, querySubtype=small_result, duration=174731500 ns, resultSize=12104, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ka", queryType=startsWithQuery, querySubtype=small_result, duration=178562041 ns, resultSize=30128, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant ", queryType=startsWithQuery, querySubtype=small_result, duration=171398250 ns, resultSize=30, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mira ", queryType=startsWithQuery, querySubtype=small_result, duration=171407584 ns, resultSize=30, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Wa ", queryType=startsWithQuery, querySubtype=small_result, duration=194887167 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="W ", queryType=startsWithQuery, querySubtype=small_result, duration=171895250 ns, resultSize=29, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="St R", queryType=startsWithQuery, querySubtype=small_result, duration=172175541 ns, resultSize=13, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miquel", queryType=startsWithQuery, querySubtype=small_result, duration=172420834 ns, resultSize=4, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ca ", queryType=startsWithQuery, querySubtype=empty_result, duration=172527375 ns, resultSize=11, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="kp", queryType=startsWithQuery, querySubtype=empty_result, duration=172263167 ns, resultSize=269, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="proa", queryType=startsWithQuery, querySubtype=empty_result, duration=172323083 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" ", queryType=startsWithQuery, querySubtype=empty_result, duration=172075376 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Aa ", queryType=startsWithQuery, querySubtype=empty_result, duration=176372750 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="vb", queryType=startsWithQuery, querySubtype=empty_result, duration=171617125 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miquel de  ", queryType=startsWithQuery, querySubtype=empty_result, duration=172246250 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miel", queryType=startsWithQuery, querySubtype=empty_result, duration=179189542 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="lap", queryType=startsWithQuery, querySubtype=empty_result, duration=183415541 ns, resultSize=228, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wad", queryType=startsWithQuery, querySubtype=empty_result, duration=173438750 ns, resultSize=635, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Travenc", queryType=searchQuery, querySubtype=small_input, duration=176845875 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Tolse", queryType=searchQuery, querySubtype=small_input, duration=195606250 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="La Trava", queryType=searchQuery, querySubtype=small_input, duration=177502208 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Artenu", queryType=searchQuery, querySubtype=small_input, duration=175828959 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Prats", queryType=searchQuery, querySubtype=small_input, duration=175303792 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Llorts", queryType=searchQuery, querySubtype=small_input, duration=175872542 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Coll Pa", queryType=searchQuery, querySubtype=small_input, duration=176245042 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Lloset", queryType=searchQuery, querySubtype=small_input, duration=176236667 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Aygal", queryType=searchQuery, querySubtype=small_input, duration=176161834 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Wafd", queryType=searchQuery, querySubtype=small_input, duration=175403792 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Tut", queryType=searchQuery, querySubtype=small_input, duration=175925542 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Padah", queryType=searchQuery, querySubtype=small_input, duration=175691459 ns, resultSize=6, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Kim", queryType=searchQuery, querySubtype=small_input, duration=176066250 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="olse", queryType=searchQuery, querySubtype=empty_result, duration=194590875 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Cami del Pla", queryType=searchQuery, querySubtype=empty_result, duration=177380916 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Trava", queryType=searchQuery, querySubtype=empty_result, duration=176183459 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="arimat Umm al Muwa", queryType=searchQuery, querySubtype=empty_result, duration=175493667 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Tu", queryType=searchQuery, querySubtype=empty_result, duration=175756500 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Muhammad Bin Khalid", queryType=searchQuery, querySubtype=empty_result, duration=176321041 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Forat del Riu", queryType=searchQuery, querySubtype=empty_result, duration=176666625 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Shaykh Zayid lith", queryType=searchQuery, querySubtype=empty_result, duration=176412708 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Shaykh Khalid Bin Sultan al Qassimi Squar", queryType=searchQuery, querySubtype=empty_result, duration=176293625 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Coll ", queryType=searchQuery, querySubtype=empty_result, duration=175603417 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Madrasat Muhammad Bin Khalid ath Thanawiya", queryType=searchQuery, querySubtype=empty_result, duration=179139583 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Cami del Pla de les Pedres", queryType=searchQuery, querySubtype=big_input, duration=199830791 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Estany dels Meners de la Coma", queryType=searchQuery, querySubtype=big_input, duration=176074875 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Cresta del Forat dels Malhiverns", queryType=searchQuery, querySubtype=big_input, duration=176091917 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Kharimat Umm al Muwayghir", queryType=searchQuery, querySubtype=big_input, duration=176105834 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Madrasat Muhammad Bin Khalid ath Thanawiyah", queryType=searchQuery, querySubtype=big_input, duration=176457750 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah", queryType=searchQuery, querySubtype=big_input, duration=175983666 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Forat del Riu dels Clots de Massat", queryType=searchQuery, querySubtype=big_input, duration=174301167 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Shaykh Khalid Bin Sultan al Qassimi Square", queryType=searchQuery, querySubtype=big_input, duration=176000376 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Le Royal Meridien Beach Resort Spa Dubai", queryType=searchQuery, querySubtype=big_input, duration=175695334 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Qaryah-ye Haji Muhammad Afzal Khan", queryType=searchQuery, querySubtype=big_input, duration=175890000 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Darya-ye Khushk-e Khinjak Manah", queryType=searchQuery, querySubtype=big_input, duration=176323292 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="an", queryType=endsWithQuery, querySubtype=big_result, duration=272815584 ns, resultSize=28699, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="a", queryType=endsWithQuery, querySubtype=big_result, duration=286012750 ns, resultSize=238602, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="se", queryType=endsWithQuery, querySubtype=big_result, duration=236336208 ns, resultSize=9010, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="o", queryType=endsWithQuery, querySubtype=big_result, duration=274682291 ns, resultSize=119616, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ro", queryType=endsWithQuery, querySubtype=big_result, duration=242523375 ns, resultSize=13339, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mo", queryType=endsWithQuery, querySubtype=big_result, duration=230428458 ns, resultSize=2129, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="y", queryType=endsWithQuery, querySubtype=big_result, duration=232442500 ns, resultSize=40315, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="es", queryType=endsWithQuery, querySubtype=big_result, duration=247983001 ns, resultSize=21689, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="as", queryType=endsWithQuery, querySubtype=big_result, duration=254277417 ns, resultSize=14449, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="c", queryType=endsWithQuery, querySubtype=big_result, duration=233073417 ns, resultSize=7859, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ista", queryType=endsWithQuery, querySubtype=small_result, duration=239891459 ns, resultSize=1952, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ny", queryType=endsWithQuery, querySubtype=small_result, duration=254494291 ns, resultSize=1679, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="xy", queryType=endsWithQuery, querySubtype=small_result, duration=225408375 ns, resultSize=4, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="aq", queryType=endsWithQuery, querySubtype=small_result, duration=254911001 ns, resultSize=1275, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ayw", queryType=endsWithQuery, querySubtype=small_result, duration=252690083 ns, resultSize=5, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="oc", queryType=endsWithQuery, querySubtype=small_result, duration=238121750 ns, resultSize=306, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ralm", queryType=endsWithQuery, querySubtype=small_result, duration=240485959 ns, resultSize=337, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ral", queryType=endsWithQuery, querySubtype=small_result, duration=241485250 ns, resultSize=1210, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="neralm", queryType=endsWithQuery, querySubtype=small_result, duration=238190959 ns, resultSize=56, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="er", queryType=endsWithQuery, querySubtype=small_result, duration=249936666 ns, resultSize=28883, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="aws", queryType=endsWithQuery, querySubtype=small_result, duration=269552334 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="poc", queryType=endsWithQuery, querySubtype=empty_result, duration=229705458 ns, resultSize=8, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="qneralm", queryType=endsWithQuery, querySubtype=empty_result, duration=224312709 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="peer", queryType=endsWithQuery, querySubtype=empty_result, duration=229420500 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pwer", queryType=endsWithQuery, querySubtype=empty_result, duration=228538334 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wsee", queryType=endsWithQuery, querySubtype=empty_result, duration=225700583 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="vews", queryType=endsWithQuery, querySubtype=empty_result, duration=226363459 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="qews", queryType=endsWithQuery, querySubtype=empty_result, duration=224162875 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="xews", queryType=endsWithQuery, querySubtype=empty_result, duration=223604750 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zews", queryType=endsWithQuery, querySubtype=empty_result, duration=243632833 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="asd", queryType=endsWithQuery, querySubtype=empty_result, duration=252731209 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="T", queryType=notStartsQuery, querySubtype=big_result, duration=575164750 ns, resultSize=1437594, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="An", queryType=notStartsQuery, querySubtype=big_result, duration=569449625 ns, resultSize=1493540, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ca", queryType=notStartsQuery, querySubtype=big_result, duration=563926375 ns, resultSize=1461435, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Da", queryType=notStartsQuery, querySubtype=big_result, duration=509695167 ns, resultSize=1482557, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="De", queryType=notStartsQuery, querySubtype=big_result, duration=743836292 ns, resultSize=1488895, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Na", queryType=notStartsQuery, querySubtype=big_result, duration=580533750 ns, resultSize=1487896, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mas", queryType=notStartsQuery, querySubtype=big_result, duration=595576958 ns, resultSize=1497863, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ka", queryType=notStartsQuery, querySubtype=big_result, duration=622183875 ns, resultSize=1469872, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mc", queryType=notStartsQuery, querySubtype=big_result, duration=620628251 ns, resultSize=1496272, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="W", queryType=notStartsQuery, querySubtype=big_result, duration=568475000 ns, resultSize=1461024, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ro", queryType=notStartsQuery, querySubtype=big_result, duration=437662084 ns, resultSize=1487796, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sa", queryType=notStartsQuery, querySubtype=big_result, duration=714741042 ns, resultSize=1465473, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Dc", queryType=notStartsQuery, querySubtype=small_result, duration=530431292 ns, resultSize=1499994, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pr", queryType=notStartsQuery, querySubtype=small_result, duration=427150333 ns, resultSize=1493469, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mn", queryType=notStartsQuery, querySubtype=small_result, duration=802920417 ns, resultSize=1499969, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="na", queryType=notStartsQuery, querySubtype=small_result, duration=592293167 ns, resultSize=1487896, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ka", queryType=notStartsQuery, querySubtype=small_result, duration=628174875 ns, resultSize=1469872, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant ", queryType=notStartsQuery, querySubtype=small_result, duration=606712209 ns, resultSize=1499970, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Mira ", queryType=notStartsQuery, querySubtype=small_result, duration=640914250 ns, resultSize=1499970, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Wa ", queryType=notStartsQuery, querySubtype=small_result, duration=635608500 ns, resultSize=1499990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="W ", queryType=notStartsQuery, querySubtype=small_result, duration=606141167 ns, resultSize=1499971, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="St R", queryType=notStartsQuery, querySubtype=small_result, duration=625054917 ns, resultSize=1499987, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miquel", queryType=notStartsQuery, querySubtype=small_result, duration=559166042 ns, resultSize=1499996, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Ca ", queryType=notStartsQuery, querySubtype=empty_result, duration=438831792 ns, resultSize=1499989, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="kp", queryType=notStartsQuery, querySubtype=empty_result, duration=783918501 ns, resultSize=1499731, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="proa", queryType=notStartsQuery, querySubtype=empty_result, duration=608702042 ns, resultSize=1499998, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" ", queryType=notStartsQuery, querySubtype=empty_result, duration=642499459 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Aa ", queryType=notStartsQuery, querySubtype=empty_result, duration=662419834 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="vb", queryType=notStartsQuery, querySubtype=empty_result, duration=665818250 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miquel de  ", queryType=notStartsQuery, querySubtype=empty_result, duration=647137084 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Sant Miel", queryType=notStartsQuery, querySubtype=empty_result, duration=510985834 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="lap", queryType=notStartsQuery, querySubtype=empty_result, duration=464966001 ns, resultSize=1499772, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wad", queryType=notStartsQuery, querySubtype=empty_result, duration=760640584 ns, resultSize=1499365, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="an", queryType=notEndsQuery, querySubtype=big_result, duration=609396625 ns, resultSize=1471301, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="a", queryType=notEndsQuery, querySubtype=big_result, duration=618113375 ns, resultSize=1261398, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="se", queryType=notEndsQuery, querySubtype=big_result, duration=627083126 ns, resultSize=1490990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="o", queryType=notEndsQuery, querySubtype=big_result, duration=489177375 ns, resultSize=1380384, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ro", queryType=notEndsQuery, querySubtype=big_result, duration=777420376 ns, resultSize=1486661, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mo", queryType=notEndsQuery, querySubtype=big_result, duration=645730417 ns, resultSize=1497871, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="y", queryType=notEndsQuery, querySubtype=big_result, duration=712934167 ns, resultSize=1459685, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="es", queryType=notEndsQuery, querySubtype=big_result, duration=647584959 ns, resultSize=1478311, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="as", queryType=notEndsQuery, querySubtype=big_result, duration=643053542 ns, resultSize=1485551, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="c", queryType=notEndsQuery, querySubtype=big_result, duration=669880167 ns, resultSize=1492141, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ista", queryType=notEndsQuery, querySubtype=small_result, duration=731478584 ns, resultSize=1498048, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ny", queryType=notEndsQuery, querySubtype=small_result, duration=855665000 ns, resultSize=1498321, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="xy", queryType=notEndsQuery, querySubtype=small_result, duration=683347834 ns, resultSize=1499996, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="aq", queryType=notEndsQuery, querySubtype=small_result, duration=661895291 ns, resultSize=1498725, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ayw", queryType=notEndsQuery, querySubtype=small_result, duration=679196542 ns, resultSize=1499995, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="oc", queryType=notEndsQuery, querySubtype=small_result, duration=662704709 ns, resultSize=1499694, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ralm", queryType=notEndsQuery, querySubtype=small_result, duration=697887126 ns, resultSize=1499663, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ral", queryType=notEndsQuery, querySubtype=small_result, duration=646139501 ns, resultSize=1498790, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="neralm", queryType=notEndsQuery, querySubtype=small_result, duration=648995291 ns, resultSize=1499944, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="er", queryType=notEndsQuery, querySubtype=small_result, duration=693446750 ns, resultSize=1471117, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="aws", queryType=notEndsQuery, querySubtype=small_result, duration=581429334 ns, resultSize=1499990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="poc", queryType=notEndsQuery, querySubtype=empty_result, duration=524678459 ns, resultSize=1499992, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="qneralm", queryType=notEndsQuery, querySubtype=empty_result, duration=488604250 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="peer", queryType=notEndsQuery, querySubtype=empty_result, duration=742506000 ns, resultSize=1499990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pwer", queryType=notEndsQuery, querySubtype=empty_result, duration=642853708 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wsee", queryType=notEndsQuery, querySubtype=empty_result, duration=614647042 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="vews", queryType=notEndsQuery, querySubtype=empty_result, duration=672239417 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="qews", queryType=notEndsQuery, querySubtype=empty_result, duration=658833834 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="xews", queryType=notEndsQuery, querySubtype=empty_result, duration=625102959 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zews", queryType=notEndsQuery, querySubtype=empty_result, duration=685602959 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="asd", queryType=notEndsQuery, querySubtype=empty_result, duration=633017042 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" de la M", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=613550542 ns, resultSize=1499372, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Public", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=689910750 ns, resultSize=1497590, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Plaza", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=640891958 ns, resultSize=1499396, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Argentina", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=535501792 ns, resultSize=1499895, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anada de", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=541374708 ns, resultSize=1499780, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ocky ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=639084542 ns, resultSize=1499018, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="otel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=621239959 ns, resultSize=1493989, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Hotel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=649707208 ns, resultSize=1494490, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="entral ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=500604042 ns, resultSize=1499612, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="South", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=709544667 ns, resultSize=1496310, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=notIncludesQuery, querySubtype=empty_result, duration=562185375 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ppirn", queryType=notIncludesQuery, querySubtype=empty_result, duration=712501000 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wnp", queryType=notIncludesQuery, querySubtype=empty_result, duration=601098292 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="thabbaya Mediumw", queryType=notIncludesQuery, querySubtype=empty_result, duration=589817375 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Amuntr de", queryType=notIncludesQuery, querySubtype=empty_result, duration=636584542 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="del o", queryType=notIncludesQuery, querySubtype=empty_result, duration=640430083 ns, resultSize=1499945, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anakp", queryType=notIncludesQuery, querySubtype=empty_result, duration=661066250 ns, resultSize=1499990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anakl", queryType=notIncludesQuery, querySubtype=empty_result, duration=632836834 ns, resultSize=1499998, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="amapz", queryType=notIncludesQuery, querySubtype=empty_result, duration=527644500 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="amanln", queryType=notIncludesQuery, querySubtype=empty_result, duration=546721292 ns, resultSize=1500000, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ix", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=677575167 ns, resultSize=1495307, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" Roc ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=638191000 ns, resultSize=1499993, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mn", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=578427876 ns, resultSize=1498939, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="n v", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=613609250 ns, resultSize=1498576, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="omo ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=644274834 ns, resultSize=1499884, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mln", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=602799417 ns, resultSize=1499998, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=597281417 ns, resultSize=1499993, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Wk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=524636751 ns, resultSize=1498943, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=649177417 ns, resultSize=1498941, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="kz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=568699750 ns, resultSize=1499875, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=618629041 ns, resultSize=1499965, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="knk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=592741667 ns, resultSize=1499997, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=599079542 ns, resultSize=1499993, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wne Pla", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=586393334 ns, resultSize=1499924, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" Yaw", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=576086709 ns, resultSize=1499990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="shkhara", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=652852042 ns, resultSize=1499997, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="angounel", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=599631000 ns, resultSize=1499999, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="y de les ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=596221667 ns, resultSize=1499988, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="sera de la ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=666486625 ns, resultSize=1499999, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="rra de la Cr", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=611962084 ns, resultSize=1499996, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="epentance Creek Public Schoo", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=611734875 ns, resultSize=1499999, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="rranc de la Solana del Pas de la Ca", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=611411833 ns, resultSize=1499999, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="nsmitter ( 1170 kHz); Tow", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=593981626 ns, resultSize=1499996, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zat e reja ;New Cemetery ; of Xhafell", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=640887001 ns, resultSize=1499999, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="de", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=601904833 ns, resultSize=1397308, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" de ", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=647219417 ns, resultSize=1470635, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="-ye", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=638503583 ns, resultSize=1490656, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Va", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=628066667 ns, resultSize=1462990, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="a C", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=517666792 ns, resultSize=1483075, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="st", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=676535167 ns, resultSize=1401115, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Gr", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=642180708 ns, resultSize=1465838, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Roc", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=706130584 ns, resultSize=1485996, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="am", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=482592084 ns, resultSize=1412232, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ill", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=630567458 ns, resultSize=1460008, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Park", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=575226208 ns, resultSize=1485358, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" de la M", queryType=includesQuery, querySubtype=big_result/big_input, duration=241430417 ns, resultSize=628, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Public", queryType=includesQuery, querySubtype=big_result/big_input, duration=234466000 ns, resultSize=2410, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Plaza", queryType=includesQuery, querySubtype=big_result/big_input, duration=230325917 ns, resultSize=604, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Argentina", queryType=includesQuery, querySubtype=big_result/big_input, duration=265557458 ns, resultSize=105, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anada de", queryType=includesQuery, querySubtype=big_result/big_input, duration=269409291 ns, resultSize=220, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ocky ", queryType=includesQuery, querySubtype=big_result/big_input, duration=239464375 ns, resultSize=982, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="otel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=241589292 ns, resultSize=6011, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Hotel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=234506166 ns, resultSize=5510, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="entral ", queryType=includesQuery, querySubtype=big_result/big_input, duration=245649792 ns, resultSize=388, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="South", queryType=includesQuery, querySubtype=big_result/big_input, duration=238322083 ns, resultSize=3690, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=includesQuery, querySubtype=empty_result, duration=226815875 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ppirn", queryType=includesQuery, querySubtype=empty_result, duration=228753542 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wnp", queryType=includesQuery, querySubtype=empty_result, duration=229231875 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="thabbaya Mediumw", queryType=includesQuery, querySubtype=empty_result, duration=252055791 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Amuntr de", queryType=includesQuery, querySubtype=empty_result, duration=264562792 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="del o", queryType=includesQuery, querySubtype=empty_result, duration=232044041 ns, resultSize=55, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anakp", queryType=includesQuery, querySubtype=empty_result, duration=255026459 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="anakl", queryType=includesQuery, querySubtype=empty_result, duration=254965376 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="amapz", queryType=includesQuery, querySubtype=empty_result, duration=252715459 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="amanln", queryType=includesQuery, querySubtype=empty_result, duration=251619375 ns, resultSize=0, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ix", queryType=includesQuery, querySubtype=small_result/small_input, duration=239193625 ns, resultSize=4693, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" Roc ", queryType=includesQuery, querySubtype=small_result/small_input, duration=256618791 ns, resultSize=7, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mn", queryType=includesQuery, querySubtype=small_result/small_input, duration=231589959 ns, resultSize=1061, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="n v", queryType=includesQuery, querySubtype=small_result/small_input, duration=240206625 ns, resultSize=1424, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="omo ", queryType=includesQuery, querySubtype=small_result/small_input, duration=239264250 ns, resultSize=116, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="mln", queryType=includesQuery, querySubtype=small_result/small_input, duration=229779542 ns, resultSize=2, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=230442334 ns, resultSize=7, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Wk", queryType=includesQuery, querySubtype=small_result/small_input, duration=225896583 ns, resultSize=1057, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zz", queryType=includesQuery, querySubtype=small_result/small_input, duration=224874708 ns, resultSize=1059, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="kz", queryType=includesQuery, querySubtype=small_result/small_input, duration=230073125 ns, resultSize=125, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="pz", queryType=includesQuery, querySubtype=small_result/small_input, duration=245875291 ns, resultSize=35, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="knk", queryType=includesQuery, querySubtype=small_result/small_input, duration=230629917 ns, resultSize=3, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=230042083 ns, resultSize=7, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="wne Pla", queryType=includesQuery, querySubtype=small_result/big_input, duration=226298791 ns, resultSize=76, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" Yaw", queryType=includesQuery, querySubtype=small_result/big_input, duration=238814084 ns, resultSize=10, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="shkhara", queryType=includesQuery, querySubtype=small_result/big_input, duration=235984750 ns, resultSize=3, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="angounel", queryType=includesQuery, querySubtype=small_result/big_input, duration=254894333 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="y de les ", queryType=includesQuery, querySubtype=small_result/big_input, duration=238529208 ns, resultSize=12, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="sera de la ", queryType=includesQuery, querySubtype=small_result/big_input, duration=236178166 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="rra de la Cr", queryType=includesQuery, querySubtype=small_result/big_input, duration=255459625 ns, resultSize=4, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="epentance Creek Public Schoo", queryType=includesQuery, querySubtype=small_result/big_input, duration=243600208 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="rranc de la Solana del Pas de la Ca", queryType=includesQuery, querySubtype=small_result/big_input, duration=239978834 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="nsmitter ( 1170 kHz); Tow", queryType=includesQuery, querySubtype=small_result/big_input, duration=240057083 ns, resultSize=4, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="zat e reja ;New Cemetery ; of Xhafell", queryType=includesQuery, querySubtype=small_result/big_input, duration=227080417 ns, resultSize=1, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="de", queryType=includesQuery, querySubtype=big_result/small_input, duration=246239541 ns, resultSize=102692, dataSize=1500000<<<<
+>>>>dbName=mysqlquery=" de ", queryType=includesQuery, querySubtype=big_result/small_input, duration=243030708 ns, resultSize=29365, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="-ye", queryType=includesQuery, querySubtype=big_result/small_input, duration=225847584 ns, resultSize=9344, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Va", queryType=includesQuery, querySubtype=big_result/small_input, duration=252204083 ns, resultSize=37010, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="a C", queryType=includesQuery, querySubtype=big_result/small_input, duration=256300208 ns, resultSize=16925, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="st", queryType=includesQuery, querySubtype=big_result/small_input, duration=248010125 ns, resultSize=98885, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Gr", queryType=includesQuery, querySubtype=big_result/small_input, duration=235472167 ns, resultSize=34162, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Roc", queryType=includesQuery, querySubtype=big_result/small_input, duration=247435334 ns, resultSize=14004, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="am", queryType=includesQuery, querySubtype=big_result/small_input, duration=263424292 ns, resultSize=87768, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="ill", queryType=includesQuery, querySubtype=big_result/small_input, duration=245349000 ns, resultSize=39992, dataSize=1500000<<<<
+>>>>dbName=mysqlquery="Park", queryType=includesQuery, querySubtype=big_result/small_input, duration=232286834 ns, resultSize=14642, dataSize=1500000<<<<

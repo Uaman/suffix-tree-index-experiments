@@ -1,0 +1,273 @@
+mysql,startsWithQuery,big_result,T,150773084,38556,1000000
+mysql,startsWithQuery,big_result,An,122818541,5219,1000000
+mysql,startsWithQuery,big_result,Ca,131053042,34763,1000000
+mysql,startsWithQuery,big_result,Da,120379166,12622,1000000
+mysql,startsWithQuery,big_result,De,137189708,9786,1000000
+mysql,startsWithQuery,big_result,Na,123991375,7242,1000000
+mysql,startsWithQuery,big_result,Mas,117301875,1179,1000000
+mysql,startsWithQuery,big_result,Ka,120768167,17843,1000000
+mysql,startsWithQuery,big_result,Mc,117218375,901,1000000
+mysql,startsWithQuery,big_result,W,119646167,21583,1000000
+mysql,startsWithQuery,big_result,Ro,117858792,7011,1000000
+mysql,startsWithQuery,big_result,Sa,121241459,23824,1000000
+mysql,startsWithQuery,small_result,Dc,115952000,3,1000000
+mysql,startsWithQuery,small_result,pr,116954042,4500,1000000
+mysql,startsWithQuery,small_result,Mn,116899500,28,1000000
+mysql,startsWithQuery,small_result,na,116863833,7242,1000000
+mysql,startsWithQuery,small_result,ka,120454542,17843,1000000
+mysql,startsWithQuery,small_result,Sant ,116051041,28,1000000
+mysql,startsWithQuery,small_result,Mira ,115269583,20,1000000
+mysql,startsWithQuery,small_result,Wa ,116728792,9,1000000
+mysql,startsWithQuery,small_result,W ,116984209,21,1000000
+mysql,startsWithQuery,small_result,St R,117582000,11,1000000
+mysql,startsWithQuery,small_result,Sant Miquel,134248958,4,1000000
+mysql,startsWithQuery,empty_result,Ca ,116638958,0,1000000
+mysql,startsWithQuery,empty_result,kp,117037833,119,1000000
+mysql,startsWithQuery,empty_result,proa,116808916,2,1000000
+mysql,startsWithQuery,empty_result, ,116409333,0,1000000
+mysql,startsWithQuery,empty_result,Aa ,116126375,0,1000000
+mysql,startsWithQuery,empty_result,vb,116066083,0,1000000
+mysql,startsWithQuery,empty_result,Sant Miquel de  ,115396209,0,1000000
+mysql,startsWithQuery,empty_result,Sant Miel,116659458,0,1000000
+mysql,startsWithQuery,empty_result,lap,116699417,159,1000000
+mysql,startsWithQuery,empty_result,wad,116864125,521,1000000
+mysql,searchQuery,small_input,Travenc,117269709,1,1000000
+mysql,searchQuery,small_input,Tolse,117037375,1,1000000
+mysql,searchQuery,small_input,La Trava,117436416,2,1000000
+mysql,searchQuery,small_input,Artenu,117068000,2,1000000
+mysql,searchQuery,small_input,Prats,117203625,1,1000000
+mysql,searchQuery,small_input,Llorts,117186125,1,1000000
+mysql,searchQuery,small_input,Coll Pa,116173875,2,1000000
+mysql,searchQuery,small_input,Lloset,117246250,1,1000000
+mysql,searchQuery,small_input,Aygal,116410208,2,1000000
+mysql,searchQuery,small_input,Wafd,116504584,1,1000000
+mysql,searchQuery,small_input,Tut,138111667,2,1000000
+mysql,searchQuery,small_input,Padah,116909250,6,1000000
+mysql,searchQuery,small_input,Kim,117361125,2,1000000
+mysql,searchQuery,empty_result,olse,117030584,0,1000000
+mysql,searchQuery,empty_result,Cami del Pla,117164583,0,1000000
+mysql,searchQuery,empty_result,Trava,117378125,1,1000000
+mysql,searchQuery,empty_result,arimat Umm al Muwa,117038083,0,1000000
+mysql,searchQuery,empty_result,Tu,116312083,0,1000000
+mysql,searchQuery,empty_result,Muhammad Bin Khalid,117175709,0,1000000
+mysql,searchQuery,empty_result,Forat del Riu,116894042,0,1000000
+mysql,searchQuery,empty_result,Shaykh Zayid lith,116666417,0,1000000
+mysql,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,118058417,0,1000000
+mysql,searchQuery,empty_result,Coll ,117320834,0,1000000
+mysql,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,117145709,0,1000000
+mysql,searchQuery,big_input,Cami del Pla de les Pedres,118271375,1,1000000
+mysql,searchQuery,big_input,Estany dels Meners de la Coma,120691708,1,1000000
+mysql,searchQuery,big_input,Cresta del Forat dels Malhiverns,116984001,1,1000000
+mysql,searchQuery,big_input,Kharimat Umm al Muwayghir,133650792,1,1000000
+mysql,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,118292708,1,1000000
+mysql,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,117953500,1,1000000
+mysql,searchQuery,big_input,Forat del Riu dels Clots de Massat,115446291,1,1000000
+mysql,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,117007125,1,1000000
+mysql,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,117361917,1,1000000
+mysql,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,116733500,1,1000000
+mysql,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,117620625,1,1000000
+mysql,endsWithQuery,big_result,an,202845167,13085,1000000
+mysql,endsWithQuery,big_result,a,199227708,172349,1000000
+mysql,endsWithQuery,big_result,se,158202959,4687,1000000
+mysql,endsWithQuery,big_result,o,169630709,77866,1000000
+mysql,endsWithQuery,big_result,ro,163778250,8910,1000000
+mysql,endsWithQuery,big_result,mo,154206084,1006,1000000
+mysql,endsWithQuery,big_result,y,157865667,29805,1000000
+mysql,endsWithQuery,big_result,es,186806750,12872,1000000
+mysql,endsWithQuery,big_result,as,174409917,11099,1000000
+mysql,endsWithQuery,big_result,c,154623667,6066,1000000
+mysql,endsWithQuery,small_result,ista,160859250,1847,1000000
+mysql,endsWithQuery,small_result,ny,158455500,1308,1000000
+mysql,endsWithQuery,small_result,xy,151541917,4,1000000
+mysql,endsWithQuery,small_result,aq,189544167,1004,1000000
+mysql,endsWithQuery,small_result,ayw,170420292,5,1000000
+mysql,endsWithQuery,small_result,oc,159845667,222,1000000
+mysql,endsWithQuery,small_result,ralm,163852417,337,1000000
+mysql,endsWithQuery,small_result,ral,161748751,908,1000000
+mysql,endsWithQuery,small_result,neralm,159021833,56,1000000
+mysql,endsWithQuery,small_result,er,165757792,18462,1000000
+mysql,endsWithQuery,small_result,aws,169666916,7,1000000
+mysql,endsWithQuery,empty_result,poc,153579459,5,1000000
+mysql,endsWithQuery,empty_result,qneralm,150824875,0,1000000
+mysql,endsWithQuery,empty_result,peer,151314333,4,1000000
+mysql,endsWithQuery,empty_result,pwer,152755458,0,1000000
+mysql,endsWithQuery,empty_result,wsee,167743917,0,1000000
+mysql,endsWithQuery,empty_result,vews,153289375,0,1000000
+mysql,endsWithQuery,empty_result,qews,149805208,0,1000000
+mysql,endsWithQuery,empty_result,xews,149478375,0,1000000
+mysql,endsWithQuery,empty_result,zews,149763500,0,1000000
+mysql,endsWithQuery,empty_result,asd,170300042,0,1000000
+mysql,notStartsQuery,big_result,T,387434375,961444,1000000
+mysql,notStartsQuery,big_result,An,383312875,994781,1000000
+mysql,notStartsQuery,big_result,Ca,388361625,965237,1000000
+mysql,notStartsQuery,big_result,Da,348469709,987378,1000000
+mysql,notStartsQuery,big_result,De,366283708,990214,1000000
+mysql,notStartsQuery,big_result,Na,386363875,992758,1000000
+mysql,notStartsQuery,big_result,Mas,418048709,998821,1000000
+mysql,notStartsQuery,big_result,Ka,379837708,982157,1000000
+mysql,notStartsQuery,big_result,Mc,402767375,999099,1000000
+mysql,notStartsQuery,big_result,W,288996500,978417,1000000
+mysql,notStartsQuery,big_result,Ro,381366626,992989,1000000
+mysql,notStartsQuery,big_result,Sa,396925167,976176,1000000
+mysql,notStartsQuery,small_result,Dc,393986000,999997,1000000
+mysql,notStartsQuery,small_result,pr,384272667,995500,1000000
+mysql,notStartsQuery,small_result,Mn,285452291,999972,1000000
+mysql,notStartsQuery,small_result,na,399852000,992758,1000000
+mysql,notStartsQuery,small_result,ka,290244584,982157,1000000
+mysql,notStartsQuery,small_result,Sant ,457050876,999972,1000000
+mysql,notStartsQuery,small_result,Mira ,506085042,999980,1000000
+mysql,notStartsQuery,small_result,Wa ,324177167,999991,1000000
+mysql,notStartsQuery,small_result,W ,278398250,999979,1000000
+mysql,notStartsQuery,small_result,St R,422663251,999989,1000000
+mysql,notStartsQuery,small_result,Sant Miquel,289632833,999996,1000000
+mysql,notStartsQuery,empty_result,Ca ,407752625,1000000,1000000
+mysql,notStartsQuery,empty_result,kp,476236084,999881,1000000
+mysql,notStartsQuery,empty_result,proa,314706500,999998,1000000
+mysql,notStartsQuery,empty_result, ,290361875,1000000,1000000
+mysql,notStartsQuery,empty_result,Aa ,429777000,1000000,1000000
+mysql,notStartsQuery,empty_result,vb,279143376,1000000,1000000
+mysql,notStartsQuery,empty_result,Sant Miquel de  ,489828250,1000000,1000000
+mysql,notStartsQuery,empty_result,Sant Miel,371785958,1000000,1000000
+mysql,notStartsQuery,empty_result,lap,288206334,999841,1000000
+mysql,notStartsQuery,empty_result,wad,586398709,999479,1000000
+mysql,notEndsQuery,big_result,an,410173625,986915,1000000
+mysql,notEndsQuery,big_result,a,384265042,827651,1000000
+mysql,notEndsQuery,big_result,se,452030250,995313,1000000
+mysql,notEndsQuery,big_result,o,405099584,922134,1000000
+mysql,notEndsQuery,big_result,ro,463951584,991090,1000000
+mysql,notEndsQuery,big_result,mo,345734334,998994,1000000
+mysql,notEndsQuery,big_result,y,352492209,970195,1000000
+mysql,notEndsQuery,big_result,es,430952042,987128,1000000
+mysql,notEndsQuery,big_result,as,432879292,988901,1000000
+mysql,notEndsQuery,big_result,c,311959125,993934,1000000
+mysql,notEndsQuery,small_result,ista,337577959,998153,1000000
+mysql,notEndsQuery,small_result,ny,472403042,998692,1000000
+mysql,notEndsQuery,small_result,xy,490316334,999996,1000000
+mysql,notEndsQuery,small_result,aq,335429125,998996,1000000
+mysql,notEndsQuery,small_result,ayw,435802751,999995,1000000
+mysql,notEndsQuery,small_result,oc,339413209,999778,1000000
+mysql,notEndsQuery,small_result,ralm,480572542,999663,1000000
+mysql,notEndsQuery,small_result,ral,502461125,999092,1000000
+mysql,notEndsQuery,small_result,neralm,317449000,999944,1000000
+mysql,notEndsQuery,small_result,er,422419126,981538,1000000
+mysql,notEndsQuery,small_result,aws,370790333,999993,1000000
+mysql,notEndsQuery,empty_result,poc,434601875,999995,1000000
+mysql,notEndsQuery,empty_result,qneralm,523401250,1000000,1000000
+mysql,notEndsQuery,empty_result,peer,402979208,999996,1000000
+mysql,notEndsQuery,empty_result,pwer,464643958,1000000,1000000
+mysql,notEndsQuery,empty_result,wsee,438025042,1000000,1000000
+mysql,notEndsQuery,empty_result,vews,453588000,1000000,1000000
+mysql,notEndsQuery,empty_result,qews,403683125,1000000,1000000
+mysql,notEndsQuery,empty_result,xews,460577708,1000000,1000000
+mysql,notEndsQuery,empty_result,zews,469874667,1000000,1000000
+mysql,notEndsQuery,empty_result,asd,438622542,1000000,1000000
+mysql,notIncludesQuery,big_result/big_input, de la M,435477667,999532,1000000
+mysql,notIncludesQuery,big_result/big_input,Public,331857542,997613,1000000
+mysql,notIncludesQuery,big_result/big_input,Plaza,425136417,999561,1000000
+mysql,notIncludesQuery,big_result/big_input,Argentina,354797917,999899,1000000
+mysql,notIncludesQuery,big_result/big_input,anada de,346667250,999836,1000000
+mysql,notIncludesQuery,big_result/big_input,ocky ,481173084,999478,1000000
+mysql,notIncludesQuery,big_result/big_input,otel ,341153000,996134,1000000
+mysql,notIncludesQuery,big_result/big_input,Hotel ,393282792,996381,1000000
+mysql,notIncludesQuery,big_result/big_input,entral ,560937792,999640,1000000
+mysql,notIncludesQuery,big_result/big_input,South,440387625,998031,1000000
+mysql,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,450528167,1000000,1000000
+mysql,notIncludesQuery,empty_result,ppirn,414873584,1000000,1000000
+mysql,notIncludesQuery,empty_result,wnp,325544833,1000000,1000000
+mysql,notIncludesQuery,empty_result,thabbaya Mediumw,325918833,1000000,1000000
+mysql,notIncludesQuery,empty_result,Amuntr de,579442001,1000000,1000000
+mysql,notIncludesQuery,empty_result,del o,523424000,999959,1000000
+mysql,notIncludesQuery,empty_result,anakp,438066167,999992,1000000
+mysql,notIncludesQuery,empty_result,anakl,438570833,999998,1000000
+mysql,notIncludesQuery,empty_result,amapz,459362666,1000000,1000000
+mysql,notIncludesQuery,empty_result,amanln,428057917,1000000,1000000
+mysql,notIncludesQuery,small_result/small_input,ix,356565417,996975,1000000
+mysql,notIncludesQuery,small_result/small_input, Roc ,344781208,999993,1000000
+mysql,notIncludesQuery,small_result/small_input,mn,346087666,999087,1000000
+mysql,notIncludesQuery,small_result/small_input,n v,418738876,998964,1000000
+mysql,notIncludesQuery,small_result/small_input,omo ,429764333,999930,1000000
+mysql,notIncludesQuery,small_result/small_input,mln,311263542,999998,1000000
+mysql,notIncludesQuery,small_result/small_input,klk,461642833,999993,1000000
+mysql,notIncludesQuery,small_result/small_input,Wk,310879500,999127,1000000
+mysql,notIncludesQuery,small_result/small_input,zz,314852833,999667,1000000
+mysql,notIncludesQuery,small_result/small_input,kz,584214792,999887,1000000
+mysql,notIncludesQuery,small_result/small_input,pz,317817042,999977,1000000
+mysql,notIncludesQuery,small_result/small_input,knk,473564958,999997,1000000
+mysql,notIncludesQuery,small_result/small_input,klk,318203251,999993,1000000
+mysql,notIncludesQuery,small_result/big_input,wne Pla,497351750,999949,1000000
+mysql,notIncludesQuery,small_result/big_input, Yaw,429904958,999992,1000000
+mysql,notIncludesQuery,small_result/big_input,shkhara,325478042,999997,1000000
+mysql,notIncludesQuery,small_result/big_input,angounel,576724291,999999,1000000
+mysql,notIncludesQuery,small_result/big_input,y de les ,414212417,999988,1000000
+mysql,notIncludesQuery,small_result/big_input,sera de la ,432085458,999999,1000000
+mysql,notIncludesQuery,small_result/big_input,rra de la Cr,452467333,999997,1000000
+mysql,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,515176667,999999,1000000
+mysql,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,439754458,999999,1000000
+mysql,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,407132667,999996,1000000
+mysql,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,312483708,999999,1000000
+mysql,notIncludesQuery,big_result/small_input,de,302196125,930332,1000000
+mysql,notIncludesQuery,big_result/small_input, de ,456205834,978942,1000000
+mysql,notIncludesQuery,big_result/small_input,-ye,316570916,990708,1000000
+mysql,notIncludesQuery,big_result/small_input,Va,413087667,970088,1000000
+mysql,notIncludesQuery,big_result/small_input,a C,345826000,987026,1000000
+mysql,notIncludesQuery,big_result/small_input,st,307566501,929518,1000000
+mysql,notIncludesQuery,big_result/small_input,Gr,599689625,973464,1000000
+mysql,notIncludesQuery,big_result/small_input,Roc,482077625,990996,1000000
+mysql,notIncludesQuery,big_result/small_input,am,456970083,935780,1000000
+mysql,notIncludesQuery,big_result/small_input,ill,433030833,971469,1000000
+mysql,notIncludesQuery,big_result/small_input,Park,430463333,987152,1000000
+mysql,includesQuery,big_result/big_input, de la M,163086167,468,1000000
+mysql,includesQuery,big_result/big_input,Public,153834000,2387,1000000
+mysql,includesQuery,big_result/big_input,Plaza,153110917,439,1000000
+mysql,includesQuery,big_result/big_input,Argentina,179268750,101,1000000
+mysql,includesQuery,big_result/big_input,anada de,172296166,164,1000000
+mysql,includesQuery,big_result/big_input,ocky ,160340917,522,1000000
+mysql,includesQuery,big_result/big_input,otel ,161176000,3866,1000000
+mysql,includesQuery,big_result/big_input,Hotel ,159826000,3619,1000000
+mysql,includesQuery,big_result/big_input,entral ,167421875,360,1000000
+mysql,includesQuery,big_result/big_input,South,180368500,1969,1000000
+mysql,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,150794084,0,1000000
+mysql,includesQuery,empty_result,ppirn,152806125,0,1000000
+mysql,includesQuery,empty_result,wnp,150715667,0,1000000
+mysql,includesQuery,empty_result,thabbaya Mediumw,157121667,0,1000000
+mysql,includesQuery,empty_result,Amuntr de,178705834,0,1000000
+mysql,includesQuery,empty_result,del o,155123041,41,1000000
+mysql,includesQuery,empty_result,anakp,171909042,8,1000000
+mysql,includesQuery,empty_result,anakl,171537458,2,1000000
+mysql,includesQuery,empty_result,amapz,170136126,0,1000000
+mysql,includesQuery,empty_result,amanln,170888125,0,1000000
+mysql,includesQuery,small_result/small_input,ix,159540833,3025,1000000
+mysql,includesQuery,small_result/small_input, Roc ,171794625,7,1000000
+mysql,includesQuery,small_result/small_input,mn,161990959,913,1000000
+mysql,includesQuery,small_result/small_input,n v,159408459,1036,1000000
+mysql,includesQuery,small_result/small_input,omo ,159959042,70,1000000
+mysql,includesQuery,small_result/small_input,mln,153750792,2,1000000
+mysql,includesQuery,small_result/small_input,klk,153516084,7,1000000
+mysql,includesQuery,small_result/small_input,Wk,150938250,873,1000000
+mysql,includesQuery,small_result/small_input,zz,150284875,333,1000000
+mysql,includesQuery,small_result/small_input,kz,153626334,113,1000000
+mysql,includesQuery,small_result/small_input,pz,152752208,23,1000000
+mysql,includesQuery,small_result/small_input,knk,153605876,3,1000000
+mysql,includesQuery,small_result/small_input,klk,153647666,7,1000000
+mysql,includesQuery,small_result/big_input,wne Pla,150597958,51,1000000
+mysql,includesQuery,small_result/big_input, Yaw,159887875,8,1000000
+mysql,includesQuery,small_result/big_input,shkhara,175782625,3,1000000
+mysql,includesQuery,small_result/big_input,angounel,172306667,1,1000000
+mysql,includesQuery,small_result/big_input,y de les ,151564667,12,1000000
+mysql,includesQuery,small_result/big_input,sera de la ,158967542,1,1000000
+mysql,includesQuery,small_result/big_input,rra de la Cr,164378042,3,1000000
+mysql,includesQuery,small_result/big_input,epentance Creek Public Schoo,162697000,1,1000000
+mysql,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,165300875,1,1000000
+mysql,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,158598292,4,1000000
+mysql,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,150344250,1,1000000
+mysql,includesQuery,big_result/small_input,de,164104000,69668,1000000
+mysql,includesQuery,big_result/small_input, de ,163236166,21058,1000000
+mysql,includesQuery,big_result/small_input,-ye,151553917,9292,1000000
+mysql,includesQuery,big_result/small_input,Va,155967750,29912,1000000
+mysql,includesQuery,big_result/small_input,a C,191566376,12974,1000000
+mysql,includesQuery,big_result/small_input,st,166400917,70482,1000000
+mysql,includesQuery,big_result/small_input,Gr,157922334,26536,1000000
+mysql,includesQuery,big_result/small_input,Roc,166884625,9004,1000000
+mysql,includesQuery,big_result/small_input,am,179141292,64220,1000000
+mysql,includesQuery,big_result/small_input,ill,164692375,28531,1000000
+mysql,includesQuery,big_result/small_input,Park,155548625,12848,1000000

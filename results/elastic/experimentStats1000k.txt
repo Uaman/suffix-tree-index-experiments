@@ -1,0 +1,273 @@
+>>>>dbName=elasticquery="T", queryType=startsWithQuery, querySubtype=big_result, duration=53118834 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="An", queryType=startsWithQuery, querySubtype=big_result, duration=4779292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ca", queryType=startsWithQuery, querySubtype=big_result, duration=3797333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Da", queryType=startsWithQuery, querySubtype=big_result, duration=3228125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="De", queryType=startsWithQuery, querySubtype=big_result, duration=3178500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Na", queryType=startsWithQuery, querySubtype=big_result, duration=3284583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mas", queryType=startsWithQuery, querySubtype=big_result, duration=2761708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ka", queryType=startsWithQuery, querySubtype=big_result, duration=3148167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mc", queryType=startsWithQuery, querySubtype=big_result, duration=2493917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="W", queryType=startsWithQuery, querySubtype=big_result, duration=3515708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ro", queryType=startsWithQuery, querySubtype=big_result, duration=3089292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sa", queryType=startsWithQuery, querySubtype=big_result, duration=3138208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Dc", queryType=startsWithQuery, querySubtype=small_result, duration=2335958 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pr", queryType=startsWithQuery, querySubtype=small_result, duration=2630583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mn", queryType=startsWithQuery, querySubtype=small_result, duration=2661042 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="na", queryType=startsWithQuery, querySubtype=small_result, duration=2577958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ka", queryType=startsWithQuery, querySubtype=small_result, duration=2422417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant ", queryType=startsWithQuery, querySubtype=small_result, duration=1955125 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mira ", queryType=startsWithQuery, querySubtype=small_result, duration=1897042 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Wa ", queryType=startsWithQuery, querySubtype=small_result, duration=1701375 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="W ", queryType=startsWithQuery, querySubtype=small_result, duration=2013750 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="St R", queryType=startsWithQuery, querySubtype=small_result, duration=1845500 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miquel", queryType=startsWithQuery, querySubtype=small_result, duration=1916333 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ca ", queryType=startsWithQuery, querySubtype=empty_result, duration=1600750 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="kp", queryType=startsWithQuery, querySubtype=empty_result, duration=2164083 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="proa", queryType=startsWithQuery, querySubtype=empty_result, duration=1722292 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" ", queryType=startsWithQuery, querySubtype=empty_result, duration=1826959 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Aa ", queryType=startsWithQuery, querySubtype=empty_result, duration=1801083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="vb", queryType=startsWithQuery, querySubtype=empty_result, duration=1878416 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miquel de  ", queryType=startsWithQuery, querySubtype=empty_result, duration=1863625 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miel", queryType=startsWithQuery, querySubtype=empty_result, duration=1727208 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="lap", queryType=startsWithQuery, querySubtype=empty_result, duration=1811167 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wad", queryType=startsWithQuery, querySubtype=empty_result, duration=1901125 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Travenc", queryType=searchQuery, querySubtype=small_input, duration=5298584 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Tolse", queryType=searchQuery, querySubtype=small_input, duration=2416375 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=elasticquery="La Trava", queryType=searchQuery, querySubtype=small_input, duration=2877667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Artenu", queryType=searchQuery, querySubtype=small_input, duration=2208959 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Prats", queryType=searchQuery, querySubtype=small_input, duration=2435666 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Llorts", queryType=searchQuery, querySubtype=small_input, duration=2037459 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Coll Pa", queryType=searchQuery, querySubtype=small_input, duration=2507750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Lloset", queryType=searchQuery, querySubtype=small_input, duration=2151333 ns, resultSize=4, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Aygal", queryType=searchQuery, querySubtype=small_input, duration=2051417 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Wafd", queryType=searchQuery, querySubtype=small_input, duration=2171958 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Tut", queryType=searchQuery, querySubtype=small_input, duration=2174667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Padah", queryType=searchQuery, querySubtype=small_input, duration=2512917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Kim", queryType=searchQuery, querySubtype=small_input, duration=2543459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="olse", queryType=searchQuery, querySubtype=empty_result, duration=1778667 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Cami del Pla", queryType=searchQuery, querySubtype=empty_result, duration=2767209 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Trava", queryType=searchQuery, querySubtype=empty_result, duration=2192333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="arimat Umm al Muwa", queryType=searchQuery, querySubtype=empty_result, duration=2671000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Tu", queryType=searchQuery, querySubtype=empty_result, duration=2304791 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Muhammad Bin Khalid", queryType=searchQuery, querySubtype=empty_result, duration=2610125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Forat del Riu", queryType=searchQuery, querySubtype=empty_result, duration=2570083 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Shaykh Zayid lith", queryType=searchQuery, querySubtype=empty_result, duration=2283916 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Shaykh Khalid Bin Sultan al Qassimi Squar", queryType=searchQuery, querySubtype=empty_result, duration=2664583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Coll ", queryType=searchQuery, querySubtype=empty_result, duration=1924333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Madrasat Muhammad Bin Khalid ath Thanawiya", queryType=searchQuery, querySubtype=empty_result, duration=2954459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Cami del Pla de les Pedres", queryType=searchQuery, querySubtype=big_input, duration=3733833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Estany dels Meners de la Coma", queryType=searchQuery, querySubtype=big_input, duration=4000250 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Cresta del Forat dels Malhiverns", queryType=searchQuery, querySubtype=big_input, duration=2999375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Kharimat Umm al Muwayghir", queryType=searchQuery, querySubtype=big_input, duration=2749084 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Madrasat Muhammad Bin Khalid ath Thanawiyah", queryType=searchQuery, querySubtype=big_input, duration=2753250 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah", queryType=searchQuery, querySubtype=big_input, duration=2765917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Forat del Riu dels Clots de Massat", queryType=searchQuery, querySubtype=big_input, duration=2984375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Shaykh Khalid Bin Sultan al Qassimi Square", queryType=searchQuery, querySubtype=big_input, duration=2780708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Le Royal Meridien Beach Resort Spa Dubai", queryType=searchQuery, querySubtype=big_input, duration=3167208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Qaryah-ye Haji Muhammad Afzal Khan", queryType=searchQuery, querySubtype=big_input, duration=3317000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Darya-ye Khushk-e Khinjak Manah", queryType=searchQuery, querySubtype=big_input, duration=3368375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="an", queryType=endsWithQuery, querySubtype=big_result, duration=10391250 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="a", queryType=endsWithQuery, querySubtype=big_result, duration=17141917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="se", queryType=endsWithQuery, querySubtype=big_result, duration=6504459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="o", queryType=endsWithQuery, querySubtype=big_result, duration=14696000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ro", queryType=endsWithQuery, querySubtype=big_result, duration=6804291 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mo", queryType=endsWithQuery, querySubtype=big_result, duration=5902291 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="y", queryType=endsWithQuery, querySubtype=big_result, duration=6157709 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="es", queryType=endsWithQuery, querySubtype=big_result, duration=6108208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="as", queryType=endsWithQuery, querySubtype=big_result, duration=6459917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="c", queryType=endsWithQuery, querySubtype=big_result, duration=6905167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ista", queryType=endsWithQuery, querySubtype=small_result, duration=6585333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ny", queryType=endsWithQuery, querySubtype=small_result, duration=6082750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="xy", queryType=endsWithQuery, querySubtype=small_result, duration=6255625 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=elasticquery="aq", queryType=endsWithQuery, querySubtype=small_result, duration=6965583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ayw", queryType=endsWithQuery, querySubtype=small_result, duration=7333750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="oc", queryType=endsWithQuery, querySubtype=small_result, duration=6211625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ralm", queryType=endsWithQuery, querySubtype=small_result, duration=6676083 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ral", queryType=endsWithQuery, querySubtype=small_result, duration=16350583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="neralm", queryType=endsWithQuery, querySubtype=small_result, duration=11034625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="er", queryType=endsWithQuery, querySubtype=small_result, duration=10062458 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="aws", queryType=endsWithQuery, querySubtype=small_result, duration=8611875 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=elasticquery="poc", queryType=endsWithQuery, querySubtype=empty_result, duration=6934042 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=elasticquery="qneralm", queryType=endsWithQuery, querySubtype=empty_result, duration=6639042 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="peer", queryType=endsWithQuery, querySubtype=empty_result, duration=6956417 ns, resultSize=6, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pwer", queryType=endsWithQuery, querySubtype=empty_result, duration=6551750 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wsee", queryType=endsWithQuery, querySubtype=empty_result, duration=6413333 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="vews", queryType=endsWithQuery, querySubtype=empty_result, duration=6738458 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="qews", queryType=endsWithQuery, querySubtype=empty_result, duration=6354250 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="xews", queryType=endsWithQuery, querySubtype=empty_result, duration=5986625 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zews", queryType=endsWithQuery, querySubtype=empty_result, duration=5706083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="asd", queryType=endsWithQuery, querySubtype=empty_result, duration=5957334 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="T", queryType=notStartsQuery, querySubtype=big_result, duration=20358583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="An", queryType=notStartsQuery, querySubtype=big_result, duration=27316959 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ca", queryType=notStartsQuery, querySubtype=big_result, duration=18668875 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Da", queryType=notStartsQuery, querySubtype=big_result, duration=36569583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="De", queryType=notStartsQuery, querySubtype=big_result, duration=25708708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Na", queryType=notStartsQuery, querySubtype=big_result, duration=25807917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mas", queryType=notStartsQuery, querySubtype=big_result, duration=17541125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ka", queryType=notStartsQuery, querySubtype=big_result, duration=18043875 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mc", queryType=notStartsQuery, querySubtype=big_result, duration=18885584 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="W", queryType=notStartsQuery, querySubtype=big_result, duration=19238791 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ro", queryType=notStartsQuery, querySubtype=big_result, duration=24536625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sa", queryType=notStartsQuery, querySubtype=big_result, duration=25292083 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Dc", queryType=notStartsQuery, querySubtype=small_result, duration=25901041 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pr", queryType=notStartsQuery, querySubtype=small_result, duration=24361541 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mn", queryType=notStartsQuery, querySubtype=small_result, duration=24424542 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="na", queryType=notStartsQuery, querySubtype=small_result, duration=18940500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ka", queryType=notStartsQuery, querySubtype=small_result, duration=24442459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant ", queryType=notStartsQuery, querySubtype=small_result, duration=29791958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Mira ", queryType=notStartsQuery, querySubtype=small_result, duration=24993417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Wa ", queryType=notStartsQuery, querySubtype=small_result, duration=18429166 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="W ", queryType=notStartsQuery, querySubtype=small_result, duration=17661376 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="St R", queryType=notStartsQuery, querySubtype=small_result, duration=18001625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miquel", queryType=notStartsQuery, querySubtype=small_result, duration=17893542 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Ca ", queryType=notStartsQuery, querySubtype=empty_result, duration=17992083 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="kp", queryType=notStartsQuery, querySubtype=empty_result, duration=25241292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="proa", queryType=notStartsQuery, querySubtype=empty_result, duration=17925167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" ", queryType=notStartsQuery, querySubtype=empty_result, duration=18027833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Aa ", queryType=notStartsQuery, querySubtype=empty_result, duration=18862750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="vb", queryType=notStartsQuery, querySubtype=empty_result, duration=32117208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miquel de  ", queryType=notStartsQuery, querySubtype=empty_result, duration=26233750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Sant Miel", queryType=notStartsQuery, querySubtype=empty_result, duration=25611375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="lap", queryType=notStartsQuery, querySubtype=empty_result, duration=17885333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wad", queryType=notStartsQuery, querySubtype=empty_result, duration=17773000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="an", queryType=notEndsQuery, querySubtype=big_result, duration=26652292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="a", queryType=notEndsQuery, querySubtype=big_result, duration=20859375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="se", queryType=notEndsQuery, querySubtype=big_result, duration=25290167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="o", queryType=notEndsQuery, querySubtype=big_result, duration=20278791 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ro", queryType=notEndsQuery, querySubtype=big_result, duration=24064500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mo", queryType=notEndsQuery, querySubtype=big_result, duration=23153250 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="y", queryType=notEndsQuery, querySubtype=big_result, duration=29890500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="es", queryType=notEndsQuery, querySubtype=big_result, duration=24665292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="as", queryType=notEndsQuery, querySubtype=big_result, duration=25410459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="c", queryType=notEndsQuery, querySubtype=big_result, duration=24597167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ista", queryType=notEndsQuery, querySubtype=small_result, duration=23552958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ny", queryType=notEndsQuery, querySubtype=small_result, duration=19933417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="xy", queryType=notEndsQuery, querySubtype=small_result, duration=23569500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="aq", queryType=notEndsQuery, querySubtype=small_result, duration=23785208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ayw", queryType=notEndsQuery, querySubtype=small_result, duration=23550500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="oc", queryType=notEndsQuery, querySubtype=small_result, duration=24559667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ralm", queryType=notEndsQuery, querySubtype=small_result, duration=39166916 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ral", queryType=notEndsQuery, querySubtype=small_result, duration=23527334 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="neralm", queryType=notEndsQuery, querySubtype=small_result, duration=24802000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="er", queryType=notEndsQuery, querySubtype=small_result, duration=23698125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="aws", queryType=notEndsQuery, querySubtype=small_result, duration=23154458 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="poc", queryType=notEndsQuery, querySubtype=empty_result, duration=24365208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="qneralm", queryType=notEndsQuery, querySubtype=empty_result, duration=21101417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="peer", queryType=notEndsQuery, querySubtype=empty_result, duration=37328000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pwer", queryType=notEndsQuery, querySubtype=empty_result, duration=35886208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wsee", queryType=notEndsQuery, querySubtype=empty_result, duration=23680208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="vews", queryType=notEndsQuery, querySubtype=empty_result, duration=23532458 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="qews", queryType=notEndsQuery, querySubtype=empty_result, duration=37021125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="xews", queryType=notEndsQuery, querySubtype=empty_result, duration=30677042 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zews", queryType=notEndsQuery, querySubtype=empty_result, duration=23700916 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="asd", queryType=notEndsQuery, querySubtype=empty_result, duration=23986416 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" de la M", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=23799167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Public", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=25430625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Plaza", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=25241583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Argentina", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20456708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anada de", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=20627792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ocky ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=25097209 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="otel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=37142167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Hotel ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=24587709 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="entral ", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=25512792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="South", queryType=notIncludesQuery, querySubtype=big_result/big_input, duration=28653667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=notIncludesQuery, querySubtype=empty_result, duration=26223959 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ppirn", queryType=notIncludesQuery, querySubtype=empty_result, duration=20517000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wnp", queryType=notIncludesQuery, querySubtype=empty_result, duration=19764417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="thabbaya Mediumw", queryType=notIncludesQuery, querySubtype=empty_result, duration=21215500 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Amuntr de", queryType=notIncludesQuery, querySubtype=empty_result, duration=36499459 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="del o", queryType=notIncludesQuery, querySubtype=empty_result, duration=16811833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anakp", queryType=notIncludesQuery, querySubtype=empty_result, duration=25633833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anakl", queryType=notIncludesQuery, querySubtype=empty_result, duration=20797667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="amapz", queryType=notIncludesQuery, querySubtype=empty_result, duration=20402666 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="amanln", queryType=notIncludesQuery, querySubtype=empty_result, duration=24514333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ix", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=19726000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" Roc ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=26934916 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mn", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=32722958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="n v", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=31874208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="omo ", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=33880667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mln", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=26590708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=32269667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Wk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=41022792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=32073375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="kz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=26565958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pz", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=21619208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="knk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=22415750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="klk", queryType=notIncludesQuery, querySubtype=small_result/small_input, duration=21772125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wne Pla", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=22771292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" Yaw", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=22606708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="shkhara", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=26774334 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="angounel", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=23251833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="y de les ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=26648750 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="sera de la ", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=21157542 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="rra de la Cr", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=22491584 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="epentance Creek Public Schoo", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=23692000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="rranc de la Solana del Pas de la Ca", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=27352708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="nsmitter ( 1170 kHz); Tow", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=20134333 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zat e reja ;New Cemetery ; of Xhafell", queryType=notIncludesQuery, querySubtype=small_result/big_input, duration=24039291 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="de", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=20453792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" de ", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=22062917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="-ye", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=19437208 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Va", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=33126583 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="a C", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=25862792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="st", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=20518958 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Gr", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=22394083 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Roc", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=22753041 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="am", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=20728292 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ill", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=21382125 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Park", queryType=notIncludesQuery, querySubtype=big_result/small_input, duration=22968167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" de la M", queryType=includesQuery, querySubtype=big_result/big_input, duration=8721583 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Public", queryType=includesQuery, querySubtype=big_result/big_input, duration=6997792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Plaza", queryType=includesQuery, querySubtype=big_result/big_input, duration=6782917 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Argentina", queryType=includesQuery, querySubtype=big_result/big_input, duration=7668584 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anada de", queryType=includesQuery, querySubtype=big_result/big_input, duration=7385500 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ocky ", queryType=includesQuery, querySubtype=big_result/big_input, duration=7407958 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="otel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6841500 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Hotel ", queryType=includesQuery, querySubtype=big_result/big_input, duration=6506250 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="entral ", queryType=includesQuery, querySubtype=big_result/big_input, duration=7026083 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="South", queryType=includesQuery, querySubtype=big_result/big_input, duration=7264875 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zat e reja ;New Cemetery ; of Xhafelln", queryType=includesQuery, querySubtype=empty_result, duration=8188041 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ppirn", queryType=includesQuery, querySubtype=empty_result, duration=6409917 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wnp", queryType=includesQuery, querySubtype=empty_result, duration=6824916 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="thabbaya Mediumw", queryType=includesQuery, querySubtype=empty_result, duration=7575708 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Amuntr de", queryType=includesQuery, querySubtype=empty_result, duration=7063500 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="del o", queryType=includesQuery, querySubtype=empty_result, duration=6850958 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anakp", queryType=includesQuery, querySubtype=empty_result, duration=7003500 ns, resultSize=8, dataSize=1000000<<<<
+>>>>dbName=elasticquery="anakl", queryType=includesQuery, querySubtype=empty_result, duration=6905500 ns, resultSize=2, dataSize=1000000<<<<
+>>>>dbName=elasticquery="amapz", queryType=includesQuery, querySubtype=empty_result, duration=6529916 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="amanln", queryType=includesQuery, querySubtype=empty_result, duration=6567375 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ix", queryType=includesQuery, querySubtype=small_result/small_input, duration=6691000 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" Roc ", queryType=includesQuery, querySubtype=small_result/small_input, duration=6517750 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mn", queryType=includesQuery, querySubtype=small_result/small_input, duration=7056625 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="n v", queryType=includesQuery, querySubtype=small_result/small_input, duration=6891959 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="omo ", queryType=includesQuery, querySubtype=small_result/small_input, duration=6423125 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="mln", queryType=includesQuery, querySubtype=small_result/small_input, duration=6320375 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=6520583 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Wk", queryType=includesQuery, querySubtype=small_result/small_input, duration=6278458 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zz", queryType=includesQuery, querySubtype=small_result/small_input, duration=6284833 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="kz", queryType=includesQuery, querySubtype=small_result/small_input, duration=6297167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="pz", queryType=includesQuery, querySubtype=small_result/small_input, duration=6314792 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="knk", queryType=includesQuery, querySubtype=small_result/small_input, duration=6711833 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=elasticquery="klk", queryType=includesQuery, querySubtype=small_result/small_input, duration=6434000 ns, resultSize=7, dataSize=1000000<<<<
+>>>>dbName=elasticquery="wne Pla", queryType=includesQuery, querySubtype=small_result/big_input, duration=6559209 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" Yaw", queryType=includesQuery, querySubtype=small_result/big_input, duration=6445875 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="shkhara", queryType=includesQuery, querySubtype=small_result/big_input, duration=6663292 ns, resultSize=3, dataSize=1000000<<<<
+>>>>dbName=elasticquery="angounel", queryType=includesQuery, querySubtype=small_result/big_input, duration=6499917 ns, resultSize=1, dataSize=1000000<<<<
+>>>>dbName=elasticquery="y de les ", queryType=includesQuery, querySubtype=small_result/big_input, duration=6444458 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="sera de la ", queryType=includesQuery, querySubtype=small_result/big_input, duration=6566167 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="rra de la Cr", queryType=includesQuery, querySubtype=small_result/big_input, duration=6455459 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="epentance Creek Public Schoo", queryType=includesQuery, querySubtype=small_result/big_input, duration=7621084 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="rranc de la Solana del Pas de la Ca", queryType=includesQuery, querySubtype=small_result/big_input, duration=8533917 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="nsmitter ( 1170 kHz); Tow", queryType=includesQuery, querySubtype=small_result/big_input, duration=7400041 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="zat e reja ;New Cemetery ; of Xhafell", queryType=includesQuery, querySubtype=small_result/big_input, duration=7623417 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="de", queryType=includesQuery, querySubtype=big_result/small_input, duration=7219417 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery=" de ", queryType=includesQuery, querySubtype=big_result/small_input, duration=6038542 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="-ye", queryType=includesQuery, querySubtype=big_result/small_input, duration=11151834 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Va", queryType=includesQuery, querySubtype=big_result/small_input, duration=12048250 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="a C", queryType=includesQuery, querySubtype=big_result/small_input, duration=9712667 ns, resultSize=0, dataSize=1000000<<<<
+>>>>dbName=elasticquery="st", queryType=includesQuery, querySubtype=big_result/small_input, duration=9000667 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Gr", queryType=includesQuery, querySubtype=big_result/small_input, duration=8393708 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Roc", queryType=includesQuery, querySubtype=big_result/small_input, duration=7197375 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="am", queryType=includesQuery, querySubtype=big_result/small_input, duration=8136041 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="ill", queryType=includesQuery, querySubtype=big_result/small_input, duration=7394167 ns, resultSize=10, dataSize=1000000<<<<
+>>>>dbName=elasticquery="Park", queryType=includesQuery, querySubtype=big_result/small_input, duration=6818000 ns, resultSize=10, dataSize=1000000<<<<

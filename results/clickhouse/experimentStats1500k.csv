@@ -1,0 +1,273 @@
+clickhouse,startsWithQuery,big_result,T,24512750,62345,1500000
+clickhouse,startsWithQuery,big_result,An,14371917,6440,1500000
+clickhouse,startsWithQuery,big_result,Ca,39803833,38479,1500000
+clickhouse,startsWithQuery,big_result,Da,15746625,17402,1500000
+clickhouse,startsWithQuery,big_result,De,11604333,11066,1500000
+clickhouse,startsWithQuery,big_result,Na,11025208,12095,1500000
+clickhouse,startsWithQuery,big_result,Mas,10674375,2135,1500000
+clickhouse,startsWithQuery,big_result,Ka,11388042,30096,1500000
+clickhouse,startsWithQuery,big_result,Mc,8997417,3726,1500000
+clickhouse,startsWithQuery,big_result,W,10255292,38962,1500000
+clickhouse,startsWithQuery,big_result,Ro,12562292,12155,1500000
+clickhouse,startsWithQuery,big_result,Sa,11974708,34469,1500000
+clickhouse,startsWithQuery,small_result,Dc,10545584,4,1500000
+clickhouse,startsWithQuery,small_result,pr,11745750,11,1500000
+clickhouse,startsWithQuery,small_result,Mn,9307125,31,1500000
+clickhouse,startsWithQuery,small_result,na,10004000,1,1500000
+clickhouse,startsWithQuery,small_result,ka,10262125,29,1500000
+clickhouse,startsWithQuery,small_result,Sant ,8221625,29,1500000
+clickhouse,startsWithQuery,small_result,Mira ,8558833,30,1500000
+clickhouse,startsWithQuery,small_result,Wa ,10406250,5,1500000
+clickhouse,startsWithQuery,small_result,W ,8900000,29,1500000
+clickhouse,startsWithQuery,small_result,St R,8071708,13,1500000
+clickhouse,startsWithQuery,small_result,Sant Miquel,7616125,4,1500000
+clickhouse,startsWithQuery,empty_result,Ca ,9899334,11,1500000
+clickhouse,startsWithQuery,empty_result,kp,8474125,0,1500000
+clickhouse,startsWithQuery,empty_result,proa,7979292,0,1500000
+clickhouse,startsWithQuery,empty_result, ,8464916,0,1500000
+clickhouse,startsWithQuery,empty_result,Aa ,9424667,0,1500000
+clickhouse,startsWithQuery,empty_result,vb,8382208,0,1500000
+clickhouse,startsWithQuery,empty_result,Sant Miquel de  ,7667333,0,1500000
+clickhouse,startsWithQuery,empty_result,Sant Miel,7369750,0,1500000
+clickhouse,startsWithQuery,empty_result,lap,10148208,0,1500000
+clickhouse,startsWithQuery,empty_result,wad,9722958,0,1500000
+clickhouse,searchQuery,small_input,Travenc,7932042,1,1500000
+clickhouse,searchQuery,small_input,Tolse,8021750,1,1500000
+clickhouse,searchQuery,small_input,La Trava,7759375,2,1500000
+clickhouse,searchQuery,small_input,Artenu,7463458,2,1500000
+clickhouse,searchQuery,small_input,Prats,7139875,1,1500000
+clickhouse,searchQuery,small_input,Llorts,7202833,1,1500000
+clickhouse,searchQuery,small_input,Coll Pa,7293375,2,1500000
+clickhouse,searchQuery,small_input,Lloset,7083750,1,1500000
+clickhouse,searchQuery,small_input,Aygal,7227916,2,1500000
+clickhouse,searchQuery,small_input,Wafd,7361083,1,1500000
+clickhouse,searchQuery,small_input,Tut,7981875,2,1500000
+clickhouse,searchQuery,small_input,Padah,7517666,6,1500000
+clickhouse,searchQuery,small_input,Kim,7909708,10,1500000
+clickhouse,searchQuery,empty_result,olse,7124541,0,1500000
+clickhouse,searchQuery,empty_result,Cami del Pla,6966041,0,1500000
+clickhouse,searchQuery,empty_result,Trava,6819959,1,1500000
+clickhouse,searchQuery,empty_result,arimat Umm al Muwa,7168417,0,1500000
+clickhouse,searchQuery,empty_result,Tu,7052708,0,1500000
+clickhouse,searchQuery,empty_result,Muhammad Bin Khalid,6964625,0,1500000
+clickhouse,searchQuery,empty_result,Forat del Riu,6981750,0,1500000
+clickhouse,searchQuery,empty_result,Shaykh Zayid lith,7031500,0,1500000
+clickhouse,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,7341250,0,1500000
+clickhouse,searchQuery,empty_result,Coll ,7098250,0,1500000
+clickhouse,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,7036292,0,1500000
+clickhouse,searchQuery,big_input,Cami del Pla de les Pedres,7589208,1,1500000
+clickhouse,searchQuery,big_input,Estany dels Meners de la Coma,7065292,1,1500000
+clickhouse,searchQuery,big_input,Cresta del Forat dels Malhiverns,7040916,1,1500000
+clickhouse,searchQuery,big_input,Kharimat Umm al Muwayghir,7464667,1,1500000
+clickhouse,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,7778750,1,1500000
+clickhouse,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,7106042,1,1500000
+clickhouse,searchQuery,big_input,Forat del Riu dels Clots de Massat,7316458,1,1500000
+clickhouse,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,7105667,1,1500000
+clickhouse,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,7466959,1,1500000
+clickhouse,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,7081292,1,1500000
+clickhouse,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,7273041,1,1500000
+clickhouse,endsWithQuery,big_result,an,14089458,28666,1500000
+clickhouse,endsWithQuery,big_result,a,17511042,237843,1500000
+clickhouse,endsWithQuery,big_result,se,12627167,8949,1500000
+clickhouse,endsWithQuery,big_result,o,12859792,119476,1500000
+clickhouse,endsWithQuery,big_result,ro,12881875,13316,1500000
+clickhouse,endsWithQuery,big_result,mo,12895333,2107,1500000
+clickhouse,endsWithQuery,big_result,y,12554333,40190,1500000
+clickhouse,endsWithQuery,big_result,es,13603958,21596,1500000
+clickhouse,endsWithQuery,big_result,as,12798125,14411,1500000
+clickhouse,endsWithQuery,big_result,c,13425917,7700,1500000
+clickhouse,endsWithQuery,small_result,ista,9107125,1947,1500000
+clickhouse,endsWithQuery,small_result,ny,12030167,1676,1500000
+clickhouse,endsWithQuery,small_result,xy,11962209,4,1500000
+clickhouse,endsWithQuery,small_result,aq,11792000,1275,1500000
+clickhouse,endsWithQuery,small_result,ayw,12202208,5,1500000
+clickhouse,endsWithQuery,small_result,oc,11947125,304,1500000
+clickhouse,endsWithQuery,small_result,ralm,8108208,337,1500000
+clickhouse,endsWithQuery,small_result,ral,11916292,1200,1500000
+clickhouse,endsWithQuery,small_result,neralm,8422458,56,1500000
+clickhouse,endsWithQuery,small_result,er,14188458,28797,1500000
+clickhouse,endsWithQuery,small_result,aws,12037416,7,1500000
+clickhouse,endsWithQuery,empty_result,poc,9789625,7,1500000
+clickhouse,endsWithQuery,empty_result,qneralm,7546750,0,1500000
+clickhouse,endsWithQuery,empty_result,peer,7922334,7,1500000
+clickhouse,endsWithQuery,empty_result,pwer,7917792,0,1500000
+clickhouse,endsWithQuery,empty_result,wsee,8237500,0,1500000
+clickhouse,endsWithQuery,empty_result,vews,7929375,0,1500000
+clickhouse,endsWithQuery,empty_result,qews,7969709,0,1500000
+clickhouse,endsWithQuery,empty_result,xews,7724167,0,1500000
+clickhouse,endsWithQuery,empty_result,zews,7824250,0,1500000
+clickhouse,endsWithQuery,empty_result,asd,12517708,0,1500000
+clickhouse,notStartsQuery,big_result,T,60023917,1437655,1500000
+clickhouse,notStartsQuery,big_result,An,86843958,1493560,1500000
+clickhouse,notStartsQuery,big_result,Ca,53820625,1461521,1500000
+clickhouse,notStartsQuery,big_result,Da,54751791,1482598,1500000
+clickhouse,notStartsQuery,big_result,De,92675500,1488934,1500000
+clickhouse,notStartsQuery,big_result,Na,80866584,1487905,1500000
+clickhouse,notStartsQuery,big_result,Mas,54963250,1497865,1500000
+clickhouse,notStartsQuery,big_result,Ka,51542291,1469904,1500000
+clickhouse,notStartsQuery,big_result,Mc,123773542,1496274,1500000
+clickhouse,notStartsQuery,big_result,W,53206083,1461038,1500000
+clickhouse,notStartsQuery,big_result,Ro,55122251,1487845,1500000
+clickhouse,notStartsQuery,big_result,Sa,100675666,1465531,1500000
+clickhouse,notStartsQuery,small_result,Dc,53478708,1499996,1500000
+clickhouse,notStartsQuery,small_result,pr,52941416,1499989,1500000
+clickhouse,notStartsQuery,small_result,Mn,122502333,1499969,1500000
+clickhouse,notStartsQuery,small_result,na,83924125,1499999,1500000
+clickhouse,notStartsQuery,small_result,ka,100884416,1499971,1500000
+clickhouse,notStartsQuery,small_result,Sant ,52297958,1499971,1500000
+clickhouse,notStartsQuery,small_result,Mira ,96890375,1499970,1500000
+clickhouse,notStartsQuery,small_result,Wa ,53494584,1499995,1500000
+clickhouse,notStartsQuery,small_result,W ,55242167,1499971,1500000
+clickhouse,notStartsQuery,small_result,St R,53192250,1499987,1500000
+clickhouse,notStartsQuery,small_result,Sant Miquel,52999959,1499996,1500000
+clickhouse,notStartsQuery,empty_result,Ca ,149418209,1499989,1500000
+clickhouse,notStartsQuery,empty_result,kp,53735750,1500000,1500000
+clickhouse,notStartsQuery,empty_result,proa,52050875,1500000,1500000
+clickhouse,notStartsQuery,empty_result, ,54026583,1500000,1500000
+clickhouse,notStartsQuery,empty_result,Aa ,53573583,1500000,1500000
+clickhouse,notStartsQuery,empty_result,vb,175649542,1500000,1500000
+clickhouse,notStartsQuery,empty_result,Sant Miquel de  ,57829375,1500000,1500000
+clickhouse,notStartsQuery,empty_result,Sant Miel,53154584,1500000,1500000
+clickhouse,notStartsQuery,empty_result,lap,94741291,1500000,1500000
+clickhouse,notStartsQuery,empty_result,wad,55084208,1500000,1500000
+clickhouse,notEndsQuery,big_result,an,53537708,1471334,1500000
+clickhouse,notEndsQuery,big_result,a,46290292,1262157,1500000
+clickhouse,notEndsQuery,big_result,se,73716541,1491051,1500000
+clickhouse,notEndsQuery,big_result,o,70846709,1380524,1500000
+clickhouse,notEndsQuery,big_result,ro,57026291,1486684,1500000
+clickhouse,notEndsQuery,big_result,mo,169304708,1497893,1500000
+clickhouse,notEndsQuery,big_result,y,52990958,1459810,1500000
+clickhouse,notEndsQuery,big_result,es,54676750,1478404,1500000
+clickhouse,notEndsQuery,big_result,as,54613084,1485589,1500000
+clickhouse,notEndsQuery,big_result,c,55469833,1492300,1500000
+clickhouse,notEndsQuery,small_result,ista,205152000,1498053,1500000
+clickhouse,notEndsQuery,small_result,ny,62834333,1498324,1500000
+clickhouse,notEndsQuery,small_result,xy,56152959,1499996,1500000
+clickhouse,notEndsQuery,small_result,aq,54764916,1498725,1500000
+clickhouse,notEndsQuery,small_result,ayw,55047959,1499995,1500000
+clickhouse,notEndsQuery,small_result,oc,125102376,1499696,1500000
+clickhouse,notEndsQuery,small_result,ralm,53094875,1499663,1500000
+clickhouse,notEndsQuery,small_result,ral,53828708,1498800,1500000
+clickhouse,notEndsQuery,small_result,neralm,54992791,1499944,1500000
+clickhouse,notEndsQuery,small_result,er,54365250,1471203,1500000
+clickhouse,notEndsQuery,small_result,aws,56059292,1499993,1500000
+clickhouse,notEndsQuery,empty_result,poc,53277458,1499993,1500000
+clickhouse,notEndsQuery,empty_result,qneralm,202889709,1500000,1500000
+clickhouse,notEndsQuery,empty_result,peer,60033667,1499993,1500000
+clickhouse,notEndsQuery,empty_result,pwer,53654833,1500000,1500000
+clickhouse,notEndsQuery,empty_result,wsee,53742834,1500000,1500000
+clickhouse,notEndsQuery,empty_result,vews,53815834,1500000,1500000
+clickhouse,notEndsQuery,empty_result,qews,53597959,1500000,1500000
+clickhouse,notEndsQuery,empty_result,xews,52547541,1500000,1500000
+clickhouse,notEndsQuery,empty_result,zews,256753125,1500000,1500000
+clickhouse,notEndsQuery,empty_result,asd,55383875,1500000,1500000
+clickhouse,notIncludesQuery,big_result/big_input, de la M,55270166,1499407,1500000
+clickhouse,notIncludesQuery,big_result/big_input,Public,54525459,1497649,1500000
+clickhouse,notIncludesQuery,big_result/big_input,Plaza,98630708,1499491,1500000
+clickhouse,notIncludesQuery,big_result/big_input,Argentina,52258416,1499895,1500000
+clickhouse,notIncludesQuery,big_result/big_input,anada de,54305042,1499781,1500000
+clickhouse,notIncludesQuery,big_result/big_input,ocky ,53591542,1499023,1500000
+clickhouse,notIncludesQuery,big_result/big_input,otel ,53194625,1494654,1500000
+clickhouse,notIncludesQuery,big_result/big_input,Hotel ,53444875,1495539,1500000
+clickhouse,notIncludesQuery,big_result/big_input,entral ,54114292,1499622,1500000
+clickhouse,notIncludesQuery,big_result/big_input,South,193551875,1496338,1500000
+clickhouse,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,63472625,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,ppirn,53480083,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,wnp,52876791,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,thabbaya Mediumw,52423209,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,Amuntr de,52393042,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,del o,52159500,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,anakp,52718000,1499991,1500000
+clickhouse,notIncludesQuery,empty_result,anakl,283136666,1499998,1500000
+clickhouse,notIncludesQuery,empty_result,amapz,52682792,1500000,1500000
+clickhouse,notIncludesQuery,empty_result,amanln,54390875,1500000,1500000
+clickhouse,notIncludesQuery,small_result/small_input,ix,53405708,1495363,1500000
+clickhouse,notIncludesQuery,small_result/small_input, Roc ,114343833,1499993,1500000
+clickhouse,notIncludesQuery,small_result/small_input,mn,54151458,1498982,1500000
+clickhouse,notIncludesQuery,small_result/small_input,n v,53824625,1499988,1500000
+clickhouse,notIncludesQuery,small_result/small_input,omo ,53205916,1499884,1500000
+clickhouse,notIncludesQuery,small_result/small_input,mln,54445625,1499999,1500000
+clickhouse,notIncludesQuery,small_result/small_input,klk,53473625,1499993,1500000
+clickhouse,notIncludesQuery,small_result/small_input,Wk,54809458,1499999,1500000
+clickhouse,notIncludesQuery,small_result/small_input,zz,54678042,1498947,1500000
+clickhouse,notIncludesQuery,small_result/small_input,kz,53497584,1499889,1500000
+clickhouse,notIncludesQuery,small_result/small_input,pz,52189167,1499977,1500000
+clickhouse,notIncludesQuery,small_result/small_input,knk,225402500,1499997,1500000
+clickhouse,notIncludesQuery,small_result/small_input,klk,56984292,1499993,1500000
+clickhouse,notIncludesQuery,small_result/big_input,wne Pla,54180667,1499933,1500000
+clickhouse,notIncludesQuery,small_result/big_input, Yaw,54167333,1499990,1500000
+clickhouse,notIncludesQuery,small_result/big_input,shkhara,52978500,1499997,1500000
+clickhouse,notIncludesQuery,small_result/big_input,angounel,54153208,1499999,1500000
+clickhouse,notIncludesQuery,small_result/big_input,y de les ,53704709,1499988,1500000
+clickhouse,notIncludesQuery,small_result/big_input,sera de la ,229469584,1499999,1500000
+clickhouse,notIncludesQuery,small_result/big_input,rra de la Cr,51844791,1499997,1500000
+clickhouse,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,52188708,1499999,1500000
+clickhouse,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,52956958,1499999,1500000
+clickhouse,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,117006417,1499996,1500000
+clickhouse,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,52856292,1499999,1500000
+clickhouse,notIncludesQuery,big_result/small_input,de,50610584,1413980,1500000
+clickhouse,notIncludesQuery,big_result/small_input, de ,52638333,1471563,1500000
+clickhouse,notIncludesQuery,big_result/small_input,-ye,79449250,1490703,1500000
+clickhouse,notIncludesQuery,big_result/small_input,Va,54438625,1489707,1500000
+clickhouse,notIncludesQuery,big_result/small_input,a C,54723708,1483182,1500000
+clickhouse,notIncludesQuery,big_result/small_input,st,55251917,1425101,1500000
+clickhouse,notIncludesQuery,big_result/small_input,Gr,187350917,1476970,1500000
+clickhouse,notIncludesQuery,big_result/small_input,Roc,53525625,1488414,1500000
+clickhouse,notIncludesQuery,big_result/small_input,am,52434042,1417473,1500000
+clickhouse,notIncludesQuery,big_result/small_input,ill,52924958,1460498,1500000
+clickhouse,notIncludesQuery,big_result/small_input,Park,52862625,1485755,1500000
+clickhouse,includesQuery,big_result/big_input, de la M,10038292,593,1500000
+clickhouse,includesQuery,big_result/big_input,Public,8214792,2351,1500000
+clickhouse,includesQuery,big_result/big_input,Plaza,9314084,509,1500000
+clickhouse,includesQuery,big_result/big_input,Argentina,8790042,105,1500000
+clickhouse,includesQuery,big_result/big_input,anada de,9961542,219,1500000
+clickhouse,includesQuery,big_result/big_input,ocky ,9055750,977,1500000
+clickhouse,includesQuery,big_result/big_input,otel ,8902167,5346,1500000
+clickhouse,includesQuery,big_result/big_input,Hotel ,11665500,4461,1500000
+clickhouse,includesQuery,big_result/big_input,entral ,8982042,378,1500000
+clickhouse,includesQuery,big_result/big_input,South,9962042,3662,1500000
+clickhouse,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,7299583,0,1500000
+clickhouse,includesQuery,empty_result,ppirn,7740958,0,1500000
+clickhouse,includesQuery,empty_result,wnp,9259166,0,1500000
+clickhouse,includesQuery,empty_result,thabbaya Mediumw,7095125,0,1500000
+clickhouse,includesQuery,empty_result,Amuntr de,7403750,0,1500000
+clickhouse,includesQuery,empty_result,del o,7797500,0,1500000
+clickhouse,includesQuery,empty_result,anakp,7942709,9,1500000
+clickhouse,includesQuery,empty_result,anakl,7865875,2,1500000
+clickhouse,includesQuery,empty_result,amapz,8277084,0,1500000
+clickhouse,includesQuery,empty_result,amanln,7947875,0,1500000
+clickhouse,includesQuery,small_result/small_input,ix,13476459,4637,1500000
+clickhouse,includesQuery,small_result/small_input, Roc ,8426125,7,1500000
+clickhouse,includesQuery,small_result/small_input,mn,10290625,1018,1500000
+clickhouse,includesQuery,small_result/small_input,n v,11117625,12,1500000
+clickhouse,includesQuery,small_result/small_input,omo ,9097959,116,1500000
+clickhouse,includesQuery,small_result/small_input,mln,10667917,1,1500000
+clickhouse,includesQuery,small_result/small_input,klk,9537416,7,1500000
+clickhouse,includesQuery,small_result/small_input,Wk,9311083,1,1500000
+clickhouse,includesQuery,small_result/small_input,zz,12275458,1053,1500000
+clickhouse,includesQuery,small_result/small_input,kz,11257459,111,1500000
+clickhouse,includesQuery,small_result/small_input,pz,9721125,23,1500000
+clickhouse,includesQuery,small_result/small_input,knk,9360416,3,1500000
+clickhouse,includesQuery,small_result/small_input,klk,9690875,7,1500000
+clickhouse,includesQuery,small_result/big_input,wne Pla,8024083,67,1500000
+clickhouse,includesQuery,small_result/big_input, Yaw,7911083,10,1500000
+clickhouse,includesQuery,small_result/big_input,shkhara,8218250,3,1500000
+clickhouse,includesQuery,small_result/big_input,angounel,8231416,1,1500000
+clickhouse,includesQuery,small_result/big_input,y de les ,7400750,12,1500000
+clickhouse,includesQuery,small_result/big_input,sera de la ,7830792,1,1500000
+clickhouse,includesQuery,small_result/big_input,rra de la Cr,7769792,3,1500000
+clickhouse,includesQuery,small_result/big_input,epentance Creek Public Schoo,7242666,1,1500000
+clickhouse,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,7510042,1,1500000
+clickhouse,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,7334000,4,1500000
+clickhouse,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,7803833,1,1500000
+clickhouse,includesQuery,big_result/small_input,de,11658250,86020,1500000
+clickhouse,includesQuery,big_result/small_input, de ,10771166,28437,1500000
+clickhouse,includesQuery,big_result/small_input,-ye,9440209,9297,1500000
+clickhouse,includesQuery,big_result/small_input,Va,11231334,10293,1500000
+clickhouse,includesQuery,big_result/small_input,a C,13419541,16818,1500000
+clickhouse,includesQuery,big_result/small_input,st,11372166,74899,1500000
+clickhouse,includesQuery,big_result/small_input,Gr,10376042,23030,1500000
+clickhouse,includesQuery,big_result/small_input,Roc,11529000,11586,1500000
+clickhouse,includesQuery,big_result/small_input,am,12900791,82527,1500000
+clickhouse,includesQuery,big_result/small_input,ill,13912625,39502,1500000
+clickhouse,includesQuery,big_result/small_input,Park,10214500,14245,1500000

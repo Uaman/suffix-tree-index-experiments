@@ -1,0 +1,273 @@
+suffixTree,startsWithQuery,big_result,T,31443209,38498,1000000
+suffixTree,startsWithQuery,big_result,An,3063916,5203,1000000
+suffixTree,startsWithQuery,big_result,Ca,21717417,34709,1000000
+suffixTree,startsWithQuery,big_result,Da,8406917,12606,1000000
+suffixTree,startsWithQuery,big_result,De,5075333,9750,1000000
+suffixTree,startsWithQuery,big_result,Na,3094958,7236,1000000
+suffixTree,startsWithQuery,big_result,Mas,434667,1177,1000000
+suffixTree,startsWithQuery,big_result,Ka,7530625,17821,1000000
+suffixTree,startsWithQuery,big_result,Mc,402458,899,1000000
+suffixTree,startsWithQuery,big_result,W,10237792,21572,1000000
+suffixTree,startsWithQuery,big_result,Ro,3198250,6981,1000000
+suffixTree,startsWithQuery,big_result,Sa,10217792,23777,1000000
+suffixTree,startsWithQuery,small_result,Dc,9708,1,1000000
+suffixTree,startsWithQuery,small_result,pr,4417,11,1000000
+suffixTree,startsWithQuery,small_result,Mn,13125,28,1000000
+suffixTree,startsWithQuery,small_result,na,1834,1,1000000
+suffixTree,startsWithQuery,small_result,ka,7084,20,1000000
+suffixTree,startsWithQuery,small_result,Sant ,9042,27,1000000
+suffixTree,startsWithQuery,small_result,Mira ,13458,20,1000000
+suffixTree,startsWithQuery,small_result,Wa ,6750,4,1000000
+suffixTree,startsWithQuery,small_result,W ,8541,21,1000000
+suffixTree,startsWithQuery,small_result,St R,6625,11,1000000
+suffixTree,startsWithQuery,small_result,Sant Miquel,3958,4,1000000
+suffixTree,startsWithQuery,empty_result,Ca ,54250,0,1000000
+suffixTree,startsWithQuery,empty_result,kp,2292,0,1000000
+suffixTree,startsWithQuery,empty_result,proa,1833,0,1000000
+suffixTree,startsWithQuery,empty_result, ,875,0,1000000
+suffixTree,startsWithQuery,empty_result,Aa ,2208,0,1000000
+suffixTree,startsWithQuery,empty_result,vb,1500,0,1000000
+suffixTree,startsWithQuery,empty_result,Sant Miquel de  ,4083,0,1000000
+suffixTree,startsWithQuery,empty_result,Sant Miel,3042,0,1000000
+suffixTree,startsWithQuery,empty_result,lap,1917,0,1000000
+suffixTree,startsWithQuery,empty_result,wad,2292,0,1000000
+suffixTree,searchQuery,small_input,Travenc,15959,1,1000000
+suffixTree,searchQuery,small_input,Tolse,4000,1,1000000
+suffixTree,searchQuery,small_input,La Trava,5167,2,1000000
+suffixTree,searchQuery,small_input,Artenu,4958,2,1000000
+suffixTree,searchQuery,small_input,Prats,4500,1,1000000
+suffixTree,searchQuery,small_input,Llorts,3166,1,1000000
+suffixTree,searchQuery,small_input,Coll Pa,4416,2,1000000
+suffixTree,searchQuery,small_input,Lloset,17166,1,1000000
+suffixTree,searchQuery,small_input,Aygal,3792,2,1000000
+suffixTree,searchQuery,small_input,Wafd,3542,1,1000000
+suffixTree,searchQuery,small_input,Tut,2625,2,1000000
+suffixTree,searchQuery,small_input,Padah,3959,6,1000000
+suffixTree,searchQuery,small_input,Kim,3500,2,1000000
+suffixTree,searchQuery,empty_result,olse,2083,0,1000000
+suffixTree,searchQuery,empty_result,Cami del Pla,5375,0,1000000
+suffixTree,searchQuery,empty_result,Trava,3167,1,1000000
+suffixTree,searchQuery,empty_result,arimat Umm al Muwa,2708,0,1000000
+suffixTree,searchQuery,empty_result,Tu,1459,0,1000000
+suffixTree,searchQuery,empty_result,Muhammad Bin Khalid,6416,0,1000000
+suffixTree,searchQuery,empty_result,Forat del Riu,6458,0,1000000
+suffixTree,searchQuery,empty_result,Shaykh Zayid lith,5709,0,1000000
+suffixTree,searchQuery,empty_result,Shaykh Khalid Bin Sultan al Qassimi Squar,5125,0,1000000
+suffixTree,searchQuery,empty_result,Coll ,2417,0,1000000
+suffixTree,searchQuery,empty_result,Madrasat Muhammad Bin Khalid ath Thanawiya,6291,0,1000000
+suffixTree,searchQuery,big_input,Cami del Pla de les Pedres,4875,1,1000000
+suffixTree,searchQuery,big_input,Estany dels Meners de la Coma,6500,1,1000000
+suffixTree,searchQuery,big_input,Cresta del Forat dels Malhiverns,7208,1,1000000
+suffixTree,searchQuery,big_input,Kharimat Umm al Muwayghir,4375,1,1000000
+suffixTree,searchQuery,big_input,Madrasat Muhammad Bin Khalid ath Thanawiyah,4625,1,1000000
+suffixTree,searchQuery,big_input,Markaz ash Shaykh Zayid lith Thaqafah al Bakistaniyah,7125,1,1000000
+suffixTree,searchQuery,big_input,Forat del Riu dels Clots de Massat,3958,1,1000000
+suffixTree,searchQuery,big_input,Shaykh Khalid Bin Sultan al Qassimi Square,15209,1,1000000
+suffixTree,searchQuery,big_input,Le Royal Meridien Beach Resort Spa Dubai,5708,1,1000000
+suffixTree,searchQuery,big_input,Qaryah-ye Haji Muhammad Afzal Khan,8250,1,1000000
+suffixTree,searchQuery,big_input,Darya-ye Khushk-e Khinjak Manah,8792,1,1000000
+suffixTree,endsWithQuery,big_result,an,586584,13058,1000000
+suffixTree,endsWithQuery,big_result,a,5358458,172030,1000000
+suffixTree,endsWithQuery,big_result,se,174125,4655,1000000
+suffixTree,endsWithQuery,big_result,o,2513833,77795,1000000
+suffixTree,endsWithQuery,big_result,ro,392292,8897,1000000
+suffixTree,endsWithQuery,big_result,mo,49250,1003,1000000
+suffixTree,endsWithQuery,big_result,y,1143208,29726,1000000
+suffixTree,endsWithQuery,big_result,es,554875,12836,1000000
+suffixTree,endsWithQuery,big_result,as,337500,11067,1000000
+suffixTree,endsWithQuery,big_result,c,178584,6012,1000000
+suffixTree,endsWithQuery,small_result,ista,68042,1844,1000000
+suffixTree,endsWithQuery,small_result,ny,45083,1306,1000000
+suffixTree,endsWithQuery,small_result,xy,2875,4,1000000
+suffixTree,endsWithQuery,small_result,aq,48333,1004,1000000
+suffixTree,endsWithQuery,small_result,ayw,2875,5,1000000
+suffixTree,endsWithQuery,small_result,oc,10250,222,1000000
+suffixTree,endsWithQuery,small_result,ralm,14417,337,1000000
+suffixTree,endsWithQuery,small_result,ral,34042,901,1000000
+suffixTree,endsWithQuery,small_result,neralm,5875,56,1000000
+suffixTree,endsWithQuery,small_result,er,628625,18422,1000000
+suffixTree,endsWithQuery,small_result,aws,3250,4,1000000
+suffixTree,endsWithQuery,empty_result,poc,3750,5,1000000
+suffixTree,endsWithQuery,empty_result,qneralm,2708,0,1000000
+suffixTree,endsWithQuery,empty_result,peer,3500,2,1000000
+suffixTree,endsWithQuery,empty_result,pwer,2416,0,1000000
+suffixTree,endsWithQuery,empty_result,wsee,2750,0,1000000
+suffixTree,endsWithQuery,empty_result,vews,2375,0,1000000
+suffixTree,endsWithQuery,empty_result,qews,1166,0,1000000
+suffixTree,endsWithQuery,empty_result,xews,1791,0,1000000
+suffixTree,endsWithQuery,empty_result,zews,2917,0,1000000
+suffixTree,endsWithQuery,empty_result,asd,1584,0,1000000
+suffixTree,notStartsQuery,big_result,T,44865042,961502,1000000
+suffixTree,notStartsQuery,big_result,An,16341833,994797,1000000
+suffixTree,notStartsQuery,big_result,Ca,29113875,965291,1000000
+suffixTree,notStartsQuery,big_result,Da,101373917,987394,1000000
+suffixTree,notStartsQuery,big_result,De,17101292,990250,1000000
+suffixTree,notStartsQuery,big_result,Na,16079250,992764,1000000
+suffixTree,notStartsQuery,big_result,Mas,13073667,998823,1000000
+suffixTree,notStartsQuery,big_result,Ka,20737458,982179,1000000
+suffixTree,notStartsQuery,big_result,Mc,9656167,999101,1000000
+suffixTree,notStartsQuery,big_result,W,106650292,978428,1000000
+suffixTree,notStartsQuery,big_result,Ro,14702458,993019,1000000
+suffixTree,notStartsQuery,big_result,Sa,22838959,976223,1000000
+suffixTree,notStartsQuery,small_result,Dc,52523250,999999,1000000
+suffixTree,notStartsQuery,small_result,pr,11919541,999989,1000000
+suffixTree,notStartsQuery,small_result,Mn,12800750,999972,1000000
+suffixTree,notStartsQuery,small_result,na,45571750,999999,1000000
+suffixTree,notStartsQuery,small_result,ka,10436000,999980,1000000
+suffixTree,notStartsQuery,small_result,Sant ,11768167,999973,1000000
+suffixTree,notStartsQuery,small_result,Mira ,45798792,999980,1000000
+suffixTree,notStartsQuery,small_result,Wa ,10835250,999996,1000000
+suffixTree,notStartsQuery,small_result,W ,84373000,999979,1000000
+suffixTree,notStartsQuery,small_result,St R,511378208,999989,1000000
+suffixTree,notStartsQuery,small_result,Sant Miquel,12360417,999996,1000000
+suffixTree,notStartsQuery,empty_result,Ca ,17976042,1000000,1000000
+suffixTree,notStartsQuery,empty_result,kp,11916416,1000000,1000000
+suffixTree,notStartsQuery,empty_result,proa,9720000,1000000,1000000
+suffixTree,notStartsQuery,empty_result, ,9875916,1000000,1000000
+suffixTree,notStartsQuery,empty_result,Aa ,11349500,1000000,1000000
+suffixTree,notStartsQuery,empty_result,vb,8647875,1000000,1000000
+suffixTree,notStartsQuery,empty_result,Sant Miquel de  ,10668125,1000000,1000000
+suffixTree,notStartsQuery,empty_result,Sant Miel,10347958,1000000,1000000
+suffixTree,notStartsQuery,empty_result,lap,8380042,1000000,1000000
+suffixTree,notStartsQuery,empty_result,wad,10467625,1000000,1000000
+suffixTree,notEndsQuery,big_result,an,24366167,986942,1000000
+suffixTree,notEndsQuery,big_result,a,19405084,827970,1000000
+suffixTree,notEndsQuery,big_result,se,144143250,995345,1000000
+suffixTree,notEndsQuery,big_result,o,15515209,922205,1000000
+suffixTree,notEndsQuery,big_result,ro,12576291,991103,1000000
+suffixTree,notEndsQuery,big_result,mo,10309291,998997,1000000
+suffixTree,notEndsQuery,big_result,y,85240042,970274,1000000
+suffixTree,notEndsQuery,big_result,es,12428250,987164,1000000
+suffixTree,notEndsQuery,big_result,as,50781125,988933,1000000
+suffixTree,notEndsQuery,big_result,c,13646333,993988,1000000
+suffixTree,notEndsQuery,small_result,ista,11087417,998156,1000000
+suffixTree,notEndsQuery,small_result,ny,41673584,998694,1000000
+suffixTree,notEndsQuery,small_result,xy,11929166,999996,1000000
+suffixTree,notEndsQuery,small_result,aq,12291250,998996,1000000
+suffixTree,notEndsQuery,small_result,ayw,58242583,999995,1000000
+suffixTree,notEndsQuery,small_result,oc,646770834,999778,1000000
+suffixTree,notEndsQuery,small_result,ralm,12555334,999663,1000000
+suffixTree,notEndsQuery,small_result,ral,12582000,999099,1000000
+suffixTree,notEndsQuery,small_result,neralm,12551333,999944,1000000
+suffixTree,notEndsQuery,small_result,er,14113542,981578,1000000
+suffixTree,notEndsQuery,small_result,aws,10397375,999996,1000000
+suffixTree,notEndsQuery,empty_result,poc,9545916,999995,1000000
+suffixTree,notEndsQuery,empty_result,qneralm,14574125,1000000,1000000
+suffixTree,notEndsQuery,empty_result,peer,11009708,999998,1000000
+suffixTree,notEndsQuery,empty_result,pwer,10451125,1000000,1000000
+suffixTree,notEndsQuery,empty_result,wsee,8857792,1000000,1000000
+suffixTree,notEndsQuery,empty_result,vews,9208167,1000000,1000000
+suffixTree,notEndsQuery,empty_result,qews,12173042,1000000,1000000
+suffixTree,notEndsQuery,empty_result,xews,12214708,1000000,1000000
+suffixTree,notEndsQuery,empty_result,zews,133147833,1000000,1000000
+suffixTree,notEndsQuery,empty_result,asd,10418625,1000000,1000000
+suffixTree,notIncludesQuery,big_result/big_input, de la M,28064292,999543,1000000
+suffixTree,notIncludesQuery,big_result/big_input,Public,14568708,997661,1000000
+suffixTree,notIncludesQuery,big_result/big_input,Plaza,84505708,999643,1000000
+suffixTree,notIncludesQuery,big_result/big_input,Argentina,10517792,999899,1000000
+suffixTree,notIncludesQuery,big_result/big_input,anada de,10524625,999837,1000000
+suffixTree,notIncludesQuery,big_result/big_input,ocky ,46234458,999478,1000000
+suffixTree,notIncludesQuery,big_result/big_input,otel ,13810375,996411,1000000
+suffixTree,notIncludesQuery,big_result/big_input,Hotel ,50495000,997064,1000000
+suffixTree,notIncludesQuery,big_result/big_input,entral ,10787833,999649,1000000
+suffixTree,notIncludesQuery,big_result/big_input,South,13341959,998050,1000000
+suffixTree,notIncludesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,54110208,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,ppirn,10402583,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,wnp,553002501,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,thabbaya Mediumw,11903750,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,Amuntr de,12105208,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,del o,11949000,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,anakp,16303333,999992,1000000
+suffixTree,notIncludesQuery,empty_result,anakl,10221708,999998,1000000
+suffixTree,notIncludesQuery,empty_result,amapz,12092667,1000000,1000000
+suffixTree,notIncludesQuery,empty_result,amanln,9685375,1000000,1000000
+suffixTree,notIncludesQuery,small_result/small_input,ix,14544458,997023,1000000
+suffixTree,notIncludesQuery,small_result/small_input, Roc ,11672042,999993,1000000
+suffixTree,notIncludesQuery,small_result/small_input,mn,10744500,999120,1000000
+suffixTree,notIncludesQuery,small_result/small_input,n v,11888500,999988,1000000
+suffixTree,notIncludesQuery,small_result/small_input,omo ,13449792,999930,1000000
+suffixTree,notIncludesQuery,small_result/small_input,mln,134086917,999999,1000000
+suffixTree,notIncludesQuery,small_result/small_input,klk,11886750,999993,1000000
+suffixTree,notIncludesQuery,small_result/small_input,Wk,11879333,999999,1000000
+suffixTree,notIncludesQuery,small_result/small_input,zz,12094458,999672,1000000
+suffixTree,notIncludesQuery,small_result/small_input,kz,11769209,999898,1000000
+suffixTree,notIncludesQuery,small_result/small_input,pz,88223584,999985,1000000
+suffixTree,notIncludesQuery,small_result/small_input,knk,11993208,999997,1000000
+suffixTree,notIncludesQuery,small_result/small_input,klk,50614042,999993,1000000
+suffixTree,notIncludesQuery,small_result/big_input,wne Pla,13214000,999958,1000000
+suffixTree,notIncludesQuery,small_result/big_input, Yaw,11944583,999992,1000000
+suffixTree,notIncludesQuery,small_result/big_input,shkhara,48265917,999997,1000000
+suffixTree,notIncludesQuery,small_result/big_input,angounel,14051166,999999,1000000
+suffixTree,notIncludesQuery,small_result/big_input,y de les ,31279584,999988,1000000
+suffixTree,notIncludesQuery,small_result/big_input,sera de la ,51263375,999999,1000000
+suffixTree,notIncludesQuery,small_result/big_input,rra de la Cr,12087709,999997,1000000
+suffixTree,notIncludesQuery,small_result/big_input,epentance Creek Public Schoo,539353417,999999,1000000
+suffixTree,notIncludesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,13116875,999999,1000000
+suffixTree,notIncludesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,13262208,999996,1000000
+suffixTree,notIncludesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,13107583,999999,1000000
+suffixTree,notIncludesQuery,big_result/small_input,de,39099542,943232,1000000
+suffixTree,notIncludesQuery,big_result/small_input, de ,25405875,979653,1000000
+suffixTree,notIncludesQuery,big_result/small_input,-ye,19989750,990720,1000000
+suffixTree,notIncludesQuery,big_result/small_input,Va,16729625,993044,1000000
+suffixTree,notIncludesQuery,big_result/small_input,a C,18637000,987103,1000000
+suffixTree,notIncludesQuery,big_result/small_input,st,40769500,945105,1000000
+suffixTree,notIncludesQuery,big_result/small_input,Gr,109746416,982033,1000000
+suffixTree,notIncludesQuery,big_result/small_input,Roc,15231625,992821,1000000
+suffixTree,notIncludesQuery,big_result/small_input,am,37525708,939724,1000000
+suffixTree,notIncludesQuery,big_result/small_input,ill,21409083,971802,1000000
+suffixTree,notIncludesQuery,big_result/small_input,Park,14111625,987354,1000000
+suffixTree,includesQuery,big_result/big_input, de la M,172250,457,1000000
+suffixTree,includesQuery,big_result/big_input,Public,359000,2339,1000000
+suffixTree,includesQuery,big_result/big_input,Plaza,143375,357,1000000
+suffixTree,includesQuery,big_result/big_input,Argentina,18584,101,1000000
+suffixTree,includesQuery,big_result/big_input,anada de,85542,163,1000000
+suffixTree,includesQuery,big_result/big_input,ocky ,155084,522,1000000
+suffixTree,includesQuery,big_result/big_input,otel ,1742542,3589,1000000
+suffixTree,includesQuery,big_result/big_input,Hotel ,1222708,2936,1000000
+suffixTree,includesQuery,big_result/big_input,entral ,126375,351,1000000
+suffixTree,includesQuery,big_result/big_input,South,717916,1950,1000000
+suffixTree,includesQuery,empty_result,zat e reja ;New Cemetery ; of Xhafelln,4083,0,1000000
+suffixTree,includesQuery,empty_result,ppirn,1959,0,1000000
+suffixTree,includesQuery,empty_result,wnp,1625,0,1000000
+suffixTree,includesQuery,empty_result,thabbaya Mediumw,2417,0,1000000
+suffixTree,includesQuery,empty_result,Amuntr de,2542,0,1000000
+suffixTree,includesQuery,empty_result,del o,2208,0,1000000
+suffixTree,includesQuery,empty_result,anakp,3834,8,1000000
+suffixTree,includesQuery,empty_result,anakl,1833,2,1000000
+suffixTree,includesQuery,empty_result,amapz,1791,0,1000000
+suffixTree,includesQuery,empty_result,amanln,1958,0,1000000
+suffixTree,includesQuery,small_result/small_input,ix,941083,2977,1000000
+suffixTree,includesQuery,small_result/small_input, Roc ,4625,7,1000000
+suffixTree,includesQuery,small_result/small_input,mn,296542,880,1000000
+suffixTree,includesQuery,small_result/small_input,n v,6458,12,1000000
+suffixTree,includesQuery,small_result/small_input,omo ,30791,70,1000000
+suffixTree,includesQuery,small_result/small_input,mln,1709,1,1000000
+suffixTree,includesQuery,small_result/small_input,klk,3167,7,1000000
+suffixTree,includesQuery,small_result/small_input,Wk,1125,1,1000000
+suffixTree,includesQuery,small_result/small_input,zz,130084,328,1000000
+suffixTree,includesQuery,small_result/small_input,kz,31083,102,1000000
+suffixTree,includesQuery,small_result/small_input,pz,6417,15,1000000
+suffixTree,includesQuery,small_result/small_input,knk,1875,3,1000000
+suffixTree,includesQuery,small_result/small_input,klk,1625,7,1000000
+suffixTree,includesQuery,small_result/big_input,wne Pla,17167,42,1000000
+suffixTree,includesQuery,small_result/big_input, Yaw,4333,8,1000000
+suffixTree,includesQuery,small_result/big_input,shkhara,4334,3,1000000
+suffixTree,includesQuery,small_result/big_input,angounel,3459,1,1000000
+suffixTree,includesQuery,small_result/big_input,y de les ,5417,12,1000000
+suffixTree,includesQuery,small_result/big_input,sera de la ,4667,1,1000000
+suffixTree,includesQuery,small_result/big_input,rra de la Cr,6375,3,1000000
+suffixTree,includesQuery,small_result/big_input,epentance Creek Public Schoo,3458,1,1000000
+suffixTree,includesQuery,small_result/big_input,rranc de la Solana del Pas de la Ca,3375,1,1000000
+suffixTree,includesQuery,small_result/big_input,nsmitter ( 1170 kHz); Tow,5916,4,1000000
+suffixTree,includesQuery,small_result/big_input,zat e reja ;New Cemetery ; of Xhafell,1958,1,1000000
+suffixTree,includesQuery,big_result/small_input,de,25078709,56768,1000000
+suffixTree,includesQuery,big_result/small_input, de ,78717333,20347,1000000
+suffixTree,includesQuery,big_result/small_input,-ye,5023167,9280,1000000
+suffixTree,includesQuery,big_result/small_input,Va,3058542,6956,1000000
+suffixTree,includesQuery,big_result/small_input,a C,5536416,12897,1000000
+suffixTree,includesQuery,big_result/small_input,st,26691500,54895,1000000
+suffixTree,includesQuery,big_result/small_input,Gr,7485250,17967,1000000
+suffixTree,includesQuery,big_result/small_input,Roc,1788084,7179,1000000
+suffixTree,includesQuery,big_result/small_input,am,21987000,60276,1000000
+suffixTree,includesQuery,big_result/small_input,ill,7044750,28198,1000000
+suffixTree,includesQuery,big_result/small_input,Park,1459750,12646,1000000
