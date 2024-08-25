@@ -28,7 +28,7 @@ mvn test -DindexType=$indexType -DindexSize=$indexSize
 	- POSTGRES_TREE
 	- CLICKHOUSE_TREE
 
-* Example:
+# Example:
 
 ```bash
 mvn test -DindexType=SUFFIX_TREE -DindexSize=50000
