@@ -13,7 +13,7 @@ This project is designed to test the performance of string search operations usi
 	* Java: Version 11
 	* Apache Maven: Version 3.9
 
-To launch the project please check `src/main/resources/config.properties.template` to configure the credentials for the mentioned database envirovement. (the credentials should be in config.properties file)
+To launch the project please check `src/main/resources/config.properties.template` to configure the credentials for the mentioned database envirovement. (the credentials should be in `config.properties` file)
 
 ## Possible commands to launch the project:
 
