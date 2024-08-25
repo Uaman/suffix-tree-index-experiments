@@ -1,6 +1,6 @@
 # suffix-tree-index-experiments
 
-This project is designed to test the performance of string search operations using a suffix tree index and various databases, including Elasticsearch, PostgreSQL, MySQL, and ClickHouse. The experiment environment is implemented using the JUnit Jupiter engine.
+This project is designed to test the performance of string search operations using a suffix tree index based on this implementation https://github.com/abahgat/suffixtree. It also tests various databases, including Elasticsearch, PostgreSQL, MySQL, and ClickHouse. The experiment environment is implemented using the JUnit Jupiter engine.
 
 ## Project Structure
 
